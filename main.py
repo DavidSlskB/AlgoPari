@@ -1,3 +1,5 @@
+from model.match import Match
+
 def main():
     pass
 
