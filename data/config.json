@@ -1,0 +1,23 @@
+{
+  "championships": [
+    "L1 Uber Eats",
+    "Premier League",
+    "LaLiga",
+    "Serie A",
+    "Liga Portugal",
+    "Bundesliga 1"
+  ],
+  "fdj_urls": {
+    "L1 Uber Eats": "https://www.pointdevente.parionssport.fdj.fr/paris-ouverts/football/l1-uber-eats/45452",
+    "Premier League": "https://www.pointdevente.parionssport.fdj.fr/paris-ouverts/football/premier-league/45457",
+    "LaLiga": "https://www.pointdevente.parionssport.fdj.fr/paris-ouverts/football/laliga/45456",
+    "Serie A": "https://www.pointdevente.parionssport.fdj.fr/paris-ouverts/football/serie-a/45402",
+    "Liga Portugal": "https://www.pointdevente.parionssport.fdj.fr/paris-ouverts/football/liga-portugal/45432",
+    "Bundesliga 1": "https://www.pointdevente.parionssport.fdj.fr/paris-ouverts/football/bundesliga-1/45399"
+  },
+  "default_parameters": {
+    "delta_time_hours": 3,
+    "result_wait_delay_minutes": 180,
+    "output_dir": "results/"
+  }
+}
