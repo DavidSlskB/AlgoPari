@@ -9,7 +9,7 @@ def generate_configurations():
     Y_values = [1.0, 1.1, 1.2, 1.3, 1.4, 1.5]
 
     # Cote max
-    Z_values = [1.2, 1.3, 1.4, 1.5, 1.6, 1.7]
+    Z_values = [1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9]
 
     configs = []
 
