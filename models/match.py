@@ -9,4 +9,4 @@ class Match:
         self.equipe = equipe    # Lille
 
     def __str__(self):
-        return f"Match - {self.ligue}, {self.titre}, {self.date} {self.heure} : {self.un_n_deux} - {self.cote} - {self.equipe}"
+        return f"Match - {self.ligue}, {self.titre}, {self.date} {self.heure} : {self.choix} - {self.cote} - {self.equipe}"

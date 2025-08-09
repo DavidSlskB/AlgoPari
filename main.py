@@ -1,13 +1,6 @@
-from core.config import generate_configurations
-from core.simulator import run_simulation
-
-
-def main():
-    configs = generate_configurations()
-
-    for config in configs[:3]:  # pour tester uniquement 3 combinaisons
-        X, P, Y, Z = config
-        run_simulation(X, P, Y, Z)
+from scraping.fdj_scraper import get_fdj_matches
 
 if __name__ == "__main__":
-    main()
+    matches = get_fdj_matches(min_odds=1.2, max_odds=1.5)
+    for m in matches:
+        print(m)
