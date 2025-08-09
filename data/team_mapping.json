@@ -41,7 +41,7 @@
     "nottingham f.": "nott'ham forest",
     "man. city": "manchester city",
     "sunderland": "sunderland",
-    "leeds": "leeds"
+    "leeds utd": "leeds"
   },
   "LaLiga": {
     "alaves": "alavés",
@@ -82,29 +82,29 @@
     "inter milan": "inter",
     "naples": "napoli",
     "udinese": "udinese",
-    "come": "come",
+    "como 1907": "come",
     "parme": "parme",
-    "pise": "pise"
+    "ac pisa 1909": "pise"
   },
   "Liga Portugal": {
     "moreirense": "moreirense",
-    "rio ave": "rio ave",
+    "!rio ave": "rio ave",
     "cf estrela": "estrela",
-    "casa pia": "casa pia",
+    "!casa pia": "casa pia",
     "fc porto": "porto",
     "arouca": "arouca",
     "gil vicente": "gil vicente fc",
     "estoril praia": "estoril",
-    "sporting": "sporting cp",
-    "benfica": "benfica",
+    "!sporting": "sporting cp",
+    "!benfica": "benfica",
     "braga": "braga",
     "guimaraes": "vitória",
     "famalicao": "famalicão",
-    "AVS Futebol SAD": "AVS Futebol SAD",
-    "Futebol Clube de Alverca": "Futebol Clube de Alverca",
-    "Clube Desportivo Nacional": "Clube Desportivo Nacional",
+    "avs futebol": "AVS Futebol SAD",
+    "alverca fc": "Futebol Clube de Alverca",
+    "cd nacional": "Clube Desportivo Nacional",
     "santa clara": "santa clara",
-    "tondela": "tondela"
+    "cd tondela": "tondela"
   },
   "Bundesliga 1": {
     "fc heidenheim": "heidenheim",
@@ -124,6 +124,6 @@
     "augsburg": "augsburg",
     "stuttgart": "stuttgart",
     "hambourg": "hambourg",
-    "sankt pauli": "sankt pauli"
+    "st pauli": "sankt pauli"
   }
 }

@@ -1,6 +1,7 @@
-from scraping.fdj_scraper import get_fdj_matches
+from scraping.fbref_scraper import get_fbref_result
 
-if __name__ == "__main__":
-    matches = get_fdj_matches(min_odds=1.2, max_odds=1.5)
-    for m in matches:
-        print(m)
+date = "01/08"
+title = "schalke 04-Herta BSC"
+
+score, result = get_fbref_result(date, title)
+print(f"Score : {score}, Résultat : {result}")
