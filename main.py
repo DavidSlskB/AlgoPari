@@ -1,7 +1,10 @@
-from scraping.fbref_scraper import get_fbref_result
+from core.config import generate_configurations
+from core.simulator import run_simulation
 
-date = "01/08"
-title = "schalke 04-Herta BSC"
+def main():
+    configs = generate_configurations()
+    for X, P, Y, Z in configs:
+        run_simulation(X, P, Y, Z)
 
-score, result = get_fbref_result(date, title)
-print(f"Score : {score}, Résultat : {result}")
+if __name__ == "__main__":
+    main()
