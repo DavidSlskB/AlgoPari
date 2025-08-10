@@ -2,14 +2,14 @@ def generate_configurations():
     # Cagnotte initiale
     X_values = [100]
 
-    # Mise par pari
+    # Mise par pari (montant fixe ici, mais on pourrait tester % de bankroll)
     P_values = [1]
 
-    # Cote min
-    Y_values = [1.0, 1.1, 1.2, 1.3, 1.4, 1.5]
+    # Cote min à tester (1.15 pour éviter les cotes ultra-basses)
+    Y_values = [round(x, 2) for x in [1.15, 1.20, 1.25, 1.30, 1.35, 1.40]]
 
-    # Cote max
-    Z_values = [1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9]
+    # Cote max à tester (jusqu'à 1.80 pour rester sur favoris solides)
+    Z_values = [round(x, 2) for x in [1.35, 1.40, 1.45, 1.50, 1.55, 1.60, 1.65, 1.70, 1.75, 1.80]]
 
     configs = []
 
@@ -17,7 +17,8 @@ def generate_configurations():
         for P in P_values:
             for Y in Y_values:
                 for Z in Z_values:
-                    if Z >= Y + 0.2:
+                    # On garde seulement si Z est au moins +0.2 par rapport à Y
+                    if Z >= Y + 0.20:
                         configs.append((X, P, Y, Z))
     
     return configs

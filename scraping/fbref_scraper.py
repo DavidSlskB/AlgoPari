@@ -1,55 +1,99 @@
 # scraping/fbref_scraper.py
-
+from __future__ import annotations
+import json
+from datetime import datetime
+from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+import unicodedata
 
-def get_fbref_result(date_str, title):
+# === Outils pour normaliser les noms d'équipes ===
+def normalize_name(name: str) -> str:
     """
-    Récupère le résultat d'un match depuis FBRef.
-    
-    :param date_str: date du match au format "dd/mm"
-    :param title: titre normalisé du match, ex: "juventus-napoli"
-    :return: tuple (score_str, resultat) 
-             score_str ex. "2-1", resultat = "1", "N", ou "2"
+    Supprime accents, passe en minuscule, enlève espaces multiples.
     """
-    # Transformer la date en éléments pour URL FBRef
-    day, month = date_str.split("/")
-    year = datetime.now().year
-    fbref_url = f"https://fbref.com/fr/matchs/{year}-{month}-{day}"
+    name = unicodedata.normalize("NFD", name)
+    name = "".join(c for c in name if unicodedata.category(c) != "Mn")
+    return " ".join(name.lower().split())
 
-    try:
-        response = requests.get(fbref_url, timeout=10)
-        response.raise_for_status()
-    except requests.RequestException as e:
-        print(f"Erreur connexion FBRef pour {date_str} : {e}")
+def match_title_matches(a: str, b: str) -> bool:
+    """
+    Vérifie si deux noms d'équipes normalisés correspondent
+    """
+    return normalize_name(a) == normalize_name(b)
+
+# === Scraper FBRef ===
+def get_fbref_result(ligue: str, date_str: str, home_team: str, away_team: str):
+    """
+    Retourne (score, resultat) pour un match FBRef donné par ligue, date et équipes.
+    resultat = "1" | "2" | "X"
+    """
+    # Charger config ligues FBRef
+    cfg_path = Path("data/config.json")
+    config = json.loads(cfg_path.read_text(encoding="utf-8"))
+    fbref_urls = config.get("fbref_urls", {})
+    url = fbref_urls.get(ligue)
+    if not url:
+        print(f"⚠️ Pas d'URL FBRef pour {ligue}")
         return None, None
 
-    soup = BeautifulSoup(response.content, "html.parser")
-    tables = soup.find_all("div", class_="table_wrapper tabbed")
+    try:
+        resp = requests.get(url, timeout=10)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        print(f"❌ Erreur FBRef {ligue}: {e}")
+        return None, None
 
-    for table in tables:
-        rows = table.find("tbody").find_all("tr")
-        for row in rows:
-            home_team = row.find("td", {"data-stat": "home_team"})
-            away_team = row.find("td", {"data-stat": "away_team"})
-            score_cell = row.find("td", {"data-stat": "score"})
+    soup = BeautifulSoup(resp.content, "html.parser")
+    rows = soup.select("table.stats_table tbody tr")
 
-            if home_team and away_team and score_cell:
-                match_name = f"{home_team.get_text().lower()}-{away_team.get_text().lower()}"
-                if match_name == title:
-                    score_str = score_cell.get_text().replace("–", "-")
-                    try:
-                        home_goals, away_goals = map(int, score_str.split("-"))
-                    except ValueError:
-                        return None, None  # score non disponible
+    for row in rows:
+        date_el = row.find("td", {"data-stat": "date"})
+        if not date_el:
+            continue
+        match_date = date_el.get_text(strip=True)
+        # FBRef format "2024-08-15" → on le compare à date_str
+        try:
+            match_dt = datetime.strptime(match_date, "%Y-%m-%d").date()
+        except ValueError:
+            continue
 
-                    if home_goals > away_goals:
-                        return score_str, "1"
-                    elif home_goals == away_goals:
-                        return score_str, "N"
-                    else:
-                        return score_str, "2"
+        try:
+            target_dt = datetime.strptime(date_str, "%d/%m").replace(year=match_dt.year).date()
+        except ValueError:
+            continue
 
-    print(f"Match {title} non trouvé sur FBRef le {date_str}")
+        if match_dt != target_dt:
+            continue
+
+        # Récup équipes
+        home_el = row.find("td", {"data-stat": "home_team"})
+        away_el = row.find("td", {"data-stat": "away_team"})
+        if not home_el or not away_el:
+            continue
+
+        home_name = home_el.get_text(strip=True)
+        away_name = away_el.get_text(strip=True)
+
+        if match_title_matches(home_team, home_name) and match_title_matches(away_team, away_name):
+            # Récup score
+            score_el = row.find("td", {"data-stat": "score"})
+            if not score_el:
+                return None, None
+            score_txt = score_el.get_text(strip=True)
+            if "-" not in score_txt:
+                return None, None
+
+            try:
+                home_goals, away_goals = map(int, score_txt.split("-"))
+            except ValueError:
+                return None, None
+
+            if home_goals > away_goals:
+                return score_txt, "1"
+            elif away_goals > home_goals:
+                return score_txt, "2"
+            else:
+                return score_txt, "X"
+
     return None, None
