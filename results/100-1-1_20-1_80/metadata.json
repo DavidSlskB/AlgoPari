@@ -1,0 +1,16 @@
+{
+  "X": 100,
+  "P": 1,
+  "Y": 1.2,
+  "Z": 1.8,
+  "timestamp": "2025-08-09T13:03:50.240256Z",
+  "matches_found": 27,
+  "counts": {
+    "L1 Uber Eats": 3,
+    "Premier League": 5,
+    "LaLiga": 5,
+    "Serie A": 5,
+    "Liga Portugal": 4,
+    "Bundesliga 1": 5
+  }
+}
