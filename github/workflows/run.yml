@@ -2,7 +2,7 @@ name: Run AlgoPari
 
 on:
   schedule:
-    - cron: "0 7 * * *"  # Exécution tous les jours à 07:00 UTC (09:00 en France en été)
+    - cron: "0 11 * * *"  # Exécution tous les jours à 07:00 UTC (09:00 en France en été)
   workflow_dispatch:  # Permet de lancer manuellement depuis GitHub
 
 jobs:
