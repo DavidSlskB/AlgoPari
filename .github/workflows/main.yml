@@ -3,9 +3,8 @@ name: Run AlgoPari
 on:
   schedule:
     - cron: "0 7 * * *"   # tous les jours à 07:00 UTC
-  workflow_dispatch:      # permet un lancement manuel
+  workflow_dispatch:
 
-# ← IMPORTANT : autorise l'écriture dans le dépôt par le token
 permissions:
   contents: write
 
@@ -17,7 +16,7 @@ jobs:
       - name: 📥 Checkout repo
         uses: actions/checkout@v3
         with:
-          persist-credentials: true  # important pour pouvoir push avec GITHUB_TOKEN
+          persist-credentials: true
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v4
@@ -33,18 +32,25 @@ jobs:
         run: |
           python main.py
 
-      - name: 🔎 Show git status (debug)
+      - name: 📂 Show generated files (debug)
         run: |
-          git status --porcelain
-          echo "---- staged changes ----"
-          git diff --staged --name-only || true
+          echo "---- results ----"
+          ls -la results || echo "No results directory"
+          echo "---- logs ----"
+          ls -la logs || echo "No logs directory"
+          echo "---- data ----"
+          ls -la data || echo "No data directory"
 
       - name: 📤 Commit & push results if changed
         run: |
-          # Ajouter les dossiers (supprime '|| true' si tu veux échouer si erreur)
-          git add results/ logs/ || true
+          # configure an identity for commits
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Si des changements sont staged -> commit & push
+          # Stage files (add pending_matches in case it exists)
+          git add results/ logs/ data/pending_matches.csv || true
+
+          # Commit only if there are staged changes
           if ! git diff --staged --quiet; then
             git commit -m "Mise à jour résultats et logs [skip ci]" || true
             git push
