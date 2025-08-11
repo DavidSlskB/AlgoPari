@@ -2,35 +2,52 @@ name: Run AlgoPari
 
 on:
   schedule:
-    - cron: "0 12 30 * *"  # Exécution tous les jours à 07:00 UTC (09:00 en France en été)
-  workflow_dispatch:  # Permet de lancer manuellement depuis GitHub
+    - cron: "0 7 * * *"   # tous les jours à 07:00 UTC
+  workflow_dispatch:      # permet un lancement manuel
+
+# ← IMPORTANT : autorise l'écriture dans le dépôt par le token
+permissions:
+  contents: write
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Cloner le dépôt
+      - name: 📥 Checkout repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true  # important pour pouvoir push avec GITHUB_TOKEN
 
-      - name: 🐍 Installer Python
+      - name: 🐍 Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
 
-      - name: 📦 Installer les dépendances
+      - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: ▶️ Lancer le script
+      - name: ▶️ Run main.py
         run: |
           python main.py
 
-      - name: 📤 Pousser les résultats
+      - name: 🔎 Show git status (debug)
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add results/ logs/
-          git commit -m "Mise à jour résultats et logs [skip ci]" || echo "Aucun changement"
-          git push
+          git status --porcelain
+          echo "---- staged changes ----"
+          git diff --staged --name-only || true
+
+      - name: 📤 Commit & push results if changed
+        run: |
+          # Ajouter les dossiers (supprime '|| true' si tu veux échouer si erreur)
+          git add results/ logs/ || true
+
+          # Si des changements sont staged -> commit & push
+          if ! git diff --staged --quiet; then
+            git commit -m "Mise à jour résultats et logs [skip ci]" || true
+            git push
+          else
+            echo "Aucun changement à committer."
+          fi
