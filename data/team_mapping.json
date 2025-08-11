@@ -18,10 +18,8 @@
     "angers": "angers",
     "auxerre": "auxerre",
     "paris fc": "paris fc"
-
   },
   "Premier League": {
-
     "burnley": "burnley",
     "brentford": "brentford",
     "tottenham": "tottenham",
@@ -41,7 +39,7 @@
     "nottingham f.": "nott'ham forest",
     "man. city": "manchester city",
     "sunderland": "sunderland",
-    "leeds utd": "leeds"
+    "leeds utd": "leeds united"
   },
   "LaLiga": {
     "alaves": "alavés",
@@ -60,7 +58,7 @@
     "osasuna": "osasuna",
     "villarreal": "villarreal",
     "cf valence": "valencia",
-    "real oviedo": "real oviedo",
+    "real oviedo": "roviedo",
     "elche": "elche",
     "espanyol": "espanyol",
     "levante": "levante"
@@ -82,27 +80,27 @@
     "inter milan": "inter",
     "naples": "napoli",
     "udinese": "udinese",
-    "como 1907": "come",
-    "parme": "parme",
-    "ac pisa 1909": "pise"
+    "como 1907": "como",
+    "parme": "parma",
+    "ac pisa 1909": "pisa"
   },
   "Liga Portugal": {
     "moreirense": "moreirense",
-    "!rio ave": "rio ave",
+    "rio ave": "rio ave",
     "cf estrela": "estrela",
-    "!casa pia": "casa pia",
+    "casa pia": "casa pia",
     "fc porto": "porto",
     "arouca": "arouca",
     "gil vicente": "gil vicente fc",
     "estoril praia": "estoril",
-    "!sporting": "sporting cp",
-    "!benfica": "benfica",
+    "sporting": "sporting cp",
+    "benfica": "benfica",
     "braga": "braga",
     "guimaraes": "vitória",
     "famalicao": "famalicão",
-    "avs futebol": "AVS Futebol SAD",
-    "alverca fc": "Futebol Clube de Alverca",
-    "cd nacional": "Clube Desportivo Nacional",
+    "avs futebol": "avs futebol",
+    "alverca fc": "alverca",
+    "cd nacional": "nacional",
     "santa clara": "santa clara",
     "cd tondela": "tondela"
   },
@@ -115,7 +113,7 @@
     "union berlin": "union berlin",
     "dortmund": "dortmund",
     "wolfsburg": "wolfsburg",
-    "m'gladbach": "m'gladbach",
+    "m'gladbach": "gladbach",
     "werder brême": "werder bremen",
     "mayence": "mainz 05",
     "hoffenheim": "hoffenheim",
@@ -123,7 +121,7 @@
     "cologne": "köln",
     "augsburg": "augsburg",
     "stuttgart": "stuttgart",
-    "hambourg": "hambourg",
-    "st pauli": "sankt pauli"
+    "hambourg": " hamburger sv",
+    "st pauli": "st. pauli"
   }
 }
