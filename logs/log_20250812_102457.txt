@@ -1,0 +1,18 @@
+💻 Exécution locale
+
+=== Étape 1 : Scraping FDJ ===
+
+=== Étape 2 : Mise à jour des résultats FBRef ===
+
+📅 Traitement des matchs du 11/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-11
+🔍 35 lignes trouvées dans les tables de la page
+✅ 20 matchs trouvés : [('amiens', 'reims'), ('septemvri sofia', 'beroe'), ('arda', 'loko plovdiv'), ('odense', 'randers'), ('hjk', 'ilves'), ('cerezo osaka', 'albirex niigata'), ('lechia gdansk', 'motor lublin'), ('estoril', 'estrela'), ('porto', 'vitoria'), ('botosani', 'arges pitesti'), ('otelul galati', 'rapid bucuresti'), ('novi beograd', 'zeleznicar pancevo'), ('javor ivanjica', 'radnicki kragujevac'), ('gais', 'goteborg'), ('elfsborg', 'varnamo'), ('trabzonspor', 'kocaelispor'), ('zorya luhansk', 'kudrivka'), ('renofa', 'ventforet kofu'), ('jong az', 'rkc waalwijk'), ('jong psv', 'emmen')]
+🔑 Recherche clé : ('porto', 'vitoria') parmi [('amiens', 'reims'), ('septemvri sofia', 'beroe'), ('arda', 'loko plovdiv'), ('odense', 'randers'), ('hjk', 'ilves'), ('cerezo osaka', 'albirex niigata'), ('lechia gdansk', 'motor lublin'), ('estoril', 'estrela'), ('porto', 'vitoria'), ('botosani', 'arges pitesti'), ('otelul galati', 'rapid bucuresti'), ('novi beograd', 'zeleznicar pancevo'), ('javor ivanjica', 'radnicki kragujevac'), ('gais', 'goteborg'), ('elfsborg', 'varnamo'), ('trabzonspor', 'kocaelispor'), ('zorya luhansk', 'kudrivka'), ('renofa', 'ventforet kofu'), ('jong az', 'rkc waalwijk'), ('jong psv', 'emmen')]
+✅ porto-vitória 11/08 → 3-0 (1)
+🔑 Recherche clé : ('estoril', 'estrela') parmi [('amiens', 'reims'), ('septemvri sofia', 'beroe'), ('arda', 'loko plovdiv'), ('odense', 'randers'), ('hjk', 'ilves'), ('cerezo osaka', 'albirex niigata'), ('lechia gdansk', 'motor lublin'), ('estoril', 'estrela'), ('porto', 'vitoria'), ('botosani', 'arges pitesti'), ('otelul galati', 'rapid bucuresti'), ('novi beograd', 'zeleznicar pancevo'), ('javor ivanjica', 'radnicki kragujevac'), ('gais', 'goteborg'), ('elfsborg', 'varnamo'), ('trabzonspor', 'kocaelispor'), ('zorya luhansk', 'kudrivka'), ('renofa', 'ventforet kofu'), ('jong az', 'rkc waalwijk'), ('jong psv', 'emmen')]
+✅ estoril-estrela 11/08 → 1-1 (X)
+
+Mises à jour terminées : 2 matchs complétés.
+
+=== Étape 3 : Calcul des statistiques et génération des graphiques ===

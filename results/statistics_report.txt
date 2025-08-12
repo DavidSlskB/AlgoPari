@@ -1,0 +1,15 @@
+=== Statistiques Globales ===
+Cagnotte initiale : 100.00€
+Cagnotte finale   : 99.44€
+Bénéfice net      : -0.56€
+ROI               : -0.56%
+Matchs joués      : 2
+Victoires         : 1 (50.00%)
+Défaites          : 1
+
+=== Statistiques par Ligue ===
+Liga Portugal: 1 victoires / 2 matchs (50.00%)
+
+=== Statistiques par plage de cotes ===
+1.15 - 1.45 : 1 victoires / 1 matchs (100.00%) | ROI: 44.00%
+1.15 - 1.70 : 0 victoires / 1 matchs (0.00%) | ROI: -100.00%

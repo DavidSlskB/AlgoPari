@@ -35,6 +35,7 @@ def update_pending_results():
             home_team, away_team = m["titre"].split("-", 1)
 
             key = (normalize_name(home_team), normalize_name(away_team))
+            print(f"🔑 Recherche clé : {key} parmi {list(results_dict.keys())}")
             if key in results_dict:
                 score, resultat = results_dict[key]
                 update_match_result(m["titre"], m["date"], m["heure"], m["choix"], score, resultat)
