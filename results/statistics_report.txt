@@ -1,15 +1,22 @@
 === Statistiques Globales ===
 Cagnotte initiale : 100.00€
-Cagnotte finale   : 99.44€
-Bénéfice net      : -0.56€
-ROI               : -0.56%
-Matchs joués      : 2
-Victoires         : 1 (50.00%)
-Défaites          : 1
+Cagnotte finale   : 100.62€
+Bénéfice net      : 0.62€
+ROI               : 0.62%
+Matchs joués      : 9
+Victoires         : 7 (77.78%)
+Défaites          : 2
 
 === Statistiques par Ligue ===
-Liga Portugal: 1 victoires / 2 matchs (50.00%)
+Liga Portugal: 2 victoires / 3 matchs (66.67%)
+Premier League: 3 victoires / 4 matchs (75.00%)
+L1 Uber Eats: 1 victoires / 1 matchs (100.00%)
+LaLiga: 1 victoires / 1 matchs (100.00%)
 
 === Statistiques par plage de cotes ===
+1.15 - 1.35 : 3 victoires / 3 matchs (100.00%) | ROI: 27.67%
+1.15 - 1.40 : 1 victoires / 1 matchs (100.00%) | ROI: 36.00%
 1.15 - 1.45 : 1 victoires / 1 matchs (100.00%) | ROI: 44.00%
+1.15 - 1.50 : 2 victoires / 2 matchs (100.00%) | ROI: 49.50%
 1.15 - 1.70 : 0 victoires / 1 matchs (0.00%) | ROI: -100.00%
+1.15 - 1.80 : 0 victoires / 1 matchs (0.00%) | ROI: -100.00%

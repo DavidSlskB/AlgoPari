@@ -1,4 +1,11 @@
 Type,Clé,Matchs,Victoires,Défaites,WinRate (%),ROI (%)
-Ligue,Liga Portugal,2,1,0,50.00,
+Ligue,Liga Portugal,3,2,0,66.67,
+Ligue,Premier League,4,3,0,75.00,
+Ligue,L1 Uber Eats,1,1,0,100.00,
+Ligue,LaLiga,1,1,0,100.00,
+Plage de cotes,1.15-1.35,3,3,0,100.00,27.67
+Plage de cotes,1.15-1.40,1,1,0,100.00,36.00
 Plage de cotes,1.15-1.45,1,1,0,100.00,44.00
+Plage de cotes,1.15-1.50,2,2,0,100.00,49.50
 Plage de cotes,1.15-1.70,1,0,1,0.00,-100.00
+Plage de cotes,1.15-1.80,1,0,1,0.00,-100.00

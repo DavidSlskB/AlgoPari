@@ -32,9 +32,9 @@ def main():
         print("💻 Exécution locale")
 
     print("\n=== Étape 1 : Scraping FDJ ===")
-    # configs = generate_configurations()
-    # for _, _, Y, Z in configs:
-    #     run_scraping_pipeline(Y, Z)
+    configs = generate_configurations()
+    for _, _, Y, Z in configs:
+        run_scraping_pipeline(Y, Z)
 
     print("\n=== Étape 2 : Mise à jour des résultats FBRef ===")
     update_pending_results()

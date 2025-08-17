@@ -1,0 +1,12 @@
+💻 Exécution locale
+
+=== Étape 1 : Scraping FDJ ===
+
+=== Étape 2 : Mise à jour des résultats FBRef ===
+
+Mises à jour terminées : 0 matchs complétés.
+
+=== Étape 3 : Calcul des statistiques et génération des graphiques ===
+✅ Rapport texte généré : results\statistics_report.txt
+✅ Résumé CSV généré : results\statistics_summary.csv
+📊 Graphiques générés dans results/graphs/
