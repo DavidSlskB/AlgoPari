@@ -1,0 +1,484 @@
+💻 Exécution locale
+
+=== Étape 1 : Scraping FDJ ===
+
+=== Scraping FDJ pour Y=1.15, Z=1.35 ===
+✅ 1 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 1 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.4 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.45 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.5 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 3 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 4 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 5 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 6 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 5 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.8 ===
+✅ 1 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 5 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 7 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 4 matchs trouvés
+   - Bundesliga 1: 6 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.4 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 2 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.45 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 2 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.5 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 2 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 2 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 2 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 2 matchs trouvés
+   - Bundesliga 1: 3 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 2 matchs trouvés
+   - Bundesliga 1: 4 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 6 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 2 matchs trouvés
+   - Bundesliga 1: 5 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 7 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 6 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.45 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.5 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 3 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 4 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 2 matchs trouvés
+   - Bundesliga 1: 5 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.5 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 3 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 4 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 5 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 2 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 2 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 2 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 2 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 3 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 2 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 4 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 2 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 5 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 1 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 1 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 3 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 4 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 5 matchs trouvés
+
+=== Étape 2 : Mise à jour des résultats FBRef ===
+
+📅 Traitement des matchs du 19/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-19
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-19) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-19
+🔑 Recherche clé : ('real madrid', 'osasuna') parmi []
+❌ Résultat non trouvé pour real madrid-osasuna 19/08
+
+📅 Traitement des matchs du 22/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-22
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-22) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-22
+🔑 Recherche clé : ('bayern munich', 'rb leipzig') parmi []
+❌ Résultat non trouvé pour bayern munich-rb leipzig 22/08
+🔑 Recherche clé : ('west ham', 'chelsea') parmi []
+❌ Résultat non trouvé pour west ham-chelsea 22/08
+🔑 Recherche clé : ('betis', 'alaves') parmi []
+❌ Résultat non trouvé pour betis-alavés 22/08
+
+📅 Traitement des matchs du 15/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-15
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-15) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-15
+🔑 Recherche clé : ('villarreal', 'roviedo') parmi []
+❌ Résultat non trouvé pour villarreal-roviedo 15/08
+
+Mises à jour terminées : 0 matchs complétés.
+
+=== Étape 3 : Calcul des statistiques et génération des graphiques ===
+✅ Rapport texte généré : results\statistics_report.txt
+✅ Résumé CSV généré : results\statistics_summary.csv
+📊 Graphiques générés dans results/graphs/

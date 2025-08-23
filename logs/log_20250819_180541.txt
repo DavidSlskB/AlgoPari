@@ -1,0 +1,504 @@
+💻 Exécution locale
+
+=== Étape 1 : Scraping FDJ ===
+
+=== Scraping FDJ pour Y=1.15, Z=1.35 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 1 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 2 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.4 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.45 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.5 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 6 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 7 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 3 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 8 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 6 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 8 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 7 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.4 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.45 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.5 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 6 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 3 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 7 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 6 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 7 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 7 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.45 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.5 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 5 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 5 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 6 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.5 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 5 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 4 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 4 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 6 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 1 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 3 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 3 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 3 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 3 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 3 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 5 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 3 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 3 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 6 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 1 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 2 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 1 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 2 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 1 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 1 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 2 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 2 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 1 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 2 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 5 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 2 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 2 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 6 matchs trouvés
+
+=== Étape 2 : Mise à jour des résultats FBRef ===
+
+📅 Traitement des matchs du 17/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-17
+🔍 172 lignes trouvées dans les tables de la page
+✅ 168 matchs trouvés : [('chelsea', 'crystal palace'), ("nott'ham forest", 'brentford'), ('manchester utd', 'arsenal'), ('ipswich town', 'southampton'), ('hull city', 'oxford united'), ('hallam', 'city liverpool'), ('hackney wick', 'bognor regis'), ('wokingham & emmbrook fc', 'larkhall'), ('littlehampton town fc', 'nth greenford'), ('enfield 1893', 'biggleswade'), ('celta vigo', 'getafe'), ('athletic club', 'sevilla'), ('espanyol', 'atletico madrid'), ('real sociedad b', 'zaragoza'), ('cadiz', 'cd mirandes'), ('las palmas', 'fc andorra'), ('huesca', 'leganes'), ('fv engers 07', 'eint frankfurt'), ('viktoria koln', 'paderborn 07'), ('rsv eintracht teltow', 'kaiserslautern'), ('loko leipzig', 'schalke 04'), ('blau-weiß lohne', 'greuther furth'), ("jahn r'burg", 'koln'), ('meuselwitz', 'karlsruher'), ('sv atlas', 'gladbach'), ('ulm', 'elversberg'), ('hallescher', 'augsburg'), ('homburg', 'holstein kiel'), ('viktoria berlin', 'bochum women'), ('1. fc neubrandenburg 04', 'vfr schwarz-weiß warbeyen'), ('solingen-aufderhohe', 'sc victoria hamburg'), ('vfb stuttgart', 'mainz 05'), ('saalfeld titans', 'ingolstadt'), ('herrenberg', 'kickers offenbach'), ('fsv gutersloh 2009', 'magdeburger ffc'), ('borussia pankow', 'hannover 96'), ('holstein kiel', 'meppen'), ('monza', 'frosinone'), ('parma', 'pescara'), ('milan', 'bari'), ('brest', 'lille'), ('auxerre', 'lorient'), ('angers', 'paris fc'), ('metz', 'strasbourg'), ('nantes', 'paris s-g'), ('sj earthquakes', 'san diego fc'), ('nycfc', 'nashville sc'), ("vancouver w'caps", 'houston dynamo'), ('gotham fc', 'dash'), ('defensa y just', "newell's ob"), ('gimnasia–lp', 'lanus'), ('cen. cordoba–sde', 'barracas central'), ('banfield', 'estudiantes–lp'), ('river plate', 'godoy cruz'), ('ind. rivadavia', 'boca juniors'), ('wolfsberger ac', 'blau-weiß linz'), ('rapid wien', 'scr altach'), ('lask', 'austria wien'), ('dender', 'anderlecht'), ('sint-truiden', 'la louviere'), ('charleroi', 'antwerp'), ('cercle brugge', 'westerlo'), ('atletico mineiro', 'gremio'), ('santos', 'vasco da gama'), ('internacional', 'flamengo'), ('botafogo (rj)', 'palmeiras'), ('palmeiras', 'flamengo'), ('cruzeiro ec', 'red bull bragantino'), ('ludogorets', 'lokomotiv sofia'), ('botev vratsa', 'levski sofia'), ('valour fc', 'york united'), ('forge fc', 'atletico ottawa'), ('cavalry fc', 'vancouver fc'), ('u de chile', 'audax italiano'), ('huachipato', 'cd limache'), ('coquimbo unido', 'everton'), ('tolima', 'millonarios'), ('varazdin', 'osijek'), ('hajduk split', 'slaven belupo'), ('karvina', 'bohemians 1905'), ('slovan liberec', 'sparta prague'), ('vejle bk', 'midtjylland'), ('viborg', 'silkeborg'), ('randers', 'brøndby'), ('aarhus gf', 'brøndby'), ('ldu de quito', 'manta futbol club'), ('tecnico univ.', 'cs emelec'), ('barcelona', 'macara'), ('haka', 'hjk'), ('kups', 'inter turku'), ('debrecen', 'nyiregyhaza'), ('mtk budapest', 'gyor'), ('paks', 'zalaegerszeg'), ('fagi okayama', 'kashiwa reysol'), ('sanfrecce hiroshima', 'kobe leonessa'), ('albirex niigata', 'urawa reds'), ('beleza', 'nojima stella'), ('jef united chiba', 'omiya ardija'), ('sangju sangmu', 'fc seoul'), ('gwangju fc', 'daejeon citizen fc'), ('queretaro', 'atlas'), ('monterrey', 'mazatlan'), ('go ahead eag', 'ajax'), ("sparta r'dam", 'utrecht'), ('twente', 'psv eindhoven'), ('volendam', 'az alkmaar'), ('nac breda', 'fortuna sittard'), ('tromsø', 'brann'), ('hamkam', 'bryne'), ('kfum oslo', 'molde'), ('kristiansund', 'sandefjord'), ('valerenga', 'sarpsborg 08'), ('olimpia', 'libertad'), ('sportivo trinidense', 'nacional'), ('sport huancayo', 'universitario'), ('melgar', 'ayacucho'), ('cusco', 'alianza atletico'), ('radomiak radom', 'jagiellonia'), ('pogon szczecin', 'gornik zabrze'), ('nieciecza', 'rakow'), ('wisła płock', 'legia warsaw'), ('rio ave', 'nacional'), ('santa clara', 'moreirense'), ('alverca', 'braga'), ('sporting cp', 'arouca'), ('fc csikszereda miercurea ciuc', 'cs u craiova'), ('cfr cluj', 'botosani'), ('rapid bucuresti', 'fcsb'), ('fk akron tolyatti', 'orenburg'), ('rubin kazan', 'rostov'), ('dynamo mosc', 'cska moscow'), ('krasnodar', 'sochi'), ('tsc', 'ofk beograd'), ('radnicki kragujevac', 'napredak krusevac'), ('zeleznicar pancevo', 'radnicki nis'), ('brommapojkarna', 'sirius'), ('goteborg', 'aik stockholm'), ('mjallby', 'djurgarden'), ('hammarby', 'gais'), ('hacken', 'oster'), ('ifk norrkoping dfk', 'linkoping'), ('djurgarden', 'vittsjo'), ('vaxjo', 'bk hacken'), ('malmo', 'aik fotboll dam'), ('genclerbirligi', 'antalyaspor'), ('konyaspor', 'gaziantep fk'), ('besiktas', 'eyupspor'), ('basaksehir', 'kayserispor'), ('kudrivka', 'sk poltava'), ('veres rivne', 'shakhtar'), ('fc polissya zhytomyr', 'fc lnz cherkasy'), ('river plate', 'torque'), ('racing', 'defensor'), ('plaza colonia', 'cerro'), ('rayo zuliano', 'acad pr cabello'), ('dep la guaira', 'dep tachira'), ('rfc liege', 'seraing'), ('chapecoense', 'paysandu'), ('atl goianiense', 'ferroviaria'), ('ventforet kofu', 'oita trinita'), ('ehime fc', 'omiya ardija'), ('sagan tosu', 'v-v nagasaki'), ('emmen', 'almere city'), ('willem ii', 'fc eindhoven'), ('orebro', 'orgryte'), ('sandvikens if', 'landskrona'), ('newcastle united', 'southampton'), ('brighton', 'west bromwich albion')]
+🔑 Recherche clé : ('nantes', 'paris s-g') parmi [('chelsea', 'crystal palace'), ("nott'ham forest", 'brentford'), ('manchester utd', 'arsenal'), ('ipswich town', 'southampton'), ('hull city', 'oxford united'), ('hallam', 'city liverpool'), ('hackney wick', 'bognor regis'), ('wokingham & emmbrook fc', 'larkhall'), ('littlehampton town fc', 'nth greenford'), ('enfield 1893', 'biggleswade'), ('celta vigo', 'getafe'), ('athletic club', 'sevilla'), ('espanyol', 'atletico madrid'), ('real sociedad b', 'zaragoza'), ('cadiz', 'cd mirandes'), ('las palmas', 'fc andorra'), ('huesca', 'leganes'), ('fv engers 07', 'eint frankfurt'), ('viktoria koln', 'paderborn 07'), ('rsv eintracht teltow', 'kaiserslautern'), ('loko leipzig', 'schalke 04'), ('blau-weiß lohne', 'greuther furth'), ("jahn r'burg", 'koln'), ('meuselwitz', 'karlsruher'), ('sv atlas', 'gladbach'), ('ulm', 'elversberg'), ('hallescher', 'augsburg'), ('homburg', 'holstein kiel'), ('viktoria berlin', 'bochum women'), ('1. fc neubrandenburg 04', 'vfr schwarz-weiß warbeyen'), ('solingen-aufderhohe', 'sc victoria hamburg'), ('vfb stuttgart', 'mainz 05'), ('saalfeld titans', 'ingolstadt'), ('herrenberg', 'kickers offenbach'), ('fsv gutersloh 2009', 'magdeburger ffc'), ('borussia pankow', 'hannover 96'), ('holstein kiel', 'meppen'), ('monza', 'frosinone'), ('parma', 'pescara'), ('milan', 'bari'), ('brest', 'lille'), ('auxerre', 'lorient'), ('angers', 'paris fc'), ('metz', 'strasbourg'), ('nantes', 'paris s-g'), ('sj earthquakes', 'san diego fc'), ('nycfc', 'nashville sc'), ("vancouver w'caps", 'houston dynamo'), ('gotham fc', 'dash'), ('defensa y just', "newell's ob"), ('gimnasia–lp', 'lanus'), ('cen. cordoba–sde', 'barracas central'), ('banfield', 'estudiantes–lp'), ('river plate', 'godoy cruz'), ('ind. rivadavia', 'boca juniors'), ('wolfsberger ac', 'blau-weiß linz'), ('rapid wien', 'scr altach'), ('lask', 'austria wien'), ('dender', 'anderlecht'), ('sint-truiden', 'la louviere'), ('charleroi', 'antwerp'), ('cercle brugge', 'westerlo'), ('atletico mineiro', 'gremio'), ('santos', 'vasco da gama'), ('internacional', 'flamengo'), ('botafogo (rj)', 'palmeiras'), ('palmeiras', 'flamengo'), ('cruzeiro ec', 'red bull bragantino'), ('ludogorets', 'lokomotiv sofia'), ('botev vratsa', 'levski sofia'), ('valour fc', 'york united'), ('forge fc', 'atletico ottawa'), ('cavalry fc', 'vancouver fc'), ('u de chile', 'audax italiano'), ('huachipato', 'cd limache'), ('coquimbo unido', 'everton'), ('tolima', 'millonarios'), ('varazdin', 'osijek'), ('hajduk split', 'slaven belupo'), ('karvina', 'bohemians 1905'), ('slovan liberec', 'sparta prague'), ('vejle bk', 'midtjylland'), ('viborg', 'silkeborg'), ('randers', 'brøndby'), ('aarhus gf', 'brøndby'), ('ldu de quito', 'manta futbol club'), ('tecnico univ.', 'cs emelec'), ('barcelona', 'macara'), ('haka', 'hjk'), ('kups', 'inter turku'), ('debrecen', 'nyiregyhaza'), ('mtk budapest', 'gyor'), ('paks', 'zalaegerszeg'), ('fagi okayama', 'kashiwa reysol'), ('sanfrecce hiroshima', 'kobe leonessa'), ('albirex niigata', 'urawa reds'), ('beleza', 'nojima stella'), ('jef united chiba', 'omiya ardija'), ('sangju sangmu', 'fc seoul'), ('gwangju fc', 'daejeon citizen fc'), ('queretaro', 'atlas'), ('monterrey', 'mazatlan'), ('go ahead eag', 'ajax'), ("sparta r'dam", 'utrecht'), ('twente', 'psv eindhoven'), ('volendam', 'az alkmaar'), ('nac breda', 'fortuna sittard'), ('tromsø', 'brann'), ('hamkam', 'bryne'), ('kfum oslo', 'molde'), ('kristiansund', 'sandefjord'), ('valerenga', 'sarpsborg 08'), ('olimpia', 'libertad'), ('sportivo trinidense', 'nacional'), ('sport huancayo', 'universitario'), ('melgar', 'ayacucho'), ('cusco', 'alianza atletico'), ('radomiak radom', 'jagiellonia'), ('pogon szczecin', 'gornik zabrze'), ('nieciecza', 'rakow'), ('wisła płock', 'legia warsaw'), ('rio ave', 'nacional'), ('santa clara', 'moreirense'), ('alverca', 'braga'), ('sporting cp', 'arouca'), ('fc csikszereda miercurea ciuc', 'cs u craiova'), ('cfr cluj', 'botosani'), ('rapid bucuresti', 'fcsb'), ('fk akron tolyatti', 'orenburg'), ('rubin kazan', 'rostov'), ('dynamo mosc', 'cska moscow'), ('krasnodar', 'sochi'), ('tsc', 'ofk beograd'), ('radnicki kragujevac', 'napredak krusevac'), ('zeleznicar pancevo', 'radnicki nis'), ('brommapojkarna', 'sirius'), ('goteborg', 'aik stockholm'), ('mjallby', 'djurgarden'), ('hammarby', 'gais'), ('hacken', 'oster'), ('ifk norrkoping dfk', 'linkoping'), ('djurgarden', 'vittsjo'), ('vaxjo', 'bk hacken'), ('malmo', 'aik fotboll dam'), ('genclerbirligi', 'antalyaspor'), ('konyaspor', 'gaziantep fk'), ('besiktas', 'eyupspor'), ('basaksehir', 'kayserispor'), ('kudrivka', 'sk poltava'), ('veres rivne', 'shakhtar'), ('fc polissya zhytomyr', 'fc lnz cherkasy'), ('river plate', 'torque'), ('racing', 'defensor'), ('plaza colonia', 'cerro'), ('rayo zuliano', 'acad pr cabello'), ('dep la guaira', 'dep tachira'), ('rfc liege', 'seraing'), ('chapecoense', 'paysandu'), ('atl goianiense', 'ferroviaria'), ('ventforet kofu', 'oita trinita'), ('ehime fc', 'omiya ardija'), ('sagan tosu', 'v-v nagasaki'), ('emmen', 'almere city'), ('willem ii', 'fc eindhoven'), ('orebro', 'orgryte'), ('sandvikens if', 'landskrona'), ('newcastle united', 'southampton'), ('brighton', 'west bromwich albion')]
+✅ nantes-paris s-g 17/08 → 0-1 (2)
+🔑 Recherche clé : ('chelsea', 'crystal palace') parmi [('chelsea', 'crystal palace'), ("nott'ham forest", 'brentford'), ('manchester utd', 'arsenal'), ('ipswich town', 'southampton'), ('hull city', 'oxford united'), ('hallam', 'city liverpool'), ('hackney wick', 'bognor regis'), ('wokingham & emmbrook fc', 'larkhall'), ('littlehampton town fc', 'nth greenford'), ('enfield 1893', 'biggleswade'), ('celta vigo', 'getafe'), ('athletic club', 'sevilla'), ('espanyol', 'atletico madrid'), ('real sociedad b', 'zaragoza'), ('cadiz', 'cd mirandes'), ('las palmas', 'fc andorra'), ('huesca', 'leganes'), ('fv engers 07', 'eint frankfurt'), ('viktoria koln', 'paderborn 07'), ('rsv eintracht teltow', 'kaiserslautern'), ('loko leipzig', 'schalke 04'), ('blau-weiß lohne', 'greuther furth'), ("jahn r'burg", 'koln'), ('meuselwitz', 'karlsruher'), ('sv atlas', 'gladbach'), ('ulm', 'elversberg'), ('hallescher', 'augsburg'), ('homburg', 'holstein kiel'), ('viktoria berlin', 'bochum women'), ('1. fc neubrandenburg 04', 'vfr schwarz-weiß warbeyen'), ('solingen-aufderhohe', 'sc victoria hamburg'), ('vfb stuttgart', 'mainz 05'), ('saalfeld titans', 'ingolstadt'), ('herrenberg', 'kickers offenbach'), ('fsv gutersloh 2009', 'magdeburger ffc'), ('borussia pankow', 'hannover 96'), ('holstein kiel', 'meppen'), ('monza', 'frosinone'), ('parma', 'pescara'), ('milan', 'bari'), ('brest', 'lille'), ('auxerre', 'lorient'), ('angers', 'paris fc'), ('metz', 'strasbourg'), ('nantes', 'paris s-g'), ('sj earthquakes', 'san diego fc'), ('nycfc', 'nashville sc'), ("vancouver w'caps", 'houston dynamo'), ('gotham fc', 'dash'), ('defensa y just', "newell's ob"), ('gimnasia–lp', 'lanus'), ('cen. cordoba–sde', 'barracas central'), ('banfield', 'estudiantes–lp'), ('river plate', 'godoy cruz'), ('ind. rivadavia', 'boca juniors'), ('wolfsberger ac', 'blau-weiß linz'), ('rapid wien', 'scr altach'), ('lask', 'austria wien'), ('dender', 'anderlecht'), ('sint-truiden', 'la louviere'), ('charleroi', 'antwerp'), ('cercle brugge', 'westerlo'), ('atletico mineiro', 'gremio'), ('santos', 'vasco da gama'), ('internacional', 'flamengo'), ('botafogo (rj)', 'palmeiras'), ('palmeiras', 'flamengo'), ('cruzeiro ec', 'red bull bragantino'), ('ludogorets', 'lokomotiv sofia'), ('botev vratsa', 'levski sofia'), ('valour fc', 'york united'), ('forge fc', 'atletico ottawa'), ('cavalry fc', 'vancouver fc'), ('u de chile', 'audax italiano'), ('huachipato', 'cd limache'), ('coquimbo unido', 'everton'), ('tolima', 'millonarios'), ('varazdin', 'osijek'), ('hajduk split', 'slaven belupo'), ('karvina', 'bohemians 1905'), ('slovan liberec', 'sparta prague'), ('vejle bk', 'midtjylland'), ('viborg', 'silkeborg'), ('randers', 'brøndby'), ('aarhus gf', 'brøndby'), ('ldu de quito', 'manta futbol club'), ('tecnico univ.', 'cs emelec'), ('barcelona', 'macara'), ('haka', 'hjk'), ('kups', 'inter turku'), ('debrecen', 'nyiregyhaza'), ('mtk budapest', 'gyor'), ('paks', 'zalaegerszeg'), ('fagi okayama', 'kashiwa reysol'), ('sanfrecce hiroshima', 'kobe leonessa'), ('albirex niigata', 'urawa reds'), ('beleza', 'nojima stella'), ('jef united chiba', 'omiya ardija'), ('sangju sangmu', 'fc seoul'), ('gwangju fc', 'daejeon citizen fc'), ('queretaro', 'atlas'), ('monterrey', 'mazatlan'), ('go ahead eag', 'ajax'), ("sparta r'dam", 'utrecht'), ('twente', 'psv eindhoven'), ('volendam', 'az alkmaar'), ('nac breda', 'fortuna sittard'), ('tromsø', 'brann'), ('hamkam', 'bryne'), ('kfum oslo', 'molde'), ('kristiansund', 'sandefjord'), ('valerenga', 'sarpsborg 08'), ('olimpia', 'libertad'), ('sportivo trinidense', 'nacional'), ('sport huancayo', 'universitario'), ('melgar', 'ayacucho'), ('cusco', 'alianza atletico'), ('radomiak radom', 'jagiellonia'), ('pogon szczecin', 'gornik zabrze'), ('nieciecza', 'rakow'), ('wisła płock', 'legia warsaw'), ('rio ave', 'nacional'), ('santa clara', 'moreirense'), ('alverca', 'braga'), ('sporting cp', 'arouca'), ('fc csikszereda miercurea ciuc', 'cs u craiova'), ('cfr cluj', 'botosani'), ('rapid bucuresti', 'fcsb'), ('fk akron tolyatti', 'orenburg'), ('rubin kazan', 'rostov'), ('dynamo mosc', 'cska moscow'), ('krasnodar', 'sochi'), ('tsc', 'ofk beograd'), ('radnicki kragujevac', 'napredak krusevac'), ('zeleznicar pancevo', 'radnicki nis'), ('brommapojkarna', 'sirius'), ('goteborg', 'aik stockholm'), ('mjallby', 'djurgarden'), ('hammarby', 'gais'), ('hacken', 'oster'), ('ifk norrkoping dfk', 'linkoping'), ('djurgarden', 'vittsjo'), ('vaxjo', 'bk hacken'), ('malmo', 'aik fotboll dam'), ('genclerbirligi', 'antalyaspor'), ('konyaspor', 'gaziantep fk'), ('besiktas', 'eyupspor'), ('basaksehir', 'kayserispor'), ('kudrivka', 'sk poltava'), ('veres rivne', 'shakhtar'), ('fc polissya zhytomyr', 'fc lnz cherkasy'), ('river plate', 'torque'), ('racing', 'defensor'), ('plaza colonia', 'cerro'), ('rayo zuliano', 'acad pr cabello'), ('dep la guaira', 'dep tachira'), ('rfc liege', 'seraing'), ('chapecoense', 'paysandu'), ('atl goianiense', 'ferroviaria'), ('ventforet kofu', 'oita trinita'), ('ehime fc', 'omiya ardija'), ('sagan tosu', 'v-v nagasaki'), ('emmen', 'almere city'), ('willem ii', 'fc eindhoven'), ('orebro', 'orgryte'), ('sandvikens if', 'landskrona'), ('newcastle united', 'southampton'), ('brighton', 'west bromwich albion')]
+✅ chelsea-crystal palace 17/08 → 0-0 (X)
+🔑 Recherche clé : ('espanyol', 'atletico madrid') parmi [('chelsea', 'crystal palace'), ("nott'ham forest", 'brentford'), ('manchester utd', 'arsenal'), ('ipswich town', 'southampton'), ('hull city', 'oxford united'), ('hallam', 'city liverpool'), ('hackney wick', 'bognor regis'), ('wokingham & emmbrook fc', 'larkhall'), ('littlehampton town fc', 'nth greenford'), ('enfield 1893', 'biggleswade'), ('celta vigo', 'getafe'), ('athletic club', 'sevilla'), ('espanyol', 'atletico madrid'), ('real sociedad b', 'zaragoza'), ('cadiz', 'cd mirandes'), ('las palmas', 'fc andorra'), ('huesca', 'leganes'), ('fv engers 07', 'eint frankfurt'), ('viktoria koln', 'paderborn 07'), ('rsv eintracht teltow', 'kaiserslautern'), ('loko leipzig', 'schalke 04'), ('blau-weiß lohne', 'greuther furth'), ("jahn r'burg", 'koln'), ('meuselwitz', 'karlsruher'), ('sv atlas', 'gladbach'), ('ulm', 'elversberg'), ('hallescher', 'augsburg'), ('homburg', 'holstein kiel'), ('viktoria berlin', 'bochum women'), ('1. fc neubrandenburg 04', 'vfr schwarz-weiß warbeyen'), ('solingen-aufderhohe', 'sc victoria hamburg'), ('vfb stuttgart', 'mainz 05'), ('saalfeld titans', 'ingolstadt'), ('herrenberg', 'kickers offenbach'), ('fsv gutersloh 2009', 'magdeburger ffc'), ('borussia pankow', 'hannover 96'), ('holstein kiel', 'meppen'), ('monza', 'frosinone'), ('parma', 'pescara'), ('milan', 'bari'), ('brest', 'lille'), ('auxerre', 'lorient'), ('angers', 'paris fc'), ('metz', 'strasbourg'), ('nantes', 'paris s-g'), ('sj earthquakes', 'san diego fc'), ('nycfc', 'nashville sc'), ("vancouver w'caps", 'houston dynamo'), ('gotham fc', 'dash'), ('defensa y just', "newell's ob"), ('gimnasia–lp', 'lanus'), ('cen. cordoba–sde', 'barracas central'), ('banfield', 'estudiantes–lp'), ('river plate', 'godoy cruz'), ('ind. rivadavia', 'boca juniors'), ('wolfsberger ac', 'blau-weiß linz'), ('rapid wien', 'scr altach'), ('lask', 'austria wien'), ('dender', 'anderlecht'), ('sint-truiden', 'la louviere'), ('charleroi', 'antwerp'), ('cercle brugge', 'westerlo'), ('atletico mineiro', 'gremio'), ('santos', 'vasco da gama'), ('internacional', 'flamengo'), ('botafogo (rj)', 'palmeiras'), ('palmeiras', 'flamengo'), ('cruzeiro ec', 'red bull bragantino'), ('ludogorets', 'lokomotiv sofia'), ('botev vratsa', 'levski sofia'), ('valour fc', 'york united'), ('forge fc', 'atletico ottawa'), ('cavalry fc', 'vancouver fc'), ('u de chile', 'audax italiano'), ('huachipato', 'cd limache'), ('coquimbo unido', 'everton'), ('tolima', 'millonarios'), ('varazdin', 'osijek'), ('hajduk split', 'slaven belupo'), ('karvina', 'bohemians 1905'), ('slovan liberec', 'sparta prague'), ('vejle bk', 'midtjylland'), ('viborg', 'silkeborg'), ('randers', 'brøndby'), ('aarhus gf', 'brøndby'), ('ldu de quito', 'manta futbol club'), ('tecnico univ.', 'cs emelec'), ('barcelona', 'macara'), ('haka', 'hjk'), ('kups', 'inter turku'), ('debrecen', 'nyiregyhaza'), ('mtk budapest', 'gyor'), ('paks', 'zalaegerszeg'), ('fagi okayama', 'kashiwa reysol'), ('sanfrecce hiroshima', 'kobe leonessa'), ('albirex niigata', 'urawa reds'), ('beleza', 'nojima stella'), ('jef united chiba', 'omiya ardija'), ('sangju sangmu', 'fc seoul'), ('gwangju fc', 'daejeon citizen fc'), ('queretaro', 'atlas'), ('monterrey', 'mazatlan'), ('go ahead eag', 'ajax'), ("sparta r'dam", 'utrecht'), ('twente', 'psv eindhoven'), ('volendam', 'az alkmaar'), ('nac breda', 'fortuna sittard'), ('tromsø', 'brann'), ('hamkam', 'bryne'), ('kfum oslo', 'molde'), ('kristiansund', 'sandefjord'), ('valerenga', 'sarpsborg 08'), ('olimpia', 'libertad'), ('sportivo trinidense', 'nacional'), ('sport huancayo', 'universitario'), ('melgar', 'ayacucho'), ('cusco', 'alianza atletico'), ('radomiak radom', 'jagiellonia'), ('pogon szczecin', 'gornik zabrze'), ('nieciecza', 'rakow'), ('wisła płock', 'legia warsaw'), ('rio ave', 'nacional'), ('santa clara', 'moreirense'), ('alverca', 'braga'), ('sporting cp', 'arouca'), ('fc csikszereda miercurea ciuc', 'cs u craiova'), ('cfr cluj', 'botosani'), ('rapid bucuresti', 'fcsb'), ('fk akron tolyatti', 'orenburg'), ('rubin kazan', 'rostov'), ('dynamo mosc', 'cska moscow'), ('krasnodar', 'sochi'), ('tsc', 'ofk beograd'), ('radnicki kragujevac', 'napredak krusevac'), ('zeleznicar pancevo', 'radnicki nis'), ('brommapojkarna', 'sirius'), ('goteborg', 'aik stockholm'), ('mjallby', 'djurgarden'), ('hammarby', 'gais'), ('hacken', 'oster'), ('ifk norrkoping dfk', 'linkoping'), ('djurgarden', 'vittsjo'), ('vaxjo', 'bk hacken'), ('malmo', 'aik fotboll dam'), ('genclerbirligi', 'antalyaspor'), ('konyaspor', 'gaziantep fk'), ('besiktas', 'eyupspor'), ('basaksehir', 'kayserispor'), ('kudrivka', 'sk poltava'), ('veres rivne', 'shakhtar'), ('fc polissya zhytomyr', 'fc lnz cherkasy'), ('river plate', 'torque'), ('racing', 'defensor'), ('plaza colonia', 'cerro'), ('rayo zuliano', 'acad pr cabello'), ('dep la guaira', 'dep tachira'), ('rfc liege', 'seraing'), ('chapecoense', 'paysandu'), ('atl goianiense', 'ferroviaria'), ('ventforet kofu', 'oita trinita'), ('ehime fc', 'omiya ardija'), ('sagan tosu', 'v-v nagasaki'), ('emmen', 'almere city'), ('willem ii', 'fc eindhoven'), ('orebro', 'orgryte'), ('sandvikens if', 'landskrona'), ('newcastle united', 'southampton'), ('brighton', 'west bromwich albion')]
+✅ espanyol-atlético madrid 17/08 → 2-1 (1)
+🔑 Recherche clé : ('celta vigo', 'getafe') parmi [('chelsea', 'crystal palace'), ("nott'ham forest", 'brentford'), ('manchester utd', 'arsenal'), ('ipswich town', 'southampton'), ('hull city', 'oxford united'), ('hallam', 'city liverpool'), ('hackney wick', 'bognor regis'), ('wokingham & emmbrook fc', 'larkhall'), ('littlehampton town fc', 'nth greenford'), ('enfield 1893', 'biggleswade'), ('celta vigo', 'getafe'), ('athletic club', 'sevilla'), ('espanyol', 'atletico madrid'), ('real sociedad b', 'zaragoza'), ('cadiz', 'cd mirandes'), ('las palmas', 'fc andorra'), ('huesca', 'leganes'), ('fv engers 07', 'eint frankfurt'), ('viktoria koln', 'paderborn 07'), ('rsv eintracht teltow', 'kaiserslautern'), ('loko leipzig', 'schalke 04'), ('blau-weiß lohne', 'greuther furth'), ("jahn r'burg", 'koln'), ('meuselwitz', 'karlsruher'), ('sv atlas', 'gladbach'), ('ulm', 'elversberg'), ('hallescher', 'augsburg'), ('homburg', 'holstein kiel'), ('viktoria berlin', 'bochum women'), ('1. fc neubrandenburg 04', 'vfr schwarz-weiß warbeyen'), ('solingen-aufderhohe', 'sc victoria hamburg'), ('vfb stuttgart', 'mainz 05'), ('saalfeld titans', 'ingolstadt'), ('herrenberg', 'kickers offenbach'), ('fsv gutersloh 2009', 'magdeburger ffc'), ('borussia pankow', 'hannover 96'), ('holstein kiel', 'meppen'), ('monza', 'frosinone'), ('parma', 'pescara'), ('milan', 'bari'), ('brest', 'lille'), ('auxerre', 'lorient'), ('angers', 'paris fc'), ('metz', 'strasbourg'), ('nantes', 'paris s-g'), ('sj earthquakes', 'san diego fc'), ('nycfc', 'nashville sc'), ("vancouver w'caps", 'houston dynamo'), ('gotham fc', 'dash'), ('defensa y just', "newell's ob"), ('gimnasia–lp', 'lanus'), ('cen. cordoba–sde', 'barracas central'), ('banfield', 'estudiantes–lp'), ('river plate', 'godoy cruz'), ('ind. rivadavia', 'boca juniors'), ('wolfsberger ac', 'blau-weiß linz'), ('rapid wien', 'scr altach'), ('lask', 'austria wien'), ('dender', 'anderlecht'), ('sint-truiden', 'la louviere'), ('charleroi', 'antwerp'), ('cercle brugge', 'westerlo'), ('atletico mineiro', 'gremio'), ('santos', 'vasco da gama'), ('internacional', 'flamengo'), ('botafogo (rj)', 'palmeiras'), ('palmeiras', 'flamengo'), ('cruzeiro ec', 'red bull bragantino'), ('ludogorets', 'lokomotiv sofia'), ('botev vratsa', 'levski sofia'), ('valour fc', 'york united'), ('forge fc', 'atletico ottawa'), ('cavalry fc', 'vancouver fc'), ('u de chile', 'audax italiano'), ('huachipato', 'cd limache'), ('coquimbo unido', 'everton'), ('tolima', 'millonarios'), ('varazdin', 'osijek'), ('hajduk split', 'slaven belupo'), ('karvina', 'bohemians 1905'), ('slovan liberec', 'sparta prague'), ('vejle bk', 'midtjylland'), ('viborg', 'silkeborg'), ('randers', 'brøndby'), ('aarhus gf', 'brøndby'), ('ldu de quito', 'manta futbol club'), ('tecnico univ.', 'cs emelec'), ('barcelona', 'macara'), ('haka', 'hjk'), ('kups', 'inter turku'), ('debrecen', 'nyiregyhaza'), ('mtk budapest', 'gyor'), ('paks', 'zalaegerszeg'), ('fagi okayama', 'kashiwa reysol'), ('sanfrecce hiroshima', 'kobe leonessa'), ('albirex niigata', 'urawa reds'), ('beleza', 'nojima stella'), ('jef united chiba', 'omiya ardija'), ('sangju sangmu', 'fc seoul'), ('gwangju fc', 'daejeon citizen fc'), ('queretaro', 'atlas'), ('monterrey', 'mazatlan'), ('go ahead eag', 'ajax'), ("sparta r'dam", 'utrecht'), ('twente', 'psv eindhoven'), ('volendam', 'az alkmaar'), ('nac breda', 'fortuna sittard'), ('tromsø', 'brann'), ('hamkam', 'bryne'), ('kfum oslo', 'molde'), ('kristiansund', 'sandefjord'), ('valerenga', 'sarpsborg 08'), ('olimpia', 'libertad'), ('sportivo trinidense', 'nacional'), ('sport huancayo', 'universitario'), ('melgar', 'ayacucho'), ('cusco', 'alianza atletico'), ('radomiak radom', 'jagiellonia'), ('pogon szczecin', 'gornik zabrze'), ('nieciecza', 'rakow'), ('wisła płock', 'legia warsaw'), ('rio ave', 'nacional'), ('santa clara', 'moreirense'), ('alverca', 'braga'), ('sporting cp', 'arouca'), ('fc csikszereda miercurea ciuc', 'cs u craiova'), ('cfr cluj', 'botosani'), ('rapid bucuresti', 'fcsb'), ('fk akron tolyatti', 'orenburg'), ('rubin kazan', 'rostov'), ('dynamo mosc', 'cska moscow'), ('krasnodar', 'sochi'), ('tsc', 'ofk beograd'), ('radnicki kragujevac', 'napredak krusevac'), ('zeleznicar pancevo', 'radnicki nis'), ('brommapojkarna', 'sirius'), ('goteborg', 'aik stockholm'), ('mjallby', 'djurgarden'), ('hammarby', 'gais'), ('hacken', 'oster'), ('ifk norrkoping dfk', 'linkoping'), ('djurgarden', 'vittsjo'), ('vaxjo', 'bk hacken'), ('malmo', 'aik fotboll dam'), ('genclerbirligi', 'antalyaspor'), ('konyaspor', 'gaziantep fk'), ('besiktas', 'eyupspor'), ('basaksehir', 'kayserispor'), ('kudrivka', 'sk poltava'), ('veres rivne', 'shakhtar'), ('fc polissya zhytomyr', 'fc lnz cherkasy'), ('river plate', 'torque'), ('racing', 'defensor'), ('plaza colonia', 'cerro'), ('rayo zuliano', 'acad pr cabello'), ('dep la guaira', 'dep tachira'), ('rfc liege', 'seraing'), ('chapecoense', 'paysandu'), ('atl goianiense', 'ferroviaria'), ('ventforet kofu', 'oita trinita'), ('ehime fc', 'omiya ardija'), ('sagan tosu', 'v-v nagasaki'), ('emmen', 'almere city'), ('willem ii', 'fc eindhoven'), ('orebro', 'orgryte'), ('sandvikens if', 'landskrona'), ('newcastle united', 'southampton'), ('brighton', 'west bromwich albion')]
+✅ celta vigo-getafe 17/08 → 0-2 (2)
+🔑 Recherche clé : ('athletic club', 'sevilla') parmi [('chelsea', 'crystal palace'), ("nott'ham forest", 'brentford'), ('manchester utd', 'arsenal'), ('ipswich town', 'southampton'), ('hull city', 'oxford united'), ('hallam', 'city liverpool'), ('hackney wick', 'bognor regis'), ('wokingham & emmbrook fc', 'larkhall'), ('littlehampton town fc', 'nth greenford'), ('enfield 1893', 'biggleswade'), ('celta vigo', 'getafe'), ('athletic club', 'sevilla'), ('espanyol', 'atletico madrid'), ('real sociedad b', 'zaragoza'), ('cadiz', 'cd mirandes'), ('las palmas', 'fc andorra'), ('huesca', 'leganes'), ('fv engers 07', 'eint frankfurt'), ('viktoria koln', 'paderborn 07'), ('rsv eintracht teltow', 'kaiserslautern'), ('loko leipzig', 'schalke 04'), ('blau-weiß lohne', 'greuther furth'), ("jahn r'burg", 'koln'), ('meuselwitz', 'karlsruher'), ('sv atlas', 'gladbach'), ('ulm', 'elversberg'), ('hallescher', 'augsburg'), ('homburg', 'holstein kiel'), ('viktoria berlin', 'bochum women'), ('1. fc neubrandenburg 04', 'vfr schwarz-weiß warbeyen'), ('solingen-aufderhohe', 'sc victoria hamburg'), ('vfb stuttgart', 'mainz 05'), ('saalfeld titans', 'ingolstadt'), ('herrenberg', 'kickers offenbach'), ('fsv gutersloh 2009', 'magdeburger ffc'), ('borussia pankow', 'hannover 96'), ('holstein kiel', 'meppen'), ('monza', 'frosinone'), ('parma', 'pescara'), ('milan', 'bari'), ('brest', 'lille'), ('auxerre', 'lorient'), ('angers', 'paris fc'), ('metz', 'strasbourg'), ('nantes', 'paris s-g'), ('sj earthquakes', 'san diego fc'), ('nycfc', 'nashville sc'), ("vancouver w'caps", 'houston dynamo'), ('gotham fc', 'dash'), ('defensa y just', "newell's ob"), ('gimnasia–lp', 'lanus'), ('cen. cordoba–sde', 'barracas central'), ('banfield', 'estudiantes–lp'), ('river plate', 'godoy cruz'), ('ind. rivadavia', 'boca juniors'), ('wolfsberger ac', 'blau-weiß linz'), ('rapid wien', 'scr altach'), ('lask', 'austria wien'), ('dender', 'anderlecht'), ('sint-truiden', 'la louviere'), ('charleroi', 'antwerp'), ('cercle brugge', 'westerlo'), ('atletico mineiro', 'gremio'), ('santos', 'vasco da gama'), ('internacional', 'flamengo'), ('botafogo (rj)', 'palmeiras'), ('palmeiras', 'flamengo'), ('cruzeiro ec', 'red bull bragantino'), ('ludogorets', 'lokomotiv sofia'), ('botev vratsa', 'levski sofia'), ('valour fc', 'york united'), ('forge fc', 'atletico ottawa'), ('cavalry fc', 'vancouver fc'), ('u de chile', 'audax italiano'), ('huachipato', 'cd limache'), ('coquimbo unido', 'everton'), ('tolima', 'millonarios'), ('varazdin', 'osijek'), ('hajduk split', 'slaven belupo'), ('karvina', 'bohemians 1905'), ('slovan liberec', 'sparta prague'), ('vejle bk', 'midtjylland'), ('viborg', 'silkeborg'), ('randers', 'brøndby'), ('aarhus gf', 'brøndby'), ('ldu de quito', 'manta futbol club'), ('tecnico univ.', 'cs emelec'), ('barcelona', 'macara'), ('haka', 'hjk'), ('kups', 'inter turku'), ('debrecen', 'nyiregyhaza'), ('mtk budapest', 'gyor'), ('paks', 'zalaegerszeg'), ('fagi okayama', 'kashiwa reysol'), ('sanfrecce hiroshima', 'kobe leonessa'), ('albirex niigata', 'urawa reds'), ('beleza', 'nojima stella'), ('jef united chiba', 'omiya ardija'), ('sangju sangmu', 'fc seoul'), ('gwangju fc', 'daejeon citizen fc'), ('queretaro', 'atlas'), ('monterrey', 'mazatlan'), ('go ahead eag', 'ajax'), ("sparta r'dam", 'utrecht'), ('twente', 'psv eindhoven'), ('volendam', 'az alkmaar'), ('nac breda', 'fortuna sittard'), ('tromsø', 'brann'), ('hamkam', 'bryne'), ('kfum oslo', 'molde'), ('kristiansund', 'sandefjord'), ('valerenga', 'sarpsborg 08'), ('olimpia', 'libertad'), ('sportivo trinidense', 'nacional'), ('sport huancayo', 'universitario'), ('melgar', 'ayacucho'), ('cusco', 'alianza atletico'), ('radomiak radom', 'jagiellonia'), ('pogon szczecin', 'gornik zabrze'), ('nieciecza', 'rakow'), ('wisła płock', 'legia warsaw'), ('rio ave', 'nacional'), ('santa clara', 'moreirense'), ('alverca', 'braga'), ('sporting cp', 'arouca'), ('fc csikszereda miercurea ciuc', 'cs u craiova'), ('cfr cluj', 'botosani'), ('rapid bucuresti', 'fcsb'), ('fk akron tolyatti', 'orenburg'), ('rubin kazan', 'rostov'), ('dynamo mosc', 'cska moscow'), ('krasnodar', 'sochi'), ('tsc', 'ofk beograd'), ('radnicki kragujevac', 'napredak krusevac'), ('zeleznicar pancevo', 'radnicki nis'), ('brommapojkarna', 'sirius'), ('goteborg', 'aik stockholm'), ('mjallby', 'djurgarden'), ('hammarby', 'gais'), ('hacken', 'oster'), ('ifk norrkoping dfk', 'linkoping'), ('djurgarden', 'vittsjo'), ('vaxjo', 'bk hacken'), ('malmo', 'aik fotboll dam'), ('genclerbirligi', 'antalyaspor'), ('konyaspor', 'gaziantep fk'), ('besiktas', 'eyupspor'), ('basaksehir', 'kayserispor'), ('kudrivka', 'sk poltava'), ('veres rivne', 'shakhtar'), ('fc polissya zhytomyr', 'fc lnz cherkasy'), ('river plate', 'torque'), ('racing', 'defensor'), ('plaza colonia', 'cerro'), ('rayo zuliano', 'acad pr cabello'), ('dep la guaira', 'dep tachira'), ('rfc liege', 'seraing'), ('chapecoense', 'paysandu'), ('atl goianiense', 'ferroviaria'), ('ventforet kofu', 'oita trinita'), ('ehime fc', 'omiya ardija'), ('sagan tosu', 'v-v nagasaki'), ('emmen', 'almere city'), ('willem ii', 'fc eindhoven'), ('orebro', 'orgryte'), ('sandvikens if', 'landskrona'), ('newcastle united', 'southampton'), ('brighton', 'west bromwich albion')]
+✅ athletic club-sevilla 17/08 → 3-2 (1)
+🔑 Recherche clé : ('sporting cp', 'arouca') parmi [('chelsea', 'crystal palace'), ("nott'ham forest", 'brentford'), ('manchester utd', 'arsenal'), ('ipswich town', 'southampton'), ('hull city', 'oxford united'), ('hallam', 'city liverpool'), ('hackney wick', 'bognor regis'), ('wokingham & emmbrook fc', 'larkhall'), ('littlehampton town fc', 'nth greenford'), ('enfield 1893', 'biggleswade'), ('celta vigo', 'getafe'), ('athletic club', 'sevilla'), ('espanyol', 'atletico madrid'), ('real sociedad b', 'zaragoza'), ('cadiz', 'cd mirandes'), ('las palmas', 'fc andorra'), ('huesca', 'leganes'), ('fv engers 07', 'eint frankfurt'), ('viktoria koln', 'paderborn 07'), ('rsv eintracht teltow', 'kaiserslautern'), ('loko leipzig', 'schalke 04'), ('blau-weiß lohne', 'greuther furth'), ("jahn r'burg", 'koln'), ('meuselwitz', 'karlsruher'), ('sv atlas', 'gladbach'), ('ulm', 'elversberg'), ('hallescher', 'augsburg'), ('homburg', 'holstein kiel'), ('viktoria berlin', 'bochum women'), ('1. fc neubrandenburg 04', 'vfr schwarz-weiß warbeyen'), ('solingen-aufderhohe', 'sc victoria hamburg'), ('vfb stuttgart', 'mainz 05'), ('saalfeld titans', 'ingolstadt'), ('herrenberg', 'kickers offenbach'), ('fsv gutersloh 2009', 'magdeburger ffc'), ('borussia pankow', 'hannover 96'), ('holstein kiel', 'meppen'), ('monza', 'frosinone'), ('parma', 'pescara'), ('milan', 'bari'), ('brest', 'lille'), ('auxerre', 'lorient'), ('angers', 'paris fc'), ('metz', 'strasbourg'), ('nantes', 'paris s-g'), ('sj earthquakes', 'san diego fc'), ('nycfc', 'nashville sc'), ("vancouver w'caps", 'houston dynamo'), ('gotham fc', 'dash'), ('defensa y just', "newell's ob"), ('gimnasia–lp', 'lanus'), ('cen. cordoba–sde', 'barracas central'), ('banfield', 'estudiantes–lp'), ('river plate', 'godoy cruz'), ('ind. rivadavia', 'boca juniors'), ('wolfsberger ac', 'blau-weiß linz'), ('rapid wien', 'scr altach'), ('lask', 'austria wien'), ('dender', 'anderlecht'), ('sint-truiden', 'la louviere'), ('charleroi', 'antwerp'), ('cercle brugge', 'westerlo'), ('atletico mineiro', 'gremio'), ('santos', 'vasco da gama'), ('internacional', 'flamengo'), ('botafogo (rj)', 'palmeiras'), ('palmeiras', 'flamengo'), ('cruzeiro ec', 'red bull bragantino'), ('ludogorets', 'lokomotiv sofia'), ('botev vratsa', 'levski sofia'), ('valour fc', 'york united'), ('forge fc', 'atletico ottawa'), ('cavalry fc', 'vancouver fc'), ('u de chile', 'audax italiano'), ('huachipato', 'cd limache'), ('coquimbo unido', 'everton'), ('tolima', 'millonarios'), ('varazdin', 'osijek'), ('hajduk split', 'slaven belupo'), ('karvina', 'bohemians 1905'), ('slovan liberec', 'sparta prague'), ('vejle bk', 'midtjylland'), ('viborg', 'silkeborg'), ('randers', 'brøndby'), ('aarhus gf', 'brøndby'), ('ldu de quito', 'manta futbol club'), ('tecnico univ.', 'cs emelec'), ('barcelona', 'macara'), ('haka', 'hjk'), ('kups', 'inter turku'), ('debrecen', 'nyiregyhaza'), ('mtk budapest', 'gyor'), ('paks', 'zalaegerszeg'), ('fagi okayama', 'kashiwa reysol'), ('sanfrecce hiroshima', 'kobe leonessa'), ('albirex niigata', 'urawa reds'), ('beleza', 'nojima stella'), ('jef united chiba', 'omiya ardija'), ('sangju sangmu', 'fc seoul'), ('gwangju fc', 'daejeon citizen fc'), ('queretaro', 'atlas'), ('monterrey', 'mazatlan'), ('go ahead eag', 'ajax'), ("sparta r'dam", 'utrecht'), ('twente', 'psv eindhoven'), ('volendam', 'az alkmaar'), ('nac breda', 'fortuna sittard'), ('tromsø', 'brann'), ('hamkam', 'bryne'), ('kfum oslo', 'molde'), ('kristiansund', 'sandefjord'), ('valerenga', 'sarpsborg 08'), ('olimpia', 'libertad'), ('sportivo trinidense', 'nacional'), ('sport huancayo', 'universitario'), ('melgar', 'ayacucho'), ('cusco', 'alianza atletico'), ('radomiak radom', 'jagiellonia'), ('pogon szczecin', 'gornik zabrze'), ('nieciecza', 'rakow'), ('wisła płock', 'legia warsaw'), ('rio ave', 'nacional'), ('santa clara', 'moreirense'), ('alverca', 'braga'), ('sporting cp', 'arouca'), ('fc csikszereda miercurea ciuc', 'cs u craiova'), ('cfr cluj', 'botosani'), ('rapid bucuresti', 'fcsb'), ('fk akron tolyatti', 'orenburg'), ('rubin kazan', 'rostov'), ('dynamo mosc', 'cska moscow'), ('krasnodar', 'sochi'), ('tsc', 'ofk beograd'), ('radnicki kragujevac', 'napredak krusevac'), ('zeleznicar pancevo', 'radnicki nis'), ('brommapojkarna', 'sirius'), ('goteborg', 'aik stockholm'), ('mjallby', 'djurgarden'), ('hammarby', 'gais'), ('hacken', 'oster'), ('ifk norrkoping dfk', 'linkoping'), ('djurgarden', 'vittsjo'), ('vaxjo', 'bk hacken'), ('malmo', 'aik fotboll dam'), ('genclerbirligi', 'antalyaspor'), ('konyaspor', 'gaziantep fk'), ('besiktas', 'eyupspor'), ('basaksehir', 'kayserispor'), ('kudrivka', 'sk poltava'), ('veres rivne', 'shakhtar'), ('fc polissya zhytomyr', 'fc lnz cherkasy'), ('river plate', 'torque'), ('racing', 'defensor'), ('plaza colonia', 'cerro'), ('rayo zuliano', 'acad pr cabello'), ('dep la guaira', 'dep tachira'), ('rfc liege', 'seraing'), ('chapecoense', 'paysandu'), ('atl goianiense', 'ferroviaria'), ('ventforet kofu', 'oita trinita'), ('ehime fc', 'omiya ardija'), ('sagan tosu', 'v-v nagasaki'), ('emmen', 'almere city'), ('willem ii', 'fc eindhoven'), ('orebro', 'orgryte'), ('sandvikens if', 'landskrona'), ('newcastle united', 'southampton'), ('brighton', 'west bromwich albion')]
+✅ sporting cp-arouca 17/08 → 6-0 (1)
+🔑 Recherche clé : ('alverca', 'braga') parmi [('chelsea', 'crystal palace'), ("nott'ham forest", 'brentford'), ('manchester utd', 'arsenal'), ('ipswich town', 'southampton'), ('hull city', 'oxford united'), ('hallam', 'city liverpool'), ('hackney wick', 'bognor regis'), ('wokingham & emmbrook fc', 'larkhall'), ('littlehampton town fc', 'nth greenford'), ('enfield 1893', 'biggleswade'), ('celta vigo', 'getafe'), ('athletic club', 'sevilla'), ('espanyol', 'atletico madrid'), ('real sociedad b', 'zaragoza'), ('cadiz', 'cd mirandes'), ('las palmas', 'fc andorra'), ('huesca', 'leganes'), ('fv engers 07', 'eint frankfurt'), ('viktoria koln', 'paderborn 07'), ('rsv eintracht teltow', 'kaiserslautern'), ('loko leipzig', 'schalke 04'), ('blau-weiß lohne', 'greuther furth'), ("jahn r'burg", 'koln'), ('meuselwitz', 'karlsruher'), ('sv atlas', 'gladbach'), ('ulm', 'elversberg'), ('hallescher', 'augsburg'), ('homburg', 'holstein kiel'), ('viktoria berlin', 'bochum women'), ('1. fc neubrandenburg 04', 'vfr schwarz-weiß warbeyen'), ('solingen-aufderhohe', 'sc victoria hamburg'), ('vfb stuttgart', 'mainz 05'), ('saalfeld titans', 'ingolstadt'), ('herrenberg', 'kickers offenbach'), ('fsv gutersloh 2009', 'magdeburger ffc'), ('borussia pankow', 'hannover 96'), ('holstein kiel', 'meppen'), ('monza', 'frosinone'), ('parma', 'pescara'), ('milan', 'bari'), ('brest', 'lille'), ('auxerre', 'lorient'), ('angers', 'paris fc'), ('metz', 'strasbourg'), ('nantes', 'paris s-g'), ('sj earthquakes', 'san diego fc'), ('nycfc', 'nashville sc'), ("vancouver w'caps", 'houston dynamo'), ('gotham fc', 'dash'), ('defensa y just', "newell's ob"), ('gimnasia–lp', 'lanus'), ('cen. cordoba–sde', 'barracas central'), ('banfield', 'estudiantes–lp'), ('river plate', 'godoy cruz'), ('ind. rivadavia', 'boca juniors'), ('wolfsberger ac', 'blau-weiß linz'), ('rapid wien', 'scr altach'), ('lask', 'austria wien'), ('dender', 'anderlecht'), ('sint-truiden', 'la louviere'), ('charleroi', 'antwerp'), ('cercle brugge', 'westerlo'), ('atletico mineiro', 'gremio'), ('santos', 'vasco da gama'), ('internacional', 'flamengo'), ('botafogo (rj)', 'palmeiras'), ('palmeiras', 'flamengo'), ('cruzeiro ec', 'red bull bragantino'), ('ludogorets', 'lokomotiv sofia'), ('botev vratsa', 'levski sofia'), ('valour fc', 'york united'), ('forge fc', 'atletico ottawa'), ('cavalry fc', 'vancouver fc'), ('u de chile', 'audax italiano'), ('huachipato', 'cd limache'), ('coquimbo unido', 'everton'), ('tolima', 'millonarios'), ('varazdin', 'osijek'), ('hajduk split', 'slaven belupo'), ('karvina', 'bohemians 1905'), ('slovan liberec', 'sparta prague'), ('vejle bk', 'midtjylland'), ('viborg', 'silkeborg'), ('randers', 'brøndby'), ('aarhus gf', 'brøndby'), ('ldu de quito', 'manta futbol club'), ('tecnico univ.', 'cs emelec'), ('barcelona', 'macara'), ('haka', 'hjk'), ('kups', 'inter turku'), ('debrecen', 'nyiregyhaza'), ('mtk budapest', 'gyor'), ('paks', 'zalaegerszeg'), ('fagi okayama', 'kashiwa reysol'), ('sanfrecce hiroshima', 'kobe leonessa'), ('albirex niigata', 'urawa reds'), ('beleza', 'nojima stella'), ('jef united chiba', 'omiya ardija'), ('sangju sangmu', 'fc seoul'), ('gwangju fc', 'daejeon citizen fc'), ('queretaro', 'atlas'), ('monterrey', 'mazatlan'), ('go ahead eag', 'ajax'), ("sparta r'dam", 'utrecht'), ('twente', 'psv eindhoven'), ('volendam', 'az alkmaar'), ('nac breda', 'fortuna sittard'), ('tromsø', 'brann'), ('hamkam', 'bryne'), ('kfum oslo', 'molde'), ('kristiansund', 'sandefjord'), ('valerenga', 'sarpsborg 08'), ('olimpia', 'libertad'), ('sportivo trinidense', 'nacional'), ('sport huancayo', 'universitario'), ('melgar', 'ayacucho'), ('cusco', 'alianza atletico'), ('radomiak radom', 'jagiellonia'), ('pogon szczecin', 'gornik zabrze'), ('nieciecza', 'rakow'), ('wisła płock', 'legia warsaw'), ('rio ave', 'nacional'), ('santa clara', 'moreirense'), ('alverca', 'braga'), ('sporting cp', 'arouca'), ('fc csikszereda miercurea ciuc', 'cs u craiova'), ('cfr cluj', 'botosani'), ('rapid bucuresti', 'fcsb'), ('fk akron tolyatti', 'orenburg'), ('rubin kazan', 'rostov'), ('dynamo mosc', 'cska moscow'), ('krasnodar', 'sochi'), ('tsc', 'ofk beograd'), ('radnicki kragujevac', 'napredak krusevac'), ('zeleznicar pancevo', 'radnicki nis'), ('brommapojkarna', 'sirius'), ('goteborg', 'aik stockholm'), ('mjallby', 'djurgarden'), ('hammarby', 'gais'), ('hacken', 'oster'), ('ifk norrkoping dfk', 'linkoping'), ('djurgarden', 'vittsjo'), ('vaxjo', 'bk hacken'), ('malmo', 'aik fotboll dam'), ('genclerbirligi', 'antalyaspor'), ('konyaspor', 'gaziantep fk'), ('besiktas', 'eyupspor'), ('basaksehir', 'kayserispor'), ('kudrivka', 'sk poltava'), ('veres rivne', 'shakhtar'), ('fc polissya zhytomyr', 'fc lnz cherkasy'), ('river plate', 'torque'), ('racing', 'defensor'), ('plaza colonia', 'cerro'), ('rayo zuliano', 'acad pr cabello'), ('dep la guaira', 'dep tachira'), ('rfc liege', 'seraing'), ('chapecoense', 'paysandu'), ('atl goianiense', 'ferroviaria'), ('ventforet kofu', 'oita trinita'), ('ehime fc', 'omiya ardija'), ('sagan tosu', 'v-v nagasaki'), ('emmen', 'almere city'), ('willem ii', 'fc eindhoven'), ('orebro', 'orgryte'), ('sandvikens if', 'landskrona'), ('newcastle united', 'southampton'), ('brighton', 'west bromwich albion')]
+✅ alverca-braga 17/08 → 0-3 (2)
+🔑 Recherche clé : ('santa clara', 'moreirense') parmi [('chelsea', 'crystal palace'), ("nott'ham forest", 'brentford'), ('manchester utd', 'arsenal'), ('ipswich town', 'southampton'), ('hull city', 'oxford united'), ('hallam', 'city liverpool'), ('hackney wick', 'bognor regis'), ('wokingham & emmbrook fc', 'larkhall'), ('littlehampton town fc', 'nth greenford'), ('enfield 1893', 'biggleswade'), ('celta vigo', 'getafe'), ('athletic club', 'sevilla'), ('espanyol', 'atletico madrid'), ('real sociedad b', 'zaragoza'), ('cadiz', 'cd mirandes'), ('las palmas', 'fc andorra'), ('huesca', 'leganes'), ('fv engers 07', 'eint frankfurt'), ('viktoria koln', 'paderborn 07'), ('rsv eintracht teltow', 'kaiserslautern'), ('loko leipzig', 'schalke 04'), ('blau-weiß lohne', 'greuther furth'), ("jahn r'burg", 'koln'), ('meuselwitz', 'karlsruher'), ('sv atlas', 'gladbach'), ('ulm', 'elversberg'), ('hallescher', 'augsburg'), ('homburg', 'holstein kiel'), ('viktoria berlin', 'bochum women'), ('1. fc neubrandenburg 04', 'vfr schwarz-weiß warbeyen'), ('solingen-aufderhohe', 'sc victoria hamburg'), ('vfb stuttgart', 'mainz 05'), ('saalfeld titans', 'ingolstadt'), ('herrenberg', 'kickers offenbach'), ('fsv gutersloh 2009', 'magdeburger ffc'), ('borussia pankow', 'hannover 96'), ('holstein kiel', 'meppen'), ('monza', 'frosinone'), ('parma', 'pescara'), ('milan', 'bari'), ('brest', 'lille'), ('auxerre', 'lorient'), ('angers', 'paris fc'), ('metz', 'strasbourg'), ('nantes', 'paris s-g'), ('sj earthquakes', 'san diego fc'), ('nycfc', 'nashville sc'), ("vancouver w'caps", 'houston dynamo'), ('gotham fc', 'dash'), ('defensa y just', "newell's ob"), ('gimnasia–lp', 'lanus'), ('cen. cordoba–sde', 'barracas central'), ('banfield', 'estudiantes–lp'), ('river plate', 'godoy cruz'), ('ind. rivadavia', 'boca juniors'), ('wolfsberger ac', 'blau-weiß linz'), ('rapid wien', 'scr altach'), ('lask', 'austria wien'), ('dender', 'anderlecht'), ('sint-truiden', 'la louviere'), ('charleroi', 'antwerp'), ('cercle brugge', 'westerlo'), ('atletico mineiro', 'gremio'), ('santos', 'vasco da gama'), ('internacional', 'flamengo'), ('botafogo (rj)', 'palmeiras'), ('palmeiras', 'flamengo'), ('cruzeiro ec', 'red bull bragantino'), ('ludogorets', 'lokomotiv sofia'), ('botev vratsa', 'levski sofia'), ('valour fc', 'york united'), ('forge fc', 'atletico ottawa'), ('cavalry fc', 'vancouver fc'), ('u de chile', 'audax italiano'), ('huachipato', 'cd limache'), ('coquimbo unido', 'everton'), ('tolima', 'millonarios'), ('varazdin', 'osijek'), ('hajduk split', 'slaven belupo'), ('karvina', 'bohemians 1905'), ('slovan liberec', 'sparta prague'), ('vejle bk', 'midtjylland'), ('viborg', 'silkeborg'), ('randers', 'brøndby'), ('aarhus gf', 'brøndby'), ('ldu de quito', 'manta futbol club'), ('tecnico univ.', 'cs emelec'), ('barcelona', 'macara'), ('haka', 'hjk'), ('kups', 'inter turku'), ('debrecen', 'nyiregyhaza'), ('mtk budapest', 'gyor'), ('paks', 'zalaegerszeg'), ('fagi okayama', 'kashiwa reysol'), ('sanfrecce hiroshima', 'kobe leonessa'), ('albirex niigata', 'urawa reds'), ('beleza', 'nojima stella'), ('jef united chiba', 'omiya ardija'), ('sangju sangmu', 'fc seoul'), ('gwangju fc', 'daejeon citizen fc'), ('queretaro', 'atlas'), ('monterrey', 'mazatlan'), ('go ahead eag', 'ajax'), ("sparta r'dam", 'utrecht'), ('twente', 'psv eindhoven'), ('volendam', 'az alkmaar'), ('nac breda', 'fortuna sittard'), ('tromsø', 'brann'), ('hamkam', 'bryne'), ('kfum oslo', 'molde'), ('kristiansund', 'sandefjord'), ('valerenga', 'sarpsborg 08'), ('olimpia', 'libertad'), ('sportivo trinidense', 'nacional'), ('sport huancayo', 'universitario'), ('melgar', 'ayacucho'), ('cusco', 'alianza atletico'), ('radomiak radom', 'jagiellonia'), ('pogon szczecin', 'gornik zabrze'), ('nieciecza', 'rakow'), ('wisła płock', 'legia warsaw'), ('rio ave', 'nacional'), ('santa clara', 'moreirense'), ('alverca', 'braga'), ('sporting cp', 'arouca'), ('fc csikszereda miercurea ciuc', 'cs u craiova'), ('cfr cluj', 'botosani'), ('rapid bucuresti', 'fcsb'), ('fk akron tolyatti', 'orenburg'), ('rubin kazan', 'rostov'), ('dynamo mosc', 'cska moscow'), ('krasnodar', 'sochi'), ('tsc', 'ofk beograd'), ('radnicki kragujevac', 'napredak krusevac'), ('zeleznicar pancevo', 'radnicki nis'), ('brommapojkarna', 'sirius'), ('goteborg', 'aik stockholm'), ('mjallby', 'djurgarden'), ('hammarby', 'gais'), ('hacken', 'oster'), ('ifk norrkoping dfk', 'linkoping'), ('djurgarden', 'vittsjo'), ('vaxjo', 'bk hacken'), ('malmo', 'aik fotboll dam'), ('genclerbirligi', 'antalyaspor'), ('konyaspor', 'gaziantep fk'), ('besiktas', 'eyupspor'), ('basaksehir', 'kayserispor'), ('kudrivka', 'sk poltava'), ('veres rivne', 'shakhtar'), ('fc polissya zhytomyr', 'fc lnz cherkasy'), ('river plate', 'torque'), ('racing', 'defensor'), ('plaza colonia', 'cerro'), ('rayo zuliano', 'acad pr cabello'), ('dep la guaira', 'dep tachira'), ('rfc liege', 'seraing'), ('chapecoense', 'paysandu'), ('atl goianiense', 'ferroviaria'), ('ventforet kofu', 'oita trinita'), ('ehime fc', 'omiya ardija'), ('sagan tosu', 'v-v nagasaki'), ('emmen', 'almere city'), ('willem ii', 'fc eindhoven'), ('orebro', 'orgryte'), ('sandvikens if', 'landskrona'), ('newcastle united', 'southampton'), ('brighton', 'west bromwich albion')]
+✅ santa clara-moreirense 17/08 → 0-1 (2)
+
+📅 Traitement des matchs du 19/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-19
+🔍 66 lignes trouvées dans les tables de la page
+✅ 0 matchs trouvés : []
+🔑 Recherche clé : ('real madrid', 'osasuna') parmi []
+❌ Résultat non trouvé pour real madrid-osasuna 19/08
+
+📅 Traitement des matchs du 15/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-15
+🔍 85 lignes trouvées dans les tables de la page
+✅ 83 matchs trouvés : [('liverpool', 'bournemouth'), ('pickering', 'easington colliery afc'), ('christchurch', 'tadley calleva'), ('lye town fc', 'rc warwick'), ('epsom & ewell fc', 'south park'), ('atherton', 'prestwich heys afc'), ('girona', 'rayo vallecano'), ('villarreal', 'oviedo'), ('valladolid', 'ad ceuta'), ('burgos', 'leonesa'), ('saarbrucken', 'magdeburg'), ('fc gutersloh 2000', 'union berlin'), ('großaspach', 'leverkusen'), ('arminia', 'werder bremen'), ('sassuolo', 'catanzaro'), ('lecce', 'juve stabia'), ('genoa', 'vicenza virtus'), ('rennes', 'marseille'), ('clermont foot', 'troyes'), ('red star', 'amiens'), ('bastia', 'pau fc'), ('nancy', 'us boulogne'), ('grenoble', 'stade laval'), ('spirit', 'louisville'), ('royals', 'angel city'), ('north carolina', 'detroit city'), ("charlotte ind'ence", 'westchester sc'), ('aldosivi', 'belgrano'), ('instituto', 'union'), ('racing club', 'tigre'), ('st. polten', 'first vienna'), ('oh leuven', 'genk'), ('corinthians', 'ec bahia'), ('cska 1948', 'montana'), ('loko plovdiv', 'slavia sofia'), ('union espanola', 'iquique'), ('la calera', 'la serena'), ('shanghai port', 'henan'), ('yunnan yukun', 'wuhan three towns'), ('alianza', 'once caldas'), ("hnk vukovar '91", 'istra 1961'), ('nordsjælland', 'fc copenhagen'), ('fc fredericia', 'sønderjyske'), ('delfin', 'el nacional'), ('if gnistan', 'vps'), ('ujpest', 'kisvarda'), ('jeju united fc', 'gangwon'), ('fc anyang', 'pohang'), ('puebla', 'atletico'), ('necaxa', 'leon'), ('telstar', 'zwolle'), ('strømsgodset', 'bodø/glimt'), ('fk bodø/glimt', 'stabæk'), ('club atletico tembetary', '2 de mayo'), ('deportivo recoleta', 'general caballero (jlm)'), ('atletico grau', 'comerciantes unidos'), ('sport boys', 'deportivo garcilaso'), ('zagłebie lubin', 'lechia gdansk'), ('cracovia', 'widzew łodz'), ('avs futebol', 'casa pia'), ('unirea slobozia', 'fc metaloglobus bucuresti'), ('dinamo', 'uta arad'), ('mladost lucani', 'red star'), ('cukaricki', 'spartak subotica'), ('galatasaray', 'fatih karagumruk'), ('rukh lviv', 'obolon-brovar kyiv'), ('boston river', 'penarol'), ('universidad central', 'yaracuyanos fc'), ('anzoategui', 'estud merida'), ('francs borains', 'patro eisden'), ('beveren', 'jong genk'), ('amazonas', 'america (mg)'), ('rkc waalwijk', 'helmond sport'), ('vvv-venlo', 'jong psv'), ('roda jc', 'de graafschap'), ('cambuur', 'oss'), ('oddevold', 'trelleborg'), ('utsikten', 'varberg'), ('norwich city', 'reading fc'), ('ipswich town', 'derby county'), ('arsenal', 'fulham'), ('aston villa', 'leeds united'), ('birmingham city', 'stoke city')]
+🔑 Recherche clé : ('villarreal', 'roviedo') parmi [('liverpool', 'bournemouth'), ('pickering', 'easington colliery afc'), ('christchurch', 'tadley calleva'), ('lye town fc', 'rc warwick'), ('epsom & ewell fc', 'south park'), ('atherton', 'prestwich heys afc'), ('girona', 'rayo vallecano'), ('villarreal', 'oviedo'), ('valladolid', 'ad ceuta'), ('burgos', 'leonesa'), ('saarbrucken', 'magdeburg'), ('fc gutersloh 2000', 'union berlin'), ('großaspach', 'leverkusen'), ('arminia', 'werder bremen'), ('sassuolo', 'catanzaro'), ('lecce', 'juve stabia'), ('genoa', 'vicenza virtus'), ('rennes', 'marseille'), ('clermont foot', 'troyes'), ('red star', 'amiens'), ('bastia', 'pau fc'), ('nancy', 'us boulogne'), ('grenoble', 'stade laval'), ('spirit', 'louisville'), ('royals', 'angel city'), ('north carolina', 'detroit city'), ("charlotte ind'ence", 'westchester sc'), ('aldosivi', 'belgrano'), ('instituto', 'union'), ('racing club', 'tigre'), ('st. polten', 'first vienna'), ('oh leuven', 'genk'), ('corinthians', 'ec bahia'), ('cska 1948', 'montana'), ('loko plovdiv', 'slavia sofia'), ('union espanola', 'iquique'), ('la calera', 'la serena'), ('shanghai port', 'henan'), ('yunnan yukun', 'wuhan three towns'), ('alianza', 'once caldas'), ("hnk vukovar '91", 'istra 1961'), ('nordsjælland', 'fc copenhagen'), ('fc fredericia', 'sønderjyske'), ('delfin', 'el nacional'), ('if gnistan', 'vps'), ('ujpest', 'kisvarda'), ('jeju united fc', 'gangwon'), ('fc anyang', 'pohang'), ('puebla', 'atletico'), ('necaxa', 'leon'), ('telstar', 'zwolle'), ('strømsgodset', 'bodø/glimt'), ('fk bodø/glimt', 'stabæk'), ('club atletico tembetary', '2 de mayo'), ('deportivo recoleta', 'general caballero (jlm)'), ('atletico grau', 'comerciantes unidos'), ('sport boys', 'deportivo garcilaso'), ('zagłebie lubin', 'lechia gdansk'), ('cracovia', 'widzew łodz'), ('avs futebol', 'casa pia'), ('unirea slobozia', 'fc metaloglobus bucuresti'), ('dinamo', 'uta arad'), ('mladost lucani', 'red star'), ('cukaricki', 'spartak subotica'), ('galatasaray', 'fatih karagumruk'), ('rukh lviv', 'obolon-brovar kyiv'), ('boston river', 'penarol'), ('universidad central', 'yaracuyanos fc'), ('anzoategui', 'estud merida'), ('francs borains', 'patro eisden'), ('beveren', 'jong genk'), ('amazonas', 'america (mg)'), ('rkc waalwijk', 'helmond sport'), ('vvv-venlo', 'jong psv'), ('roda jc', 'de graafschap'), ('cambuur', 'oss'), ('oddevold', 'trelleborg'), ('utsikten', 'varberg'), ('norwich city', 'reading fc'), ('ipswich town', 'derby county'), ('arsenal', 'fulham'), ('aston villa', 'leeds united'), ('birmingham city', 'stoke city')]
+❌ Résultat non trouvé pour villarreal-roviedo 15/08
+
+📅 Traitement des matchs du 18/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-18
+🔍 49 lignes trouvées dans les tables de la page
+✅ 45 matchs trouvés : [('leeds united', 'everton'), ('supermarine', 'alton town fc'), ('elche', 'betis'), ('sporting gijon', 'cordoba'), ('almeria', 'albacete'), ('dresden', 'mainz 05'), ('schweinfurt', 'dusseldorf'), ('rot-weiss essen', 'dortmund'), ('udinese', 'carrarese'), ('torino', 'modena'), ('le mans', 'montpellier'), ('reign', 'chicago stars'), ('sarmiento', 'atle tucuman'), ('talleres', 'san martin de san juan'), ('mirassol', 'cruzeiro'), ('septemvri sofia', 'pfc dobrudzha dobrich'), ('junior', 'ca bucaramanga'), ('pasto', 'independiente'), ('odense', 'agf'), ('deportivo cuenca', 'vinotinto'), ('ff jaro', 'sjk'), ('zob ahan', 'paykan'), ('gol gohar', 'aluminium arak'), ('persepolis', 'fajr sepasi'), ('kheybar', 'mes rafsanjan'), ('gil vicente fc', 'porto'), ('arges pitesti', 'otelul galati'), ('farul constanta', 'universitatea cluj'), ('nizhny novgorod', "d'mo makhachkala"), ('partizan', 'novi beograd'), ('varnamo', 'degerfors'), ('kasımpasa', 'trabzonspor'), ('zorya luhansk', 'kryvbas'), ('cerro largo', 'danubio'), ('volta redonda', 'crb'), ('athletic', 'criciuma'), ('jong utrecht', 'ado den haag'), ('jong ajax', 'jong az'), ('leicester city', 'liverpool'), ('everton', 'blackburn rovers'), ('sunderland', 'tottenham hotspur'), ('middlesbrough', 'manchester utd'), ('burnley', 'wolves'), ('west ham united', 'nottingham forest'), ('chelsea', 'manchester city')]
+🔑 Recherche clé : ('gil vicente fc', 'porto') parmi [('leeds united', 'everton'), ('supermarine', 'alton town fc'), ('elche', 'betis'), ('sporting gijon', 'cordoba'), ('almeria', 'albacete'), ('dresden', 'mainz 05'), ('schweinfurt', 'dusseldorf'), ('rot-weiss essen', 'dortmund'), ('udinese', 'carrarese'), ('torino', 'modena'), ('le mans', 'montpellier'), ('reign', 'chicago stars'), ('sarmiento', 'atle tucuman'), ('talleres', 'san martin de san juan'), ('mirassol', 'cruzeiro'), ('septemvri sofia', 'pfc dobrudzha dobrich'), ('junior', 'ca bucaramanga'), ('pasto', 'independiente'), ('odense', 'agf'), ('deportivo cuenca', 'vinotinto'), ('ff jaro', 'sjk'), ('zob ahan', 'paykan'), ('gol gohar', 'aluminium arak'), ('persepolis', 'fajr sepasi'), ('kheybar', 'mes rafsanjan'), ('gil vicente fc', 'porto'), ('arges pitesti', 'otelul galati'), ('farul constanta', 'universitatea cluj'), ('nizhny novgorod', "d'mo makhachkala"), ('partizan', 'novi beograd'), ('varnamo', 'degerfors'), ('kasımpasa', 'trabzonspor'), ('zorya luhansk', 'kryvbas'), ('cerro largo', 'danubio'), ('volta redonda', 'crb'), ('athletic', 'criciuma'), ('jong utrecht', 'ado den haag'), ('jong ajax', 'jong az'), ('leicester city', 'liverpool'), ('everton', 'blackburn rovers'), ('sunderland', 'tottenham hotspur'), ('middlesbrough', 'manchester utd'), ('burnley', 'wolves'), ('west ham united', 'nottingham forest'), ('chelsea', 'manchester city')]
+✅ gil vicente fc-porto 18/08 → 0-2 (2)
+
+Mises à jour terminées : 9 matchs complétés.
+
+=== Étape 3 : Calcul des statistiques et génération des graphiques ===
+✅ Rapport texte généré : results\statistics_report.txt
+✅ Résumé CSV généré : results\statistics_summary.csv
+📊 Graphiques générés dans results/graphs/
