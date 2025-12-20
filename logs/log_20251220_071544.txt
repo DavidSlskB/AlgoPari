@@ -1,0 +1,1648 @@
+🚀 Exécution via GitHub Actions
+
+=== Étape 1 : Scraping FDJ ===
+
+=== Scraping FDJ pour Y=1.15, Z=1.35 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 2 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.4 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.45 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.5 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 4 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.15, Z=1.8 ===
+✅ 1 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 4 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 5 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.4 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 0 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.45 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 0 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.5 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 4 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.2, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 5 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 5 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.45 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 0 matchs trouvés
+   - LaLiga: 0 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.5 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 0 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 0 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 0 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 4 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.25, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 5 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.5 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 1 matchs trouvés
+   - LaLiga: 0 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 0 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 0 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 4 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.3, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 5 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.55 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 0 matchs trouvés
+   - Serie A: 0 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 0 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 2 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.35, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 3 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.6 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 0 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.65 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 2 matchs trouvés
+   - LaLiga: 1 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.7 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 2 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 0 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.75 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 3 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 1 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Scraping FDJ pour Y=1.4, Z=1.8 ===
+✅ 0 nouveaux matchs ajoutés à pending_matches.csv
+→ Résumé par ligue :
+   - L1 Uber Eats: 0 matchs trouvés
+   - Premier League: 3 matchs trouvés
+   - LaLiga: 4 matchs trouvés
+   - Serie A: 1 matchs trouvés
+   - Liga Portugal: 2 matchs trouvés
+   - Bundesliga 1: 0 matchs trouvés
+
+=== Étape 2 : Mise à jour des résultats FBRef ===
+
+📅 Traitement des matchs du 17/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-17
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-17) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-17
+🔑 Recherche clé : ('nantes', 'paris s-g') parmi []
+❌ Résultat non trouvé pour nantes-paris s-g 17/08
+🔑 Recherche clé : ('chelsea', 'crystal palace') parmi []
+❌ Résultat non trouvé pour chelsea-crystal palace 17/08
+🔑 Recherche clé : ('espanyol', 'atletico madrid') parmi []
+❌ Résultat non trouvé pour espanyol-atlético madrid 17/08
+🔑 Recherche clé : ('celta vigo', 'getafe') parmi []
+❌ Résultat non trouvé pour celta vigo-getafe 17/08
+🔑 Recherche clé : ('athletic club', 'sevilla') parmi []
+❌ Résultat non trouvé pour athletic club-sevilla 17/08
+🔑 Recherche clé : ('sporting cp', 'arouca') parmi []
+❌ Résultat non trouvé pour sporting cp-arouca 17/08
+🔑 Recherche clé : ('alverca', 'braga') parmi []
+❌ Résultat non trouvé pour alverca-braga 17/08
+🔑 Recherche clé : ('santa clara', 'moreirense') parmi []
+❌ Résultat non trouvé pour santa clara-moreirense 17/08
+
+📅 Traitement des matchs du 19/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-19
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-19) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-19
+🔑 Recherche clé : ('real madrid', 'osasuna') parmi []
+❌ Résultat non trouvé pour real madrid-osasuna 19/08
+
+📅 Traitement des matchs du 23/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-23
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-23) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-23
+🔑 Recherche clé : ('milan', 'us cremonese') parmi []
+❌ Résultat non trouvé pour milan-us cremonese 23/08
+🔑 Recherche clé : ('leverkusen', 'hoffenheim') parmi []
+❌ Résultat non trouvé pour leverkusen-hoffenheim 23/08
+🔑 Recherche clé : ('sassuolo', 'napoli') parmi []
+❌ Résultat non trouvé pour sassuolo-napoli 23/08
+🔑 Recherche clé : ('st. pauli', 'dortmund') parmi []
+❌ Résultat non trouvé pour st. pauli-dortmund 23/08
+🔑 Recherche clé : ('freiburg', 'augsburg') parmi []
+❌ Résultat non trouvé pour freiburg-augsburg 23/08
+🔑 Recherche clé : ('eint frankfurt', 'werder bremen') parmi []
+❌ Résultat non trouvé pour eint frankfurt-werder bremen 23/08
+🔑 Recherche clé : ('arsenal', 'leeds united') parmi []
+❌ Résultat non trouvé pour arsenal-leeds united 23/08
+🔑 Recherche clé : ('atletico madrid', 'elche') parmi []
+❌ Résultat non trouvé pour atlético madrid-elche 23/08
+🔑 Recherche clé : ('levante', 'barcelona') parmi []
+❌ Résultat non trouvé pour levante-barcelona 23/08
+🔑 Recherche clé : ('marseille', 'paris fc') parmi []
+❌ Résultat non trouvé pour marseille-paris fc 23/08
+🔑 Recherche clé : ('manchester city', 'tottenham') parmi []
+❌ Résultat non trouvé pour manchester city-tottenham 23/08
+🔑 Recherche clé : ('lyon', 'metz') parmi []
+❌ Résultat non trouvé pour lyon-metz 23/08
+🔑 Recherche clé : ('nice', 'auxerre') parmi []
+❌ Résultat non trouvé pour nice-auxerre 23/08
+🔑 Recherche clé : ('bournemouth', 'wolves') parmi []
+❌ Résultat non trouvé pour bournemouth-wolves 23/08
+🔑 Recherche clé : ('nacional', 'sporting cp') parmi []
+❌ Résultat non trouvé pour nacional-sporting cp 23/08
+🔑 Recherche clé : ('genoa', 'lecce') parmi []
+❌ Résultat non trouvé pour genoa-lecce 23/08
+
+📅 Traitement des matchs du 24/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-24
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-24) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-24
+🔑 Recherche clé : ('atalanta', 'pisa') parmi []
+❌ Résultat non trouvé pour atalanta-pisa 24/08
+🔑 Recherche clé : ('juventus', 'parma') parmi []
+❌ Résultat non trouvé pour juventus-parma 24/08
+🔑 Recherche clé : ('mainz 05', 'koln') parmi []
+❌ Résultat non trouvé pour mainz 05-köln 24/08
+🔑 Recherche clé : ('gladbach', 'hamburger sv') parmi []
+❌ Résultat non trouvé pour gladbach- hamburger sv 24/08
+🔑 Recherche clé : ('roviedo', 'real madrid') parmi []
+❌ Résultat non trouvé pour roviedo-real madrid 24/08
+🔑 Recherche clé : ('villarreal', 'girona') parmi []
+❌ Résultat non trouvé pour villarreal-girona 24/08
+🔑 Recherche clé : ('real sociedad', 'espanyol') parmi []
+❌ Résultat non trouvé pour real sociedad-espanyol 24/08
+🔑 Recherche clé : ('strasbourg', 'nantes') parmi []
+❌ Résultat non trouvé pour strasbourg-nantes 24/08
+🔑 Recherche clé : ('porto', 'casa pia') parmi []
+❌ Résultat non trouvé pour porto-casa pia 24/08
+🔑 Recherche clé : ('braga', 'avs futebol') parmi []
+❌ Résultat non trouvé pour braga-avs futebol 24/08
+🔑 Recherche clé : ('famalicao', 'gil vicente fc') parmi []
+❌ Résultat non trouvé pour famalicão-gil vicente fc 24/08
+
+📅 Traitement des matchs du 25/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-25
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-25) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-25
+🔑 Recherche clé : ('inter', 'torino') parmi []
+❌ Résultat non trouvé pour inter-torino 25/08
+🔑 Recherche clé : ('athletic club', 'rayo vallecano') parmi []
+❌ Résultat non trouvé pour athletic club-rayo vallecano 25/08
+🔑 Recherche clé : ('estrela', 'alverca') parmi []
+❌ Résultat non trouvé pour estrela-alverca 25/08
+
+📅 Traitement des matchs du 22/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-22
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-22) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-22
+🔑 Recherche clé : ('bayern munich', 'rb leipzig') parmi []
+❌ Résultat non trouvé pour bayern munich-rb leipzig 22/08
+🔑 Recherche clé : ('west ham', 'chelsea') parmi []
+❌ Résultat non trouvé pour west ham-chelsea 22/08
+🔑 Recherche clé : ('betis', 'alaves') parmi []
+❌ Résultat non trouvé pour betis-alavés 22/08
+
+📅 Traitement des matchs du 15/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-15
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-15) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-15
+🔑 Recherche clé : ('villarreal', 'roviedo') parmi []
+❌ Résultat non trouvé pour villarreal-roviedo 15/08
+
+📅 Traitement des matchs du 18/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-18
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-18) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-18
+🔑 Recherche clé : ('gil vicente fc', 'porto') parmi []
+❌ Résultat non trouvé pour gil vicente fc-porto 18/08
+
+📅 Traitement des matchs du 30/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-30
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-30) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-30
+🔑 Recherche clé : ('toulouse', 'paris s-g') parmi []
+❌ Résultat non trouvé pour toulouse-paris s-g 30/08
+🔑 Recherche clé : ('manchester utd', 'burnley') parmi []
+❌ Résultat non trouvé pour manchester utd-burnley 30/08
+🔑 Recherche clé : ('real madrid', 'mallorca') parmi []
+❌ Résultat non trouvé pour real madrid-mallorca 30/08
+🔑 Recherche clé : ('napoli', 'cagliari') parmi []
+❌ Résultat non trouvé pour napoli-cagliari 30/08
+🔑 Recherche clé : ('rb leipzig', 'heidenheim') parmi []
+❌ Résultat non trouvé pour rb leipzig-heidenheim 30/08
+🔑 Recherche clé : ('augsburg', 'bayern munich') parmi []
+❌ Résultat non trouvé pour augsburg-bayern munich 30/08
+🔑 Recherche clé : ('chelsea', 'fulham') parmi []
+❌ Résultat non trouvé pour chelsea-fulham 30/08
+🔑 Recherche clé : ('stuttgart', 'gladbach') parmi []
+❌ Résultat non trouvé pour stuttgart-gladbach 30/08
+🔑 Recherche clé : ('pisa', 'roma') parmi []
+❌ Résultat non trouvé pour pisa-roma 30/08
+🔑 Recherche clé : ('tottenham', 'bournemouth') parmi []
+❌ Résultat non trouvé pour tottenham-bournemouth 30/08
+🔑 Recherche clé : ('alaves', 'atletico madrid') parmi []
+❌ Résultat non trouvé pour alavés-atlético madrid 30/08
+🔑 Recherche clé : ('parma', 'atalanta') parmi []
+❌ Résultat non trouvé pour parma-atalanta 30/08
+🔑 Recherche clé : ('vitoria', 'arouca') parmi []
+❌ Résultat non trouvé pour vitória-arouca 30/08
+🔑 Recherche clé : ('avs futebol', 'famalicao') parmi []
+❌ Résultat non trouvé pour avs futebol-famalicão 30/08
+
+📅 Traitement des matchs du 31/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-31
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-31) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-31
+🔑 Recherche clé : ('rayo vallecano', 'barcelona') parmi []
+❌ Résultat non trouvé pour rayo vallecano-barcelona 31/08
+🔑 Recherche clé : ('inter', 'udinese') parmi []
+❌ Résultat non trouvé pour inter-udinese 31/08
+🔑 Recherche clé : ('lazio', 'hellas verona') parmi []
+❌ Résultat non trouvé pour lazio-hellas verona 31/08
+🔑 Recherche clé : ('dortmund', 'union berlin') parmi []
+❌ Résultat non trouvé pour dortmund-union berlin 31/08
+🔑 Recherche clé : ('aston villa', 'crystal palace') parmi []
+❌ Résultat non trouvé pour aston villa-crystal palace 31/08
+🔑 Recherche clé : ('monaco', 'strasbourg') parmi []
+❌ Résultat non trouvé pour monaco-strasbourg 31/08
+🔑 Recherche clé : ("nott'ham forest", 'west ham') parmi []
+❌ Résultat non trouvé pour nott'ham forest-west ham 31/08
+🔑 Recherche clé : ('brighton', 'manchester city') parmi []
+❌ Résultat non trouvé pour brighton-manchester city 31/08
+🔑 Recherche clé : ('alverca', 'benfica') parmi []
+❌ Résultat non trouvé pour alverca-benfica 31/08
+🔑 Recherche clé : ('genoa', 'juventus') parmi []
+❌ Résultat non trouvé pour genoa-juventus 31/08
+🔑 Recherche clé : ('rio ave', 'braga') parmi []
+❌ Résultat non trouvé pour rio ave-braga 31/08
+🔑 Recherche clé : ('santa clara', 'estrela') parmi []
+❌ Résultat non trouvé pour santa clara-estrela 31/08
+🔑 Recherche clé : ('paris fc', 'metz') parmi []
+❌ Résultat non trouvé pour paris fc-metz 31/08
+
+📅 Traitement des matchs du 29/08...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-08-29
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-08-29) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-08-29
+🔑 Recherche clé : ('lecce', 'milan') parmi []
+❌ Résultat non trouvé pour lecce-milan 29/08
+
+📅 Traitement des matchs du 14/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-14
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-14) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-14
+🔑 Recherche clé : ('paris s', 'g-lens') parmi []
+❌ Résultat non trouvé pour paris s-g-lens 14/09
+🔑 Recherche clé : ('marseille', 'lorient') parmi []
+❌ Résultat non trouvé pour marseille-lorient 14/09
+🔑 Recherche clé : ('burnley', 'liverpool') parmi []
+❌ Résultat non trouvé pour burnley-liverpool 14/09
+🔑 Recherche clé : ('atalanta', 'lecce') parmi []
+❌ Résultat non trouvé pour atalanta-lecce 14/09
+🔑 Recherche clé : ('strasbourg', 'le havre') parmi []
+❌ Résultat non trouvé pour strasbourg-le havre 14/09
+🔑 Recherche clé : ('nice', 'nantes') parmi []
+❌ Résultat non trouvé pour nice-nantes 14/09
+🔑 Recherche clé : ('roma', 'torino') parmi []
+❌ Résultat non trouvé pour roma-torino 14/09
+🔑 Recherche clé : ('auxerre', 'monaco') parmi []
+❌ Résultat non trouvé pour auxerre-monaco 14/09
+🔑 Recherche clé : ('celta vigo', 'girona') parmi []
+❌ Résultat non trouvé pour celta vigo-girona 14/09
+🔑 Recherche clé : ('manchester city', 'manchester utd') parmi []
+❌ Résultat non trouvé pour manchester city-manchester utd 14/09
+🔑 Recherche clé : ('gladbach', 'werder bremen') parmi []
+❌ Résultat non trouvé pour gladbach-werder bremen 14/09
+🔑 Recherche clé : ('lille', 'toulouse') parmi []
+❌ Résultat non trouvé pour lille-toulouse 14/09
+🔑 Recherche clé : ('milan', 'bologna') parmi []
+❌ Résultat non trouvé pour milan-bologna 14/09
+🔑 Recherche clé : ('paris s', 'g-lens') parmi []
+❌ Résultat non trouvé pour paris s-g-lens 14/09
+🔑 Recherche clé : ('strasbourg', 'le havre') parmi []
+❌ Résultat non trouvé pour strasbourg-le havre 14/09
+🔑 Recherche clé : ('barcelona', 'valencia') parmi []
+❌ Résultat non trouvé pour barcelona-valencia 14/09
+🔑 Recherche clé : ('braga', 'gil vicente fc') parmi []
+❌ Résultat non trouvé pour braga-gil vicente fc 14/09
+🔑 Recherche clé : ('arouca', 'casa pia') parmi []
+❌ Résultat non trouvé pour arouca-casa pia 14/09
+
+📅 Traitement des matchs du 13/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-13
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-13) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-13
+🔑 Recherche clé : ('arsenal', "nott'ham forest") parmi []
+❌ Résultat non trouvé pour arsenal-nott'ham forest 13/09
+🔑 Recherche clé : ('newcastle utd', 'wolves') parmi []
+❌ Résultat non trouvé pour newcastle utd-wolves 13/09
+🔑 Recherche clé : ('crystal palace', 'sunderland') parmi []
+❌ Résultat non trouvé pour crystal palace-sunderland 13/09
+🔑 Recherche clé : ('real sociedad', 'real madrid') parmi []
+❌ Résultat non trouvé pour real sociedad-real madrid 13/09
+🔑 Recherche clé : ('athletic club', 'alaves') parmi []
+❌ Résultat non trouvé pour athletic club-alavés 13/09
+🔑 Recherche clé : ('heidenheim', 'dortmund') parmi []
+❌ Résultat non trouvé pour heidenheim-dortmund 13/09
+🔑 Recherche clé : ('brentford', 'chelsea') parmi []
+❌ Résultat non trouvé pour brentford-chelsea 13/09
+🔑 Recherche clé : ('atletico madrid', 'villarreal') parmi []
+❌ Résultat non trouvé pour atlético madrid-villarreal 13/09
+🔑 Recherche clé : ('fulham', 'leeds united') parmi []
+❌ Résultat non trouvé pour fulham-leeds united 13/09
+🔑 Recherche clé : ('getafe', 'roviedo') parmi []
+❌ Résultat non trouvé pour getafe-roviedo 13/09
+🔑 Recherche clé : ('strasbourg', 'le havre') parmi []
+❌ Résultat non trouvé pour strasbourg-le havre 13/09
+🔑 Recherche clé : ('nice', 'nantes') parmi []
+❌ Résultat non trouvé pour nice-nantes 13/09
+🔑 Recherche clé : ('auxerre', 'monaco') parmi []
+❌ Résultat non trouvé pour auxerre-monaco 13/09
+🔑 Recherche clé : ('strasbourg', 'le havre') parmi []
+❌ Résultat non trouvé pour strasbourg-le havre 13/09
+🔑 Recherche clé : ('famalicao', 'sporting cp') parmi []
+❌ Résultat non trouvé pour famalicão-sporting cp 13/09
+🔑 Recherche clé : ('estoril', 'avs futebol') parmi []
+❌ Résultat non trouvé pour estoril-avs futebol 13/09
+
+📅 Traitement des matchs du 15/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-15
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-15) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-15
+🔑 Recherche clé : ('como', 'genoa') parmi []
+❌ Résultat non trouvé pour como-genoa 15/09
+
+📅 Traitement des matchs du 12/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-12
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-12) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-12
+🔑 Recherche clé : ('marseille', 'lorient') parmi []
+❌ Résultat non trouvé pour marseille-lorient 12/09
+🔑 Recherche clé : ('benfica', 'santa clara') parmi []
+❌ Résultat non trouvé pour benfica-santa clara 12/09
+
+📅 Traitement des matchs du 19/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-19
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-19) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-19
+🔑 Recherche clé : ('lyon', 'angers') parmi []
+❌ Résultat non trouvé pour lyon-angers 19/09
+🔑 Recherche clé : ('rio ave', 'porto') parmi []
+❌ Résultat non trouvé pour rio ave-porto 19/09
+🔑 Recherche clé : ('stuttgart', 'st. pauli') parmi []
+❌ Résultat non trouvé pour stuttgart-st. pauli 19/09
+
+📅 Traitement des matchs du 21/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-21
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-21) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-21
+🔑 Recherche clé : ('monaco', 'metz') parmi []
+❌ Résultat non trouvé pour monaco-metz 21/09
+🔑 Recherche clé : ('barcelona', 'getafe') parmi []
+❌ Résultat non trouvé pour barcelona-getafe 21/09
+🔑 Recherche clé : ('inter', 'sassuolo') parmi []
+❌ Résultat non trouvé pour inter-sassuolo 21/09
+🔑 Recherche clé : ('dortmund', 'wolfsburg') parmi []
+❌ Résultat non trouvé pour dortmund-wolfsburg 21/09
+🔑 Recherche clé : ('eint frankfurt', 'union berlin') parmi []
+❌ Résultat non trouvé pour eint frankfurt-union berlin 21/09
+🔑 Recherche clé : ('leverkusen', 'gladbach') parmi []
+❌ Résultat non trouvé pour leverkusen-gladbach 21/09
+🔑 Recherche clé : ('mallorca', 'atletico madrid') parmi []
+❌ Résultat non trouvé pour mallorca-atlético madrid 21/09
+🔑 Recherche clé : ('arsenal', 'manchester city') parmi []
+❌ Résultat non trouvé pour arsenal-manchester city 21/09
+🔑 Recherche clé : ('tondela', 'estrela') parmi []
+❌ Résultat non trouvé pour tondela-estrela 21/09
+🔑 Recherche clé : ('casa pia', 'famalicao') parmi []
+❌ Résultat non trouvé pour casa pia-famalicão 21/09
+🔑 Recherche clé : ('gil vicente fc', 'estoril') parmi []
+❌ Résultat non trouvé pour gil vicente fc-estoril 21/09
+🔑 Recherche clé : ('gil vicente fc', 'estoril') parmi []
+❌ Résultat non trouvé pour gil vicente fc-estoril 21/09
+🔑 Recherche clé : ('marseille', 'paris s-g') parmi []
+❌ Résultat non trouvé pour marseille-paris s-g 21/09
+
+📅 Traitement des matchs du 20/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-20
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-20) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-20
+🔑 Recherche clé : ('real madrid', 'espanyol') parmi []
+❌ Résultat non trouvé pour real madrid-espanyol 20/09
+🔑 Recherche clé : ('hoffenheim', 'bayern munich') parmi []
+❌ Résultat non trouvé pour hoffenheim-bayern munich 20/09
+🔑 Recherche clé : ('liverpool', 'everton') parmi []
+❌ Résultat non trouvé pour liverpool-everton 20/09
+🔑 Recherche clé : ('villarreal', 'osasuna') parmi []
+❌ Résultat non trouvé pour villarreal-osasuna 20/09
+🔑 Recherche clé : ('hellas verona', 'juventus') parmi []
+❌ Résultat non trouvé pour hellas verona-juventus 20/09
+🔑 Recherche clé : ('rb leipzig', 'koln') parmi []
+❌ Résultat non trouvé pour rb leipzig-köln 20/09
+🔑 Recherche clé : ('bologna', 'genoa') parmi []
+❌ Résultat non trouvé pour bologna-genoa 20/09
+🔑 Recherche clé : ('udinese', 'milan') parmi []
+❌ Résultat non trouvé pour udinese-milan 20/09
+🔑 Recherche clé : ('santa clara', 'alverca') parmi []
+❌ Résultat non trouvé pour santa clara-alverca 20/09
+🔑 Recherche clé : ('girona', 'levante') parmi []
+❌ Résultat non trouvé pour girona-levante 20/09
+🔑 Recherche clé : ('hamburger sv', 'heidenheim') parmi []
+❌ Résultat non trouvé pour hamburger sv-heidenheim 20/09
+
+📅 Traitement des matchs du 22/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-22
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-22) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-22
+🔑 Recherche clé : ('napoli', 'pisa') parmi []
+❌ Résultat non trouvé pour napoli-pisa 22/09
+🔑 Recherche clé : ('marseille', 'paris s-g') parmi []
+❌ Résultat non trouvé pour marseille-paris s-g 22/09
+
+📅 Traitement des matchs du 23/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-23
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-23) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-23
+🔑 Recherche clé : ('levante', 'real madrid') parmi []
+❌ Résultat non trouvé pour levante-real madrid 23/09
+🔑 Recherche clé : ('athletic club', 'girona') parmi []
+❌ Résultat non trouvé pour athletic club-girona 23/09
+
+📅 Traitement des matchs du 25/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-25
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-25) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-25
+🔑 Recherche clé : ('roviedo', 'barcelona') parmi []
+❌ Résultat non trouvé pour roviedo-barcelona 25/09
+
+📅 Traitement des matchs du 24/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-24
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-24) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-24
+🔑 Recherche clé : ('atletico madrid', 'rayo vallecano') parmi []
+❌ Résultat non trouvé pour atlético madrid-rayo vallecano 24/09
+🔑 Recherche clé : ('real sociedad', 'mallorca') parmi []
+❌ Résultat non trouvé pour real sociedad-mallorca 24/09
+
+📅 Traitement des matchs du 28/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-28
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-28) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-28
+🔑 Recherche clé : ('barcelona', 'real sociedad') parmi []
+❌ Résultat non trouvé pour barcelona-real sociedad 28/09
+🔑 Recherche clé : ('roma', 'hellas verona') parmi []
+❌ Résultat non trouvé pour roma-hellas verona 28/09
+🔑 Recherche clé : ('betis', 'osasuna') parmi []
+❌ Résultat non trouvé pour betis-osasuna 28/09
+🔑 Recherche clé : ('nice', 'paris fc') parmi []
+❌ Résultat non trouvé pour nice-paris fc 28/09
+🔑 Recherche clé : ('angers', 'brest') parmi []
+❌ Résultat non trouvé pour angers-brest 28/09
+🔑 Recherche clé : ('braga', 'nacional') parmi []
+❌ Résultat non trouvé pour braga-nacional 28/09
+🔑 Recherche clé : ('famalicao', 'rio ave') parmi []
+❌ Résultat non trouvé pour famalicão-rio ave 28/09
+
+📅 Traitement des matchs du 26/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-26
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-26) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-26
+🔑 Recherche clé : ('bayern munich', 'werder bremen') parmi []
+❌ Résultat non trouvé pour bayern munich-werder bremen 26/09
+🔑 Recherche clé : ('benfica', 'gil vicente fc') parmi []
+❌ Résultat non trouvé pour benfica-gil vicente fc 26/09
+
+📅 Traitement des matchs du 27/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-27
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-27) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-27
+🔑 Recherche clé : ('tottenham', 'wolves') parmi []
+❌ Résultat non trouvé pour tottenham-wolves 27/09
+🔑 Recherche clé : ('como', 'us cremonese') parmi []
+❌ Résultat non trouvé pour como-us cremonese 27/09
+🔑 Recherche clé : ('cagliari', 'inter') parmi []
+❌ Résultat non trouvé pour cagliari-inter 27/09
+🔑 Recherche clé : ('lorient', 'monaco') parmi []
+❌ Résultat non trouvé pour lorient-monaco 27/09
+🔑 Recherche clé : ('toulouse', 'nantes') parmi []
+❌ Résultat non trouvé pour toulouse-nantes 27/09
+🔑 Recherche clé : ('chelsea', 'brighton') parmi []
+❌ Résultat non trouvé pour chelsea-brighton 27/09
+🔑 Recherche clé : ('crystal palace', 'liverpool') parmi []
+❌ Résultat non trouvé pour crystal palace-liverpool 27/09
+🔑 Recherche clé : ("nott'ham forest", 'sunderland') parmi []
+❌ Résultat non trouvé pour nott'ham forest-sunderland 27/09
+🔑 Recherche clé : ('juventus', 'atalanta') parmi []
+❌ Résultat non trouvé pour juventus-atalanta 27/09
+🔑 Recherche clé : ('estoril', 'sporting cp') parmi []
+❌ Résultat non trouvé pour estoril-sporting cp 27/09
+🔑 Recherche clé : ('santa clara', 'tondela') parmi []
+❌ Résultat non trouvé pour santa clara-tondela 27/09
+🔑 Recherche clé : ('santa clara', 'tondela') parmi []
+❌ Résultat non trouvé pour santa clara-tondela 27/09
+
+📅 Traitement des matchs du 29/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-29
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-29) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-29
+🔑 Recherche clé : ('valencia', 'roviedo') parmi []
+❌ Résultat non trouvé pour valencia-roviedo 29/09
+🔑 Recherche clé : ('everton', 'west ham') parmi []
+❌ Résultat non trouvé pour everton-west ham 29/09
+🔑 Recherche clé : ('arouca', 'porto') parmi []
+❌ Résultat non trouvé pour arouca-porto 29/09
+
+📅 Traitement des matchs du 04/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-04
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-04) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-04
+🔑 Recherche clé : ('arsenal', 'west ham') parmi []
+❌ Résultat non trouvé pour arsenal-west ham 04/10
+🔑 Recherche clé : ('manchester utd', 'sunderland') parmi []
+❌ Résultat non trouvé pour manchester utd-sunderland 04/10
+🔑 Recherche clé : ('real madrid', 'villarreal') parmi []
+❌ Résultat non trouvé pour real madrid-villarreal 04/10
+🔑 Recherche clé : ('eint frankfurt', 'bayern munich') parmi []
+❌ Résultat non trouvé pour eint frankfurt-bayern munich 04/10
+🔑 Recherche clé : ('metz', 'marseille') parmi []
+❌ Résultat non trouvé pour metz-marseille 04/10
+🔑 Recherche clé : ('athletic club', 'mallorca') parmi []
+❌ Résultat non trouvé pour athletic club-mallorca 04/10
+🔑 Recherche clé : ('leverkusen', 'union berlin') parmi []
+❌ Résultat non trouvé pour leverkusen-union berlin 04/10
+🔑 Recherche clé : ('lazio', 'torino') parmi []
+❌ Résultat non trouvé pour lazio-torino 04/10
+🔑 Recherche clé : ('dortmund', 'rb leipzig') parmi []
+❌ Résultat non trouvé pour dortmund-rb leipzig 04/10
+🔑 Recherche clé : ('parma', 'lecce') parmi []
+❌ Résultat non trouvé pour parma-lecce 04/10
+🔑 Recherche clé : ('brest', 'nantes') parmi []
+❌ Résultat non trouvé pour brest-nantes 04/10
+🔑 Recherche clé : ('gil vicente fc', 'estrela') parmi []
+❌ Résultat non trouvé pour gil vicente fc-estrela 04/10
+
+📅 Traitement des matchs du 05/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-05
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-05) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-05
+🔑 Recherche clé : ('stuttgart', 'heidenheim') parmi []
+❌ Résultat non trouvé pour stuttgart-heidenheim 05/10
+🔑 Recherche clé : ('sevilla', 'barcelona') parmi []
+❌ Résultat non trouvé pour sevilla-barcelona 05/10
+🔑 Recherche clé : ('napoli', 'genoa') parmi []
+❌ Résultat non trouvé pour napoli-genoa 05/10
+🔑 Recherche clé : ('aston villa', 'burnley') parmi []
+❌ Résultat non trouvé pour aston villa-burnley 05/10
+🔑 Recherche clé : ('strasbourg', 'angers') parmi []
+❌ Résultat non trouvé pour strasbourg-angers 05/10
+🔑 Recherche clé : ('bologna', 'pisa') parmi []
+❌ Résultat non trouvé pour bologna-pisa 05/10
+🔑 Recherche clé : ('newcastle utd', "nott'ham forest") parmi []
+❌ Résultat non trouvé pour newcastle utd-nott'ham forest 05/10
+🔑 Recherche clé : ('brentford', 'manchester city') parmi []
+❌ Résultat non trouvé pour brentford-manchester city 05/10
+🔑 Recherche clé : ('lille', 'paris s-g') parmi []
+❌ Résultat non trouvé pour lille-paris s-g 05/10
+🔑 Recherche clé : ('lyon', 'toulouse') parmi []
+❌ Résultat non trouvé pour lyon-toulouse 05/10
+🔑 Recherche clé : ('monaco', 'nice') parmi []
+❌ Résultat non trouvé pour monaco-nice 05/10
+🔑 Recherche clé : ('celta vigo', 'atletico madrid') parmi []
+❌ Résultat non trouvé pour celta vigo-atlético madrid 05/10
+🔑 Recherche clé : ('wolves', 'brighton') parmi []
+❌ Résultat non trouvé pour wolves-brighton 05/10
+🔑 Recherche clé : ('sporting cp', 'braga') parmi []
+❌ Résultat non trouvé pour sporting cp-braga 05/10
+🔑 Recherche clé : ('porto', 'benfica') parmi []
+❌ Résultat non trouvé pour porto-benfica 05/10
+
+📅 Traitement des matchs du 03/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-03
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-03) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-03
+🔑 Recherche clé : ('paris fc', 'lorient') parmi []
+❌ Résultat non trouvé pour paris fc-lorient 03/10
+🔑 Recherche clé : ('bournemouth', 'fulham') parmi []
+❌ Résultat non trouvé pour bournemouth-fulham 03/10
+🔑 Recherche clé : ('hoffenheim', 'koln') parmi []
+❌ Résultat non trouvé pour hoffenheim-köln 03/10
+
+📅 Traitement des matchs du 30/09...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-09-30
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-09-30) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-09-30
+🔑 Recherche clé : ('valencia', 'roviedo') parmi []
+❌ Résultat non trouvé pour valencia-roviedo 30/09
+
+📅 Traitement des matchs du 17/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-17
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-17) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-17
+🔑 Recherche clé : ('paris s', 'g-strasbourg') parmi []
+❌ Résultat non trouvé pour paris s-g-strasbourg 17/10
+
+📅 Traitement des matchs du 18/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-18
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-18) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-18
+🔑 Recherche clé : ('manchester city', 'everton') parmi []
+❌ Résultat non trouvé pour manchester city-everton 18/10
+🔑 Recherche clé : ('bayern munich', 'dortmund') parmi []
+❌ Résultat non trouvé pour bayern munich-dortmund 18/10
+🔑 Recherche clé : ('angers', 'monaco') parmi []
+❌ Résultat non trouvé pour angers-monaco 18/10
+🔑 Recherche clé : ('sevilla', 'mallorca') parmi []
+❌ Résultat non trouvé pour sevilla-mallorca 18/10
+🔑 Recherche clé : ("nott'ham forest", 'chelsea') parmi []
+❌ Résultat non trouvé pour nott'ham forest-chelsea 18/10
+🔑 Recherche clé : ('koln', 'augsburg') parmi []
+❌ Résultat non trouvé pour köln-augsburg 18/10
+🔑 Recherche clé : ('marseille', 'le havre') parmi []
+❌ Résultat non trouvé pour marseille-le havre 18/10
+🔑 Recherche clé : ('atletico madrid', 'osasuna') parmi []
+❌ Résultat non trouvé pour atlético madrid-osasuna 18/10
+🔑 Recherche clé : ('rb leipzig', 'hamburger sv') parmi []
+❌ Résultat non trouvé pour rb leipzig- hamburger sv 18/10
+🔑 Recherche clé : ('fulham', 'arsenal') parmi []
+❌ Résultat non trouvé pour fulham-arsenal 18/10
+🔑 Recherche clé : ('torino', 'napoli') parmi []
+❌ Résultat non trouvé pour torino-napoli 18/10
+🔑 Recherche clé : ('villarreal', 'betis') parmi []
+❌ Résultat non trouvé pour villarreal-betis 18/10
+🔑 Recherche clé : ('barcelona', 'girona') parmi []
+❌ Résultat non trouvé pour barcelona-girona 18/10
+
+📅 Traitement des matchs du 19/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-19
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-19) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-19
+🔑 Recherche clé : ('liverpool', 'manchester utd') parmi []
+❌ Résultat non trouvé pour liverpool-manchester utd 19/10
+🔑 Recherche clé : ('toulouse', 'metz') parmi []
+❌ Résultat non trouvé pour toulouse-metz 19/10
+🔑 Recherche clé : ('lens', 'paris fc') parmi []
+❌ Résultat non trouvé pour lens-paris fc 19/10
+🔑 Recherche clé : ('nantes', 'lille') parmi []
+❌ Résultat non trouvé pour nantes-lille 19/10
+🔑 Recherche clé : ('getafe', 'real madrid') parmi []
+❌ Résultat non trouvé pour getafe-real madrid 19/10
+🔑 Recherche clé : ('milan', 'fiorentina') parmi []
+❌ Résultat non trouvé pour milan-fiorentina 19/10
+🔑 Recherche clé : ('rennes', 'auxerre') parmi []
+❌ Résultat non trouvé pour rennes-auxerre 19/10
+🔑 Recherche clé : ('atalanta', 'lazio') parmi []
+❌ Résultat non trouvé pour atalanta-lazio 19/10
+
+📅 Traitement des matchs du 25/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-25
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-25) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-25
+🔑 Recherche clé : ('brest', 'paris s-g') parmi []
+❌ Résultat non trouvé pour brest-paris s-g 25/10
+🔑 Recherche clé : ('chelsea', 'sunderland') parmi []
+❌ Résultat non trouvé pour chelsea-sunderland 25/10
+🔑 Recherche clé : ('gladbach', 'bayern munich') parmi []
+❌ Résultat non trouvé pour gladbach-bayern munich 25/10
+🔑 Recherche clé : ('us cremonese', 'atalanta') parmi []
+❌ Résultat non trouvé pour us cremonese-atalanta 25/10
+🔑 Recherche clé : ('hoffenheim', 'heidenheim') parmi []
+❌ Résultat non trouvé pour hoffenheim-heidenheim 25/10
+🔑 Recherche clé : ('newcastle utd', 'fulham') parmi []
+❌ Résultat non trouvé pour newcastle utd-fulham 25/10
+🔑 Recherche clé : ('brentford', 'liverpool') parmi []
+❌ Résultat non trouvé pour brentford-liverpool 25/10
+🔑 Recherche clé : ('athletic club', 'getafe') parmi []
+❌ Résultat non trouvé pour athletic club-getafe 25/10
+🔑 Recherche clé : ('monaco', 'toulouse') parmi []
+❌ Résultat non trouvé pour monaco-toulouse 25/10
+🔑 Recherche clé : ('girona', 'roviedo') parmi []
+❌ Résultat non trouvé pour girona-roviedo 25/10
+🔑 Recherche clé : ('udinese', 'lecce') parmi []
+❌ Résultat non trouvé pour udinese-lecce 25/10
+🔑 Recherche clé : ('dortmund', 'koln') parmi []
+❌ Résultat non trouvé pour dortmund-köln 25/10
+🔑 Recherche clé : ('eint frankfurt', 'st. pauli') parmi []
+❌ Résultat non trouvé pour eint frankfurt-st. pauli 25/10
+🔑 Recherche clé : ('santa clara', 'avs futebol') parmi []
+❌ Résultat non trouvé pour santa clara-avs futebol 25/10
+🔑 Recherche clé : ('augsburg', 'rb leipzig') parmi []
+❌ Résultat non trouvé pour augsburg-rb leipzig 25/10
+🔑 Recherche clé : ('espanyol', 'elche') parmi []
+❌ Résultat non trouvé pour espanyol-elche 25/10
+🔑 Recherche clé : ('parma', 'como') parmi []
+❌ Résultat non trouvé pour parma-como 25/10
+
+📅 Traitement des matchs du 26/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-26
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-26) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-26
+🔑 Recherche clé : ('lille', 'metz') parmi []
+❌ Résultat non trouvé pour lille-metz 26/10
+🔑 Recherche clé : ('bournemouth', "nott'ham forest") parmi []
+❌ Résultat non trouvé pour bournemouth-nott'ham forest 26/10
+🔑 Recherche clé : ('leverkusen', 'freiburg') parmi []
+❌ Résultat non trouvé pour leverkusen-freiburg 26/10
+🔑 Recherche clé : ('stuttgart', 'mainz 05') parmi []
+❌ Résultat non trouvé pour stuttgart-mainz 05 26/10
+🔑 Recherche clé : ('aston villa', 'manchester city') parmi []
+❌ Résultat non trouvé pour aston villa-manchester city 26/10
+🔑 Recherche clé : ('wolves', 'burnley') parmi []
+❌ Résultat non trouvé pour wolves-burnley 26/10
+🔑 Recherche clé : ('arsenal', 'crystal palace') parmi []
+❌ Résultat non trouvé pour arsenal-crystal palace 26/10
+🔑 Recherche clé : ('sassuolo', 'roma') parmi []
+❌ Résultat non trouvé pour sassuolo-roma 26/10
+🔑 Recherche clé : ('tondela', 'sporting cp') parmi []
+❌ Résultat non trouvé pour tondela-sporting cp 26/10
+🔑 Recherche clé : ('braga', 'casa pia') parmi []
+❌ Résultat non trouvé pour braga-casa pia 26/10
+🔑 Recherche clé : ('famalicao', 'vitoria') parmi []
+❌ Résultat non trouvé pour famalicão-vitória 26/10
+
+📅 Traitement des matchs du 24/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-24
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-24) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-24
+🔑 Recherche clé : ('milan', 'pisa') parmi []
+❌ Résultat non trouvé pour milan-pisa 24/10
+🔑 Recherche clé : ('paris fc', 'nantes') parmi []
+❌ Résultat non trouvé pour paris fc-nantes 24/10
+🔑 Recherche clé : ('leeds united', 'west ham') parmi []
+❌ Résultat non trouvé pour leeds united-west ham 24/10
+
+📅 Traitement des matchs du 27/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-27
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-27) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-27
+🔑 Recherche clé : ('moreirense', 'porto') parmi []
+❌ Résultat non trouvé pour moreirense-porto 27/10
+
+📅 Traitement des matchs du 29/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-29
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-29) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-29
+🔑 Recherche clé : ('juventus', 'udinese') parmi []
+❌ Résultat non trouvé pour juventus-udinese 29/10
+🔑 Recherche clé : ('roma', 'parma') parmi []
+❌ Résultat non trouvé pour roma-parma 29/10
+🔑 Recherche clé : ('inter', 'fiorentina') parmi []
+❌ Résultat non trouvé pour inter-fiorentina 29/10
+🔑 Recherche clé : ('como', 'hellas verona') parmi []
+❌ Résultat non trouvé pour como-hellas verona 29/10
+🔑 Recherche clé : ('marseille', 'angers') parmi []
+❌ Résultat non trouvé pour marseille-angers 29/10
+🔑 Recherche clé : ('nantes', 'monaco') parmi []
+❌ Résultat non trouvé pour nantes-monaco 29/10
+🔑 Recherche clé : ('bologna', 'torino') parmi []
+❌ Résultat non trouvé pour bologna-torino 29/10
+🔑 Recherche clé : ('lorient', 'paris s-g') parmi []
+❌ Résultat non trouvé pour lorient-paris s-g 29/10
+🔑 Recherche clé : ('metz', 'lens') parmi []
+❌ Résultat non trouvé pour metz-lens 29/10
+🔑 Recherche clé : ('strasbourg', 'auxerre') parmi []
+❌ Résultat non trouvé pour strasbourg-auxerre 29/10
+🔑 Recherche clé : ('genoa', 'us cremonese') parmi []
+❌ Résultat non trouvé pour genoa-us cremonese 29/10
+🔑 Recherche clé : ('lorient', 'paris s-g') parmi []
+❌ Résultat non trouvé pour lorient-paris s-g 29/10
+🔑 Recherche clé : ('marseille', 'angers') parmi []
+❌ Résultat non trouvé pour marseille-angers 29/10
+
+📅 Traitement des matchs du 28/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-28
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-28) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-28
+🔑 Recherche clé : ('lecce', 'napoli') parmi []
+❌ Résultat non trouvé pour lecce-napoli 28/10
+🔑 Recherche clé : ('atalanta', 'milan') parmi []
+❌ Résultat non trouvé pour atalanta-milan 28/10
+
+📅 Traitement des matchs du 30/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-30
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-30) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-30
+🔑 Recherche clé : ('pisa', 'lazio') parmi []
+❌ Résultat non trouvé pour pisa-lazio 30/10
+🔑 Recherche clé : ('cagliari', 'sassuolo') parmi []
+❌ Résultat non trouvé pour cagliari-sassuolo 30/10
+🔑 Recherche clé : ('cagliari', 'sassuolo') parmi []
+❌ Résultat non trouvé pour cagliari-sassuolo 30/10
+🔑 Recherche clé : ('pisa', 'lazio') parmi []
+❌ Résultat non trouvé pour pisa-lazio 30/10
+
+📅 Traitement des matchs du 01/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-01
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-01) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-01
+🔑 Recherche clé : ('paris s', 'g-nice') parmi []
+❌ Résultat non trouvé pour paris s-g-nice 01/11
+🔑 Recherche clé : ('burnley', 'arsenal') parmi []
+❌ Résultat non trouvé pour burnley-arsenal 01/11
+🔑 Recherche clé : ('atletico madrid', 'sevilla') parmi []
+❌ Résultat non trouvé pour atlético madrid-sevilla 01/11
+🔑 Recherche clé : ('us cremonese', 'juventus') parmi []
+❌ Résultat non trouvé pour us cremonese-juventus 01/11
+🔑 Recherche clé : ('liverpool', 'aston villa') parmi []
+❌ Résultat non trouvé pour liverpool-aston villa 01/11
+🔑 Recherche clé : ('monaco', 'paris fc') parmi []
+❌ Résultat non trouvé pour monaco-paris fc 01/11
+🔑 Recherche clé : ('napoli', 'como') parmi []
+❌ Résultat non trouvé pour napoli-como 01/11
+🔑 Recherche clé : ('villarreal', 'rayo vallecano') parmi []
+❌ Résultat non trouvé pour villarreal-rayo vallecano 01/11
+🔑 Recherche clé : ('auxerre', 'marseille') parmi []
+❌ Résultat non trouvé pour auxerre-marseille 01/11
+🔑 Recherche clé : ('brighton', 'leeds united') parmi []
+❌ Résultat non trouvé pour brighton-leeds united 01/11
+🔑 Recherche clé : ('fulham', 'wolves') parmi []
+❌ Résultat non trouvé pour fulham-wolves 01/11
+🔑 Recherche clé : ('crystal palace', 'brentford') parmi []
+❌ Résultat non trouvé pour crystal palace-brentford 01/11
+🔑 Recherche clé : ('udinese', 'atalanta') parmi []
+❌ Résultat non trouvé pour udinese-atalanta 01/11
+🔑 Recherche clé : ('heidenheim', 'eint frankfurt') parmi []
+❌ Résultat non trouvé pour heidenheim-eint frankfurt 01/11
+🔑 Recherche clé : ('st. pauli', 'gladbach') parmi []
+❌ Résultat non trouvé pour st. pauli-gladbach 01/11
+🔑 Recherche clé : ('rb leipzig', 'stuttgart') parmi []
+❌ Résultat non trouvé pour rb leipzig-stuttgart 01/11
+🔑 Recherche clé : ('vitoria', 'benfica') parmi []
+❌ Résultat non trouvé pour vitória-benfica 01/11
+🔑 Recherche clé : ('mainz 05', 'werder bremen') parmi []
+❌ Résultat non trouvé pour mainz 05-werder bremen 01/11
+
+📅 Traitement des matchs du 02/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-02
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-02) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-02
+🔑 Recherche clé : ('lille', 'angers') parmi []
+❌ Résultat non trouvé pour lille-angers 02/11
+🔑 Recherche clé : ('barcelona', 'elche') parmi []
+❌ Résultat non trouvé pour barcelona-elche 02/11
+🔑 Recherche clé : ('hellas verona', 'inter') parmi []
+❌ Résultat non trouvé pour hellas verona-inter 02/11
+🔑 Recherche clé : ('manchester city', 'bournemouth') parmi []
+❌ Résultat non trouvé pour manchester city-bournemouth 02/11
+🔑 Recherche clé : ('lens', 'lorient') parmi []
+❌ Résultat non trouvé pour lens-lorient 02/11
+🔑 Recherche clé : ('west ham', 'newcastle utd') parmi []
+❌ Résultat non trouvé pour west ham-newcastle utd 02/11
+🔑 Recherche clé : ('betis', 'mallorca') parmi []
+❌ Résultat non trouvé pour betis-mallorca 02/11
+🔑 Recherche clé : ('fiorentina', 'lecce') parmi []
+❌ Résultat non trouvé pour fiorentina-lecce 02/11
+🔑 Recherche clé : ('toulouse', 'le havre') parmi []
+❌ Résultat non trouvé pour toulouse-le havre 02/11
+🔑 Recherche clé : ('torino', 'pisa') parmi []
+❌ Résultat non trouvé pour torino-pisa 02/11
+🔑 Recherche clé : ('koln', 'hamburger sv') parmi []
+❌ Résultat non trouvé pour köln- hamburger sv 02/11
+🔑 Recherche clé : ('milan', 'roma') parmi []
+❌ Résultat non trouvé pour milan-roma 02/11
+🔑 Recherche clé : ('nantes', 'metz') parmi []
+❌ Résultat non trouvé pour nantes-metz 02/11
+🔑 Recherche clé : ('porto', 'braga') parmi []
+❌ Résultat non trouvé pour porto-braga 02/11
+
+📅 Traitement des matchs du 03/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-03
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-03) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-03
+🔑 Recherche clé : ('lazio', 'cagliari') parmi []
+❌ Résultat non trouvé pour lazio-cagliari 03/11
+
+📅 Traitement des matchs du 31/10...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-10-31
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-10-31) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-10-31
+🔑 Recherche clé : ('augsburg', 'dortmund') parmi []
+❌ Résultat non trouvé pour augsburg-dortmund 31/10
+
+📅 Traitement des matchs du 08/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-08
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-08) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-08
+🔑 Recherche clé : ('marseille', 'brest') parmi []
+❌ Résultat non trouvé pour marseille-brest 08/11
+🔑 Recherche clé : ('sunderland', 'arsenal') parmi []
+❌ Résultat non trouvé pour sunderland-arsenal 08/11
+🔑 Recherche clé : ('chelsea', 'wolves') parmi []
+❌ Résultat non trouvé pour chelsea-wolves 08/11
+🔑 Recherche clé : ('leverkusen', 'heidenheim') parmi []
+❌ Résultat non trouvé pour leverkusen-heidenheim 08/11
+🔑 Recherche clé : ('union berlin', 'bayern munich') parmi []
+❌ Résultat non trouvé pour union berlin-bayern munich 08/11
+🔑 Recherche clé : ('como', 'cagliari') parmi []
+❌ Résultat non trouvé pour como-cagliari 08/11
+🔑 Recherche clé : ('juventus', 'torino') parmi []
+❌ Résultat non trouvé pour juventus-torino 08/11
+🔑 Recherche clé : ('parma', 'milan') parmi []
+❌ Résultat non trouvé pour parma-milan 08/11
+🔑 Recherche clé : ('hamburger sv', 'dortmund') parmi []
+❌ Résultat non trouvé pour hamburger sv-dortmund 08/11
+🔑 Recherche clé : ('santa clara', 'sporting cp') parmi []
+❌ Résultat non trouvé pour santa clara-sporting cp 08/11
+🔑 Recherche clé : ('atletico madrid', 'levante') parmi []
+❌ Résultat non trouvé pour atlético madrid-levante 08/11
+🔑 Recherche clé : ('west ham', 'burnley') parmi []
+❌ Résultat non trouvé pour west ham-burnley 08/11
+🔑 Recherche clé : ('le havre', 'nantes') parmi []
+❌ Résultat non trouvé pour le havre-nantes 08/11
+
+📅 Traitement des matchs du 09/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-09
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-09) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-09
+🔑 Recherche clé : ('athletic club', 'roviedo') parmi []
+❌ Résultat non trouvé pour athletic club-roviedo 09/11
+🔑 Recherche clé : ('atalanta', 'sassuolo') parmi []
+❌ Résultat non trouvé pour atalanta-sassuolo 09/11
+🔑 Recherche clé : ('inter', 'lazio') parmi []
+❌ Résultat non trouvé pour inter-lazio 09/11
+🔑 Recherche clé : ('rayo vallecano', 'real madrid') parmi []
+❌ Résultat non trouvé pour rayo vallecano-real madrid 09/11
+🔑 Recherche clé : ('roma', 'udinese') parmi []
+❌ Résultat non trouvé pour roma-udinese 09/11
+🔑 Recherche clé : ('stuttgart', 'augsburg') parmi []
+❌ Résultat non trouvé pour stuttgart-augsburg 09/11
+🔑 Recherche clé : ('celta vigo', 'barcelona') parmi []
+❌ Résultat non trouvé pour celta vigo-barcelona 09/11
+🔑 Recherche clé : ('lyon', 'paris s-g') parmi []
+❌ Résultat non trouvé pour lyon-paris s-g 09/11
+🔑 Recherche clé : ('manchester city', 'liverpool') parmi []
+❌ Résultat non trouvé pour manchester city-liverpool 09/11
+🔑 Recherche clé : ('braga', 'moreirense') parmi []
+❌ Résultat non trouvé pour braga-moreirense 09/11
+🔑 Recherche clé : ('famalicao', 'porto') parmi []
+❌ Résultat non trouvé pour famalicão-porto 09/11
+🔑 Recherche clé : ('avs futebol', 'gil vicente fc') parmi []
+❌ Résultat non trouvé pour avs futebol-gil vicente fc 09/11
+🔑 Recherche clé : ('freiburg', 'st. pauli') parmi []
+❌ Résultat non trouvé pour freiburg-st. pauli 09/11
+
+📅 Traitement des matchs du 07/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-07
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-07) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-07
+
+📅 Traitement des matchs du 23/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-23
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-23) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-23
+🔑 Recherche clé : ('toulouse', 'angers') parmi []
+❌ Résultat non trouvé pour toulouse-angers 23/11
+🔑 Recherche clé : ('lazio', 'lecce') parmi []
+❌ Résultat non trouvé pour lazio-lecce 23/11
+🔑 Recherche clé : ('inter', 'milan') parmi []
+❌ Résultat non trouvé pour inter-milan 23/11
+🔑 Recherche clé : ('arsenal', 'tottenham') parmi []
+❌ Résultat non trouvé pour arsenal-tottenham 23/11
+🔑 Recherche clé : ('elche', 'real madrid') parmi []
+❌ Résultat non trouvé pour elche-real madrid 23/11
+🔑 Recherche clé : ('rb leipzig', 'werder bremen') parmi []
+❌ Résultat non trouvé pour rb leipzig-werder bremen 23/11
+🔑 Recherche clé : ('lille', 'paris fc') parmi []
+❌ Résultat non trouvé pour lille-paris fc 23/11
+🔑 Recherche clé : ('betis', 'girona') parmi []
+❌ Résultat non trouvé pour betis-girona 23/11
+🔑 Recherche clé : ('us cremonese', 'roma') parmi []
+❌ Résultat non trouvé pour us cremonese-roma 23/11
+🔑 Recherche clé : ('brest', 'metz') parmi []
+❌ Résultat non trouvé pour brest-metz 23/11
+🔑 Recherche clé : ('getafe', 'atletico madrid') parmi []
+❌ Résultat non trouvé pour getafe-atlético madrid 23/11
+🔑 Recherche clé : ('auxerre', 'lyon') parmi []
+❌ Résultat non trouvé pour auxerre-lyon 23/11
+
+📅 Traitement des matchs du 22/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-22
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-22) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-22
+🔑 Recherche clé : ('bournemouth', 'west ham') parmi []
+❌ Résultat non trouvé pour bournemouth-west ham 22/11
+🔑 Recherche clé : ('liverpool', "nott'ham forest") parmi []
+❌ Résultat non trouvé pour liverpool-nott'ham forest 22/11
+🔑 Recherche clé : ('barcelona', 'athletic club') parmi []
+❌ Résultat non trouvé pour barcelona-athletic club 22/11
+🔑 Recherche clé : ('villarreal', 'mallorca') parmi []
+❌ Résultat non trouvé pour villarreal-mallorca 22/11
+🔑 Recherche clé : ('burnley', 'chelsea') parmi []
+❌ Résultat non trouvé pour burnley-chelsea 22/11
+🔑 Recherche clé : ('dortmund', 'stuttgart') parmi []
+❌ Résultat non trouvé pour dortmund-stuttgart 22/11
+🔑 Recherche clé : ('wolves', 'crystal palace') parmi []
+❌ Résultat non trouvé pour wolves-crystal palace 22/11
+🔑 Recherche clé : ('lens', 'strasbourg') parmi []
+❌ Résultat non trouvé pour lens-strasbourg 22/11
+🔑 Recherche clé : ('fiorentina', 'juventus') parmi []
+❌ Résultat non trouvé pour fiorentina-juventus 22/11
+🔑 Recherche clé : ('bayern munich', 'freiburg') parmi []
+❌ Résultat non trouvé pour bayern munich-freiburg 22/11
+🔑 Recherche clé : ('brighton', 'brentford') parmi []
+❌ Résultat non trouvé pour brighton-brentford 22/11
+🔑 Recherche clé : ('paris s', 'g-le havre') parmi []
+❌ Résultat non trouvé pour paris s-g-le havre 22/11
+
+📅 Traitement des matchs du 24/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-24
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-24) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-24
+🔑 Recherche clé : ('manchester utd', 'everton') parmi []
+❌ Résultat non trouvé pour manchester utd-everton 24/11
+
+📅 Traitement des matchs du 21/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-21
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-21) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-21
+🔑 Recherche clé : ('nice', 'marseille') parmi []
+❌ Résultat non trouvé pour nice-marseille 21/11
+
+📅 Traitement des matchs du 29/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-29
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-29) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-29
+🔑 Recherche clé : ('manchester city', 'leeds united') parmi []
+❌ Résultat non trouvé pour manchester city-leeds united 29/11
+🔑 Recherche clé : ('barcelona', 'alaves') parmi []
+❌ Résultat non trouvé pour barcelona-alavés 29/11
+🔑 Recherche clé : ('atletico madrid', 'roviedo') parmi []
+❌ Résultat non trouvé pour atlético madrid-roviedo 29/11
+🔑 Recherche clé : ('juventus', 'cagliari') parmi []
+❌ Résultat non trouvé pour juventus-cagliari 29/11
+🔑 Recherche clé : ('brentford', 'burnley') parmi []
+❌ Résultat non trouvé pour brentford-burnley 29/11
+🔑 Recherche clé : ('milan', 'lazio') parmi []
+❌ Résultat non trouvé pour milan-lazio 29/11
+🔑 Recherche clé : ('monaco', 'paris s-g') parmi []
+❌ Résultat non trouvé pour monaco-paris s-g 29/11
+🔑 Recherche clé : ('marseille', 'toulouse') parmi []
+❌ Résultat non trouvé pour marseille-toulouse 29/11
+🔑 Recherche clé : ('union berlin', 'heidenheim') parmi []
+❌ Résultat non trouvé pour union berlin-heidenheim 29/11
+🔑 Recherche clé : ('hoffenheim', 'augsburg') parmi []
+❌ Résultat non trouvé pour hoffenheim-augsburg 29/11
+🔑 Recherche clé : ('paris fc', 'auxerre') parmi []
+❌ Résultat non trouvé pour paris fc-auxerre 29/11
+🔑 Recherche clé : ('nacional', 'benfica') parmi []
+❌ Résultat non trouvé pour nacional-benfica 29/11
+🔑 Recherche clé : ('gil vicente fc', 'tondela') parmi []
+❌ Résultat non trouvé pour gil vicente fc-tondela 29/11
+
+📅 Traitement des matchs du 30/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-30
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-30) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-30
+🔑 Recherche clé : ('girona', 'real madrid') parmi []
+❌ Résultat non trouvé pour girona-real madrid 30/11
+🔑 Recherche clé : ('pisa', 'inter') parmi []
+❌ Résultat non trouvé pour pisa-inter 30/11
+🔑 Recherche clé : ('lyon', 'nantes') parmi []
+❌ Résultat non trouvé pour lyon-nantes 30/11
+🔑 Recherche clé : ('aston villa', 'wolves') parmi []
+❌ Résultat non trouvé pour aston villa-wolves 30/11
+🔑 Recherche clé : ('west ham', 'liverpool') parmi []
+❌ Résultat non trouvé pour west ham-liverpool 30/11
+🔑 Recherche clé : ('eint frankfurt', 'wolfsburg') parmi []
+❌ Résultat non trouvé pour eint frankfurt-wolfsburg 30/11
+🔑 Recherche clé : ('atalanta', 'fiorentina') parmi []
+❌ Résultat non trouvé pour atalanta-fiorentina 30/11
+🔑 Recherche clé : ('angers', 'lens') parmi []
+❌ Résultat non trouvé pour angers-lens 30/11
+🔑 Recherche clé : ('strasbourg', 'brest') parmi []
+❌ Résultat non trouvé pour strasbourg-brest 30/11
+🔑 Recherche clé : ('porto', 'estoril') parmi []
+❌ Résultat non trouvé pour porto-estoril 30/11
+🔑 Recherche clé : ('le havre', 'lille') parmi []
+❌ Résultat non trouvé pour le havre-lille 30/11
+
+📅 Traitement des matchs du 01/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-01
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-01) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-01
+🔑 Recherche clé : ('bologna', 'us cremonese') parmi []
+❌ Résultat non trouvé pour bologna-us cremonese 01/12
+🔑 Recherche clé : ('rayo vallecano', 'valencia') parmi []
+❌ Résultat non trouvé pour rayo vallecano-valencia 01/12
+🔑 Recherche clé : ('arouca', 'braga') parmi []
+❌ Résultat non trouvé pour arouca-braga 01/12
+
+📅 Traitement des matchs du 28/11...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-11-28
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-11-28) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-11-28
+🔑 Recherche clé : ('como', 'sassuolo') parmi []
+❌ Résultat non trouvé pour como-sassuolo 28/11
+🔑 Recherche clé : ('vitoria', 'avs futebol') parmi []
+❌ Résultat non trouvé pour vitória-avs futebol 28/11
+
+📅 Traitement des matchs du 03/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-03
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-03) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-03
+🔑 Recherche clé : ('athletic club', 'real madrid') parmi []
+❌ Résultat non trouvé pour athletic club-real madrid 03/12
+🔑 Recherche clé : ('arsenal', 'brentford') parmi []
+❌ Résultat non trouvé pour arsenal-brentford 03/12
+🔑 Recherche clé : ('liverpool', 'sunderland') parmi []
+❌ Résultat non trouvé pour liverpool-sunderland 03/12
+🔑 Recherche clé : ('burnley', 'crystal palace') parmi []
+❌ Résultat non trouvé pour burnley-crystal palace 03/12
+🔑 Recherche clé : ('leeds united', 'chelsea') parmi []
+❌ Résultat non trouvé pour leeds united-chelsea 03/12
+
+📅 Traitement des matchs du 02/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-02
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-02) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-02
+🔑 Recherche clé : ('barcelona', 'atletico madrid') parmi []
+❌ Résultat non trouvé pour barcelona-atlético madrid 02/12
+🔑 Recherche clé : ('fulham', 'manchester city') parmi []
+❌ Résultat non trouvé pour fulham-manchester city 02/12
+🔑 Recherche clé : ('newcastle utd', 'tottenham') parmi []
+❌ Résultat non trouvé pour newcastle utd-tottenham 02/12
+
+📅 Traitement des matchs du 04/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-04
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-04) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-04
+🔑 Recherche clé : ('manchester utd', 'west ham') parmi []
+❌ Résultat non trouvé pour manchester utd-west ham 04/12
+
+📅 Traitement des matchs du 06/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-06
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-06) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-06
+🔑 Recherche clé : ('paris s', 'g-rennes') parmi []
+❌ Résultat non trouvé pour paris s-g-rennes 06/12
+🔑 Recherche clé : ('stuttgart', 'bayern munich') parmi []
+❌ Résultat non trouvé pour stuttgart-bayern munich 06/12
+🔑 Recherche clé : ('villarreal', 'getafe') parmi []
+❌ Résultat non trouvé pour villarreal-getafe 06/12
+🔑 Recherche clé : ('nantes', 'lens') parmi []
+❌ Résultat non trouvé pour nantes-lens 06/12
+🔑 Recherche clé : ('leeds united', 'liverpool') parmi []
+❌ Résultat non trouvé pour leeds united-liverpool 06/12
+🔑 Recherche clé : ('hellas verona', 'atalanta') parmi []
+❌ Résultat non trouvé pour hellas verona-atalanta 06/12
+🔑 Recherche clé : ('rb leipzig', 'eint frankfurt') parmi []
+❌ Résultat non trouvé pour rb leipzig-eint frankfurt 06/12
+🔑 Recherche clé : ('aston villa', 'arsenal') parmi []
+❌ Résultat non trouvé pour aston villa-arsenal 06/12
+🔑 Recherche clé : ('augsburg', 'leverkusen') parmi []
+❌ Résultat non trouvé pour augsburg-leverkusen 06/12
+🔑 Recherche clé : ('inter', 'como') parmi []
+❌ Résultat non trouvé pour inter-como 06/12
+🔑 Recherche clé : ('newcastle utd', 'burnley') parmi []
+❌ Résultat non trouvé pour newcastle utd-burnley 06/12
+🔑 Recherche clé : ('manchester city', 'sunderland') parmi []
+❌ Résultat non trouvé pour manchester city-sunderland 06/12
+🔑 Recherche clé : ('betis', 'barcelona') parmi []
+❌ Résultat non trouvé pour betis-barcelona 06/12
+
+📅 Traitement des matchs du 07/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-07
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-07) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-07
+🔑 Recherche clé : ('real madrid', 'celta vigo') parmi []
+❌ Résultat non trouvé pour real madrid-celta vigo 07/12
+🔑 Recherche clé : ('dortmund', 'hoffenheim') parmi []
+❌ Résultat non trouvé pour dortmund-hoffenheim 07/12
+🔑 Recherche clé : ('brighton', 'west ham') parmi []
+❌ Résultat non trouvé pour brighton-west ham 07/12
+🔑 Recherche clé : ('cagliari', 'roma') parmi []
+❌ Résultat non trouvé pour cagliari-roma 07/12
+🔑 Recherche clé : ('nice', 'angers') parmi []
+❌ Résultat non trouvé pour nice-angers 07/12
+🔑 Recherche clé : ('tondela', 'porto') parmi []
+❌ Résultat non trouvé pour tondela-porto 07/12
+
+📅 Traitement des matchs du 08/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-08
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-08) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-08
+🔑 Recherche clé : ('wolves', 'manchester utd') parmi []
+❌ Résultat non trouvé pour wolves-manchester utd 08/12
+🔑 Recherche clé : ('torino', 'milan') parmi []
+❌ Résultat non trouvé pour torino-milan 08/12
+🔑 Recherche clé : ('osasuna', 'levante') parmi []
+❌ Résultat non trouvé pour osasuna-levante 08/12
+
+📅 Traitement des matchs du 05/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-05
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-05) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-05
+
+📅 Traitement des matchs du 13/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-13
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-13) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-13
+🔑 Recherche clé : ('metz', 'paris s-g') parmi []
+❌ Résultat non trouvé pour metz-paris s-g 13/12
+🔑 Recherche clé : ('arsenal', 'wolves') parmi []
+❌ Résultat non trouvé pour arsenal-wolves 13/12
+🔑 Recherche clé : ('atletico madrid', 'valencia') parmi []
+❌ Résultat non trouvé pour atlético madrid-valencia 13/12
+🔑 Recherche clé : ('barcelona', 'osasuna') parmi []
+❌ Résultat non trouvé pour barcelona-osasuna 13/12
+🔑 Recherche clé : ('atalanta', 'cagliari') parmi []
+❌ Résultat non trouvé pour atalanta-cagliari 13/12
+🔑 Recherche clé : ('leverkusen', 'koln') parmi []
+❌ Résultat non trouvé pour leverkusen-köln 13/12
+🔑 Recherche clé : ('chelsea', 'everton') parmi []
+❌ Résultat non trouvé pour chelsea-everton 13/12
+🔑 Recherche clé : ('liverpool', 'brighton') parmi []
+❌ Résultat non trouvé pour liverpool-brighton 13/12
+🔑 Recherche clé : ('eint frankfurt', 'augsburg') parmi []
+❌ Résultat non trouvé pour eint frankfurt-augsburg 13/12
+🔑 Recherche clé : ('hoffenheim', 'hamburger sv') parmi []
+❌ Résultat non trouvé pour hoffenheim- hamburger sv 13/12
+🔑 Recherche clé : ('rennes', 'brest') parmi []
+❌ Résultat non trouvé pour rennes-brest 13/12
+🔑 Recherche clé : ('st. pauli', 'heidenheim') parmi []
+❌ Résultat non trouvé pour st. pauli-heidenheim 13/12
+
+📅 Traitement des matchs du 14/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-14
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-14) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-14
+🔑 Recherche clé : ('milan', 'sassuolo') parmi []
+❌ Résultat non trouvé pour milan-sassuolo 14/12
+🔑 Recherche clé : ('genoa', 'inter') parmi []
+❌ Résultat non trouvé pour genoa-inter 14/12
+🔑 Recherche clé : ('lens', 'nice') parmi []
+❌ Résultat non trouvé pour lens-nice 14/12
+🔑 Recherche clé : ('lyon', 'le havre') parmi []
+❌ Résultat non trouvé pour lyon-le havre 14/12
+🔑 Recherche clé : ('alaves', 'real madrid') parmi []
+❌ Résultat non trouvé pour alavés-real madrid 14/12
+🔑 Recherche clé : ('strasbourg', 'lorient') parmi []
+❌ Résultat non trouvé pour strasbourg-lorient 14/12
+🔑 Recherche clé : ('sevilla', 'roviedo') parmi []
+❌ Résultat non trouvé pour sevilla-roviedo 14/12
+🔑 Recherche clé : ('auxerre', 'lille') parmi []
+❌ Résultat non trouvé pour auxerre-lille 14/12
+🔑 Recherche clé : ('levante', 'villarreal') parmi []
+❌ Résultat non trouvé pour levante-villarreal 14/12
+🔑 Recherche clé : ('fiorentina', 'hellas verona') parmi []
+❌ Résultat non trouvé pour fiorentina-hellas verona 14/12
+🔑 Recherche clé : ('marseille', 'monaco') parmi []
+❌ Résultat non trouvé pour marseille-monaco 14/12
+🔑 Recherche clé : ('udinese', 'napoli') parmi []
+❌ Résultat non trouvé pour udinese-napoli 14/12
+🔑 Recherche clé : ('moreirense', 'benfica') parmi []
+❌ Résultat non trouvé pour moreirense-benfica 14/12
+🔑 Recherche clé : ('famalicao', 'estoril') parmi []
+❌ Résultat non trouvé pour famalicão-estoril 14/12
+🔑 Recherche clé : ('crystal palace', 'manchester city') parmi []
+❌ Résultat non trouvé pour crystal palace-manchester city 14/12
+
+📅 Traitement des matchs du 12/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-12
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-12) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-12
+🔑 Recherche clé : ('real sociedad', 'girona') parmi []
+❌ Résultat non trouvé pour real sociedad-girona 12/12
+
+📅 Traitement des matchs du 15/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-15
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-15) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-15
+🔑 Recherche clé : ('manchester utd', 'bournemouth') parmi []
+❌ Résultat non trouvé pour manchester utd-bournemouth 15/12
+🔑 Recherche clé : ('braga', 'santa clara') parmi []
+❌ Résultat non trouvé pour braga-santa clara 15/12
+🔑 Recherche clé : ('porto', 'estrela') parmi []
+❌ Résultat non trouvé pour porto-estrela 15/12
+
+📅 Traitement des matchs du 20/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-20
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-20) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-20
+🔑 Recherche clé : ('manchester city', 'west ham') parmi []
+❌ Résultat non trouvé pour manchester city-west ham 20/12
+🔑 Recherche clé : ('real madrid', 'sevilla') parmi []
+❌ Résultat non trouvé pour real madrid-sevilla 20/12
+🔑 Recherche clé : ('bournemouth', 'burnley') parmi []
+❌ Résultat non trouvé pour bournemouth-burnley 20/12
+🔑 Recherche clé : ('brighton', 'sunderland') parmi []
+❌ Résultat non trouvé pour brighton-sunderland 20/12
+🔑 Recherche clé : ('lazio', 'us cremonese') parmi []
+❌ Résultat non trouvé pour lazio-us cremonese 20/12
+🔑 Recherche clé : ('everton', 'arsenal') parmi []
+❌ Résultat non trouvé pour everton-arsenal 20/12
+🔑 Recherche clé : ('gil vicente fc', 'rio ave') parmi []
+❌ Résultat non trouvé pour gil vicente fc-rio ave 20/12
+
+📅 Traitement des matchs du 19/12...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2025-12-19
+❌ Erreur FBRef (https://fbref.com/en/matches/2025-12-19) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2025-12-19
+🔑 Recherche clé : ('dortmund', 'gladbach') parmi []
+❌ Résultat non trouvé pour dortmund-gladbach 19/12
+🔑 Recherche clé : ('estoril', 'braga') parmi []
+❌ Résultat non trouvé pour estoril-braga 19/12
+
+Mises à jour terminées : 0 matchs complétés.
+
+=== Étape 3 : Calcul des statistiques et génération des graphiques ===
+✅ Rapport texte généré : results/statistics_report.txt
+✅ Résumé CSV généré : results/statistics_summary.csv
+📊 Graphiques générés dans results/graphs/
