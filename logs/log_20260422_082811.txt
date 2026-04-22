@@ -1,0 +1,1253 @@
+🚀 Exécution via GitHub Actions
+
+=== Étape 1 : Scraping FDJ ===
+
+=== Scraping FDJ pour Y=1.15, Z=1.35 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.15, Z=1.4 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.15, Z=1.45 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.15, Z=1.5 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.15, Z=1.55 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.15, Z=1.6 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.15, Z=1.65 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.15, Z=1.7 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.15, Z=1.75 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.15, Z=1.8 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.2, Z=1.4 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.2, Z=1.45 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.2, Z=1.5 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.2, Z=1.55 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.2, Z=1.6 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.2, Z=1.65 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.2, Z=1.7 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.2, Z=1.75 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.2, Z=1.8 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.25, Z=1.45 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.25, Z=1.5 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.25, Z=1.55 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.25, Z=1.6 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.25, Z=1.65 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.25, Z=1.7 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.25, Z=1.75 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.25, Z=1.8 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.3, Z=1.5 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.3, Z=1.55 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.3, Z=1.6 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.3, Z=1.65 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.3, Z=1.7 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.3, Z=1.75 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.3, Z=1.8 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.35, Z=1.55 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.35, Z=1.6 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.35, Z=1.65 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.35, Z=1.7 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.35, Z=1.75 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.35, Z=1.8 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.4, Z=1.6 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.4, Z=1.65 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.4, Z=1.7 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.4, Z=1.75 ===
+Aucun match trouvé.
+
+=== Scraping FDJ pour Y=1.4, Z=1.8 ===
+Aucun match trouvé.
+
+=== Étape 2 : Mise à jour des résultats FBRef ===
+
+📅 Traitement des matchs du 04/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-04
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-04) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-04
+🔑 Recherche clé : ('marseille', 'nantes') parmi []
+❌ Résultat non trouvé pour marseille-nantes 04/01
+🔑 Recherche clé : ('paris s', 'g-paris fc') parmi []
+❌ Résultat non trouvé pour paris s-g-paris fc 04/01
+🔑 Recherche clé : ('real madrid', 'betis') parmi []
+❌ Résultat non trouvé pour real madrid-betis 04/01
+🔑 Recherche clé : ('lorient', 'metz') parmi []
+❌ Résultat non trouvé pour lorient-metz 04/01
+🔑 Recherche clé : ('sevilla', 'levante') parmi []
+❌ Résultat non trouvé pour sevilla-levante 04/01
+🔑 Recherche clé : ('alaves', 'roviedo') parmi []
+❌ Résultat non trouvé pour alavés-roviedo 04/01
+🔑 Recherche clé : ('inter', 'bologna') parmi []
+❌ Résultat non trouvé pour inter-bologna 04/01
+🔑 Recherche clé : ('fiorentina', 'us cremonese') parmi []
+❌ Résultat non trouvé pour fiorentina-us cremonese 04/01
+🔑 Recherche clé : ('newcastle utd', 'crystal palace') parmi []
+❌ Résultat non trouvé pour newcastle utd-crystal palace 04/01
+🔑 Recherche clé : ('manchester city', 'chelsea') parmi []
+❌ Résultat non trouvé pour manchester city-chelsea 04/01
+🔑 Recherche clé : ('tottenham', 'sunderland') parmi []
+❌ Résultat non trouvé pour tottenham-sunderland 04/01
+🔑 Recherche clé : ('santa clara', 'porto') parmi []
+❌ Résultat non trouvé pour santa clara-porto 04/01
+
+📅 Traitement des matchs du 03/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-03
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-03) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-03
+🔑 Recherche clé : ('espanyol', 'barcelona') parmi []
+❌ Résultat non trouvé pour espanyol-barcelona 03/01
+🔑 Recherche clé : ('lille', 'rennes') parmi []
+❌ Résultat non trouvé pour lille-rennes 03/01
+🔑 Recherche clé : ('celta vigo', 'valencia') parmi []
+❌ Résultat non trouvé pour celta vigo-valencia 03/01
+🔑 Recherche clé : ('juventus', 'lecce') parmi []
+❌ Résultat non trouvé pour juventus-lecce 03/01
+🔑 Recherche clé : ('como', 'udinese') parmi []
+❌ Résultat non trouvé pour como-udinese 03/01
+🔑 Recherche clé : ('sassuolo', 'parma') parmi []
+❌ Résultat non trouvé pour sassuolo-parma 03/01
+🔑 Recherche clé : ('genoa', 'pisa') parmi []
+❌ Résultat non trouvé pour genoa-pisa 03/01
+🔑 Recherche clé : ('monaco', 'lyon') parmi []
+❌ Résultat non trouvé pour monaco-lyon 03/01
+🔑 Recherche clé : ('brighton', 'burnley') parmi []
+❌ Résultat non trouvé pour brighton-burnley 03/01
+🔑 Recherche clé : ('bournemouth', 'arsenal') parmi []
+❌ Résultat non trouvé pour bournemouth-arsenal 03/01
+🔑 Recherche clé : ('aston villa', "nott'ham forest") parmi []
+❌ Résultat non trouvé pour aston villa-nott'ham forest 03/01
+🔑 Recherche clé : ('benfica', 'estoril') parmi []
+❌ Résultat non trouvé pour benfica-estoril 03/01
+🔑 Recherche clé : ('estrela', 'braga') parmi []
+❌ Résultat non trouvé pour estrela-braga 03/01
+
+📅 Traitement des matchs du 10/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-10
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-10) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-10
+🔑 Recherche clé : ('freiburg', 'hamburger sv') parmi []
+❌ Résultat non trouvé pour freiburg- hamburger sv 10/01
+🔑 Recherche clé : ('leverkusen', 'stuttgart') parmi []
+❌ Résultat non trouvé pour leverkusen-stuttgart 10/01
+🔑 Recherche clé : ('st. pauli', 'rb leipzig') parmi []
+❌ Résultat non trouvé pour st. pauli-rb leipzig 10/01
+🔑 Recherche clé : ('roma', 'sassuolo') parmi []
+❌ Résultat non trouvé pour roma-sassuolo 10/01
+🔑 Recherche clé : ('villarreal', 'alaves') parmi []
+❌ Résultat non trouvé pour villarreal-alavés 10/01
+🔑 Recherche clé : ('atalanta', 'torino') parmi []
+❌ Résultat non trouvé pour atalanta-torino 10/01
+🔑 Recherche clé : ('udinese', 'pisa') parmi []
+❌ Résultat non trouvé pour udinese-pisa 10/01
+
+📅 Traitement des matchs du 01/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-01
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-01) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-01
+🔑 Recherche clé : ('liverpool', 'leeds united') parmi []
+❌ Résultat non trouvé pour liverpool-leeds united 01/01
+🔑 Recherche clé : ('sunderland', 'manchester city') parmi []
+❌ Résultat non trouvé pour sunderland-manchester city 01/01
+
+📅 Traitement des matchs du 02/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-02
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-02) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-02
+🔑 Recherche clé : ('cagliari', 'milan') parmi []
+❌ Résultat non trouvé pour cagliari-milan 02/01
+🔑 Recherche clé : ('gil vicente fc', 'sporting cp') parmi []
+❌ Résultat non trouvé pour gil vicente fc-sporting cp 02/01
+🔑 Recherche clé : ('vitoria', 'nacional') parmi []
+❌ Résultat non trouvé pour vitória-nacional 02/01
+🔑 Recherche clé : ('vitoria', 'nacional') parmi []
+❌ Résultat non trouvé pour vitória-nacional 02/01
+
+📅 Traitement des matchs du 07/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-07
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-07) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-07
+🔑 Recherche clé : ('manchester city', 'brighton') parmi []
+❌ Résultat non trouvé pour manchester city-brighton 07/01
+🔑 Recherche clé : ('napoli', 'hellas verona') parmi []
+❌ Résultat non trouvé pour napoli-hellas verona 07/01
+🔑 Recherche clé : ('parma', 'inter') parmi []
+❌ Résultat non trouvé pour parma-inter 07/01
+🔑 Recherche clé : ('newcastle utd', 'leeds united') parmi []
+❌ Résultat non trouvé pour newcastle utd-leeds united 07/01
+🔑 Recherche clé : ('everton', 'wolves') parmi []
+❌ Résultat non trouvé pour everton-wolves 07/01
+🔑 Recherche clé : ('burnley', 'manchester utd') parmi []
+❌ Résultat non trouvé pour burnley-manchester utd 07/01
+🔑 Recherche clé : ('brentford', 'sunderland') parmi []
+❌ Résultat non trouvé pour brentford-sunderland 07/01
+
+📅 Traitement des matchs du 08/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-08
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-08) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-08
+🔑 Recherche clé : ('milan', 'genoa') parmi []
+❌ Résultat non trouvé pour milan-genoa 08/01
+🔑 Recherche clé : ('arsenal', 'liverpool') parmi []
+❌ Résultat non trouvé pour arsenal-liverpool 08/01
+
+📅 Traitement des matchs du 06/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-06
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-06) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-06
+🔑 Recherche clé : ('pisa', 'como') parmi []
+❌ Résultat non trouvé pour pisa-como 06/01
+🔑 Recherche clé : ('lecce', 'roma') parmi []
+❌ Résultat non trouvé pour lecce-roma 06/01
+🔑 Recherche clé : ('sassuolo', 'juventus') parmi []
+❌ Résultat non trouvé pour sassuolo-juventus 06/01
+
+📅 Traitement des matchs du 12/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-12
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-12) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-12
+🔑 Recherche clé : ('juventus', 'us cremonese') parmi []
+❌ Résultat non trouvé pour juventus-us cremonese 12/01
+
+📅 Traitement des matchs du 11/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-11
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-11) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-11
+🔑 Recherche clé : ('inter', 'napoli') parmi []
+❌ Résultat non trouvé pour inter-napoli 11/01
+🔑 Recherche clé : ('rayo vallecano', 'mallorca') parmi []
+❌ Résultat non trouvé pour rayo vallecano-mallorca 11/01
+🔑 Recherche clé : ('gladbach', 'augsburg') parmi []
+❌ Résultat non trouvé pour gladbach-augsburg 11/01
+
+📅 Traitement des matchs du 16/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-16
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-16) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-16
+🔑 Recherche clé : ('paris s', 'g-lille') parmi []
+❌ Résultat non trouvé pour paris s-g-lille 16/01
+🔑 Recherche clé : ('monaco', 'lorient') parmi []
+❌ Résultat non trouvé pour monaco-lorient 16/01
+🔑 Recherche clé : ('pisa', 'atalanta') parmi []
+❌ Résultat non trouvé pour pisa-atalanta 16/01
+🔑 Recherche clé : ('espanyol', 'girona') parmi []
+❌ Résultat non trouvé pour espanyol-girona 16/01
+🔑 Recherche clé : ('sporting cp', 'casa pia') parmi []
+❌ Résultat non trouvé pour sporting cp-casa pia 16/01
+
+📅 Traitement des matchs du 17/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-17
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-17) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-17
+🔑 Recherche clé : ('lens', 'auxerre') parmi []
+❌ Résultat non trouvé pour lens-auxerre 17/01
+🔑 Recherche clé : ('angers', 'marseille') parmi []
+❌ Résultat non trouvé pour angers-marseille 17/01
+🔑 Recherche clé : ('toulouse', 'nice') parmi []
+❌ Résultat non trouvé pour toulouse-nice 17/01
+🔑 Recherche clé : ('liverpool', 'burnley') parmi []
+❌ Résultat non trouvé pour liverpool-burnley 17/01
+🔑 Recherche clé : ('dortmund', 'st. pauli') parmi []
+❌ Résultat non trouvé pour dortmund-st. pauli 17/01
+🔑 Recherche clé : ('udinese', 'inter') parmi []
+❌ Résultat non trouvé pour udinese-inter 17/01
+🔑 Recherche clé : ('napoli', 'sassuolo') parmi []
+❌ Résultat non trouvé pour napoli-sassuolo 17/01
+🔑 Recherche clé : ("nott'ham forest", 'arsenal') parmi []
+❌ Résultat non trouvé pour nott'ham forest-arsenal 17/01
+🔑 Recherche clé : ('cagliari', 'juventus') parmi []
+❌ Résultat non trouvé pour cagliari-juventus 17/01
+🔑 Recherche clé : ('rb leipzig', 'bayern munich') parmi []
+❌ Résultat non trouvé pour rb leipzig-bayern munich 17/01
+🔑 Recherche clé : ('chelsea', 'brentford') parmi []
+❌ Résultat non trouvé pour chelsea-brentford 17/01
+🔑 Recherche clé : ('tottenham', 'west ham') parmi []
+❌ Résultat non trouvé pour tottenham-west ham 17/01
+🔑 Recherche clé : ('osasuna', 'roviedo') parmi []
+❌ Résultat non trouvé pour osasuna-roviedo 17/01
+🔑 Recherche clé : ('wolfsburg', 'heidenheim') parmi []
+❌ Résultat non trouvé pour wolfsburg-heidenheim 17/01
+🔑 Recherche clé : ('manchester utd', 'manchester city') parmi []
+❌ Résultat non trouvé pour manchester utd-manchester city 17/01
+🔑 Recherche clé : ('rio ave', 'benfica') parmi []
+❌ Résultat non trouvé pour rio ave-benfica 17/01
+🔑 Recherche clé : ('gil vicente fc', 'nacional') parmi []
+❌ Résultat non trouvé pour gil vicente fc-nacional 17/01
+
+📅 Traitement des matchs du 18/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-18
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-18) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-18
+🔑 Recherche clé : ('strasbourg', 'metz') parmi []
+❌ Résultat non trouvé pour strasbourg-metz 18/01
+🔑 Recherche clé : ('rennes', 'le havre') parmi []
+❌ Résultat non trouvé pour rennes-le havre 18/01
+🔑 Recherche clé : ('lyon', 'brest') parmi []
+❌ Résultat non trouvé pour lyon-brest 18/01
+🔑 Recherche clé : ('atletico madrid', 'alaves') parmi []
+❌ Résultat non trouvé pour atlético madrid-alavés 18/01
+🔑 Recherche clé : ('milan', 'lecce') parmi []
+❌ Résultat non trouvé pour milan-lecce 18/01
+🔑 Recherche clé : ('real sociedad', 'barcelona') parmi []
+❌ Résultat non trouvé pour real sociedad-barcelona 18/01
+🔑 Recherche clé : ('aston villa', 'everton') parmi []
+❌ Résultat non trouvé pour aston villa-everton 18/01
+🔑 Recherche clé : ('wolves', 'newcastle utd') parmi []
+❌ Résultat non trouvé pour wolves-newcastle utd 18/01
+🔑 Recherche clé : ('stuttgart', 'union berlin') parmi []
+❌ Résultat non trouvé pour stuttgart-union berlin 18/01
+🔑 Recherche clé : ('vitoria', 'porto') parmi []
+❌ Résultat non trouvé pour vitória-porto 18/01
+🔑 Recherche clé : ('tondela', 'braga') parmi []
+❌ Résultat non trouvé pour tondela-braga 18/01
+
+📅 Traitement des matchs du 13/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-13
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-13) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-13
+🔑 Recherche clé : ('dortmund', 'werder bremen') parmi []
+❌ Résultat non trouvé pour dortmund-werder bremen 13/01
+🔑 Recherche clé : ('mainz 05', 'heidenheim') parmi []
+❌ Résultat non trouvé pour mainz 05-heidenheim 13/01
+🔑 Recherche clé : ('stuttgart', 'eint frankfurt') parmi []
+❌ Résultat non trouvé pour stuttgart-eint frankfurt 13/01
+
+📅 Traitement des matchs du 14/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-14
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-14) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-14
+🔑 Recherche clé : ('koln', 'bayern munich') parmi []
+❌ Résultat non trouvé pour köln-bayern munich 14/01
+🔑 Recherche clé : ('rb leipzig', 'freiburg') parmi []
+❌ Résultat non trouvé pour rb leipzig-freiburg 14/01
+🔑 Recherche clé : ('wolfsburg', 'st. pauli') parmi []
+❌ Résultat non trouvé pour wolfsburg-st. pauli 14/01
+🔑 Recherche clé : ('hoffenheim', 'gladbach') parmi []
+❌ Résultat non trouvé pour hoffenheim-gladbach 14/01
+🔑 Recherche clé : ('napoli', 'parma') parmi []
+❌ Résultat non trouvé pour napoli-parma 14/01
+
+📅 Traitement des matchs du 19/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-19
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-19) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-19
+🔑 Recherche clé : ('brighton', 'bournemouth') parmi []
+❌ Résultat non trouvé pour brighton-bournemouth 19/01
+
+📅 Traitement des matchs du 23/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-23
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-23) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-23
+🔑 Recherche clé : ('auxerre', 'paris s-g') parmi []
+❌ Résultat non trouvé pour auxerre-paris s-g 23/01
+🔑 Recherche clé : ('inter', 'pisa') parmi []
+❌ Résultat non trouvé pour inter-pisa 23/01
+
+📅 Traitement des matchs du 24/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-24
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-24) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-24
+🔑 Recherche clé : ('manchester city', 'wolves') parmi []
+❌ Résultat non trouvé pour manchester city-wolves 24/01
+🔑 Recherche clé : ('leverkusen', 'werder bremen') parmi []
+❌ Résultat non trouvé pour leverkusen-werder bremen 24/01
+🔑 Recherche clé : ('fiorentina', 'cagliari') parmi []
+❌ Résultat non trouvé pour fiorentina-cagliari 24/01
+🔑 Recherche clé : ('heidenheim', 'rb leipzig') parmi []
+❌ Résultat non trouvé pour heidenheim-rb leipzig 24/01
+🔑 Recherche clé : ('como', 'torino') parmi []
+❌ Résultat non trouvé pour como-torino 24/01
+🔑 Recherche clé : ('rennes', 'lorient') parmi []
+❌ Résultat non trouvé pour rennes-lorient 24/01
+🔑 Recherche clé : ('bournemouth', 'liverpool') parmi []
+❌ Résultat non trouvé pour bournemouth-liverpool 24/01
+🔑 Recherche clé : ('arouca', 'sporting cp') parmi []
+❌ Résultat non trouvé pour arouca-sporting cp 24/01
+
+📅 Traitement des matchs du 25/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-25
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-25) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-25
+🔑 Recherche clé : ('atletico madrid', 'mallorca') parmi []
+❌ Résultat non trouvé pour atlético madrid-mallorca 25/01
+🔑 Recherche clé : ('atalanta', 'parma') parmi []
+❌ Résultat non trouvé pour atalanta-parma 25/01
+🔑 Recherche clé : ('arsenal', 'manchester utd') parmi []
+❌ Résultat non trouvé pour arsenal-manchester utd 25/01
+🔑 Recherche clé : ('metz', 'lyon') parmi []
+❌ Résultat non trouvé pour metz-lyon 25/01
+🔑 Recherche clé : ('paris fc', 'angers') parmi []
+❌ Résultat non trouvé pour paris fc-angers 25/01
+🔑 Recherche clé : ('braga', 'alverca') parmi []
+❌ Résultat non trouvé pour braga-alverca 25/01
+🔑 Recherche clé : ('famalicao', 'tondela') parmi []
+❌ Résultat non trouvé pour famalicão-tondela 25/01
+🔑 Recherche clé : ('brentford', "nott'ham forest") parmi []
+❌ Résultat non trouvé pour brentford-nott'ham forest 25/01
+
+📅 Traitement des matchs du 26/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-26
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-26) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-26
+🔑 Recherche clé : ('porto', 'gil vicente fc') parmi []
+❌ Résultat non trouvé pour porto-gil vicente fc 26/01
+
+📅 Traitement des matchs du 31/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-31
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-31) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-31
+🔑 Recherche clé : ('elche', 'barcelona') parmi []
+❌ Résultat non trouvé pour elche-barcelona 31/01
+🔑 Recherche clé : ('hamburger sv', 'bayern munich') parmi []
+❌ Résultat non trouvé pour hamburger sv-bayern munich 31/01
+🔑 Recherche clé : ('chelsea', 'west ham') parmi []
+❌ Résultat non trouvé pour chelsea-west ham 31/01
+🔑 Recherche clé : ('leeds united', 'arsenal') parmi []
+❌ Résultat non trouvé pour leeds united-arsenal 31/01
+🔑 Recherche clé : ('levante', 'atletico madrid') parmi []
+❌ Résultat non trouvé pour levante-atlético madrid 31/01
+🔑 Recherche clé : ('rb leipzig', 'mainz 05') parmi []
+❌ Résultat non trouvé pour rb leipzig-mainz 05 31/01
+🔑 Recherche clé : ('napoli', 'fiorentina') parmi []
+❌ Résultat non trouvé pour napoli-fiorentina 31/01
+🔑 Recherche clé : ('liverpool', 'newcastle utd') parmi []
+❌ Résultat non trouvé pour liverpool-newcastle utd 31/01
+🔑 Recherche clé : ('hoffenheim', 'union berlin') parmi []
+❌ Résultat non trouvé pour hoffenheim-union berlin 31/01
+🔑 Recherche clé : ('paris fc', 'marseille') parmi []
+❌ Résultat non trouvé pour paris fc-marseille 31/01
+🔑 Recherche clé : ('lorient', 'nantes') parmi []
+❌ Résultat non trouvé pour lorient-nantes 31/01
+🔑 Recherche clé : ('brighton', 'everton') parmi []
+❌ Résultat non trouvé pour brighton-everton 31/01
+
+📅 Traitement des matchs du 01/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-01
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-01) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-01
+🔑 Recherche clé : ('real madrid', 'rayo vallecano') parmi []
+❌ Résultat non trouvé pour real madrid-rayo vallecano 01/02
+🔑 Recherche clé : ('us cremonese', 'inter') parmi []
+❌ Résultat non trouvé pour us cremonese-inter 01/02
+🔑 Recherche clé : ('dortmund', 'heidenheim') parmi []
+❌ Résultat non trouvé pour dortmund-heidenheim 01/02
+🔑 Recherche clé : ('parma', 'juventus') parmi []
+❌ Résultat non trouvé pour parma-juventus 01/02
+🔑 Recherche clé : ('manchester utd', 'fulham') parmi []
+❌ Résultat non trouvé pour manchester utd-fulham 01/02
+🔑 Recherche clé : ('strasbourg', 'paris s-g') parmi []
+❌ Résultat non trouvé pour strasbourg-paris s-g 01/02
+🔑 Recherche clé : ('tottenham', 'manchester city') parmi []
+❌ Résultat non trouvé pour tottenham-manchester city 01/02
+🔑 Recherche clé : ('stuttgart', 'freiburg') parmi []
+❌ Résultat non trouvé pour stuttgart-freiburg 01/02
+🔑 Recherche clé : ('toulouse', 'auxerre') parmi []
+❌ Résultat non trouvé pour toulouse-auxerre 01/02
+🔑 Recherche clé : ('betis', 'valencia') parmi []
+❌ Résultat non trouvé pour betis-valencia 01/02
+🔑 Recherche clé : ('torino', 'lecce') parmi []
+❌ Résultat non trouvé pour torino-lecce 01/02
+🔑 Recherche clé : ('lyon', 'lille') parmi []
+❌ Résultat non trouvé pour lyon-lille 01/02
+🔑 Recherche clé : ('tondela', 'benfica') parmi []
+❌ Résultat non trouvé pour tondela-benfica 01/02
+
+📅 Traitement des matchs du 30/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-30
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-30) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-30
+🔑 Recherche clé : ('lens', 'le havre') parmi []
+❌ Résultat non trouvé pour lens-le havre 30/01
+
+📅 Traitement des matchs du 02/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-02
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-02) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-02
+🔑 Recherche clé : ('sunderland', 'burnley') parmi []
+❌ Résultat non trouvé pour sunderland-burnley 02/02
+🔑 Recherche clé : ('avs futebol', 'braga') parmi []
+❌ Résultat non trouvé pour avs futebol-braga 02/02
+🔑 Recherche clé : ('casa pia', 'porto') parmi []
+❌ Résultat non trouvé pour casa pia-porto 02/02
+
+📅 Traitement des matchs du 27/01...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-01-27
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-01-27) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-01-27
+🔑 Recherche clé : ('st. pauli', 'rb leipzig') parmi []
+❌ Résultat non trouvé pour st. pauli-rb leipzig 27/01
+
+📅 Traitement des matchs du 08/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-08
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-08) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-08
+🔑 Recherche clé : ('paris s', 'g-marseille') parmi []
+❌ Résultat non trouvé pour paris s-g-marseille 08/02
+🔑 Recherche clé : ('bayern munich', 'hoffenheim') parmi []
+❌ Résultat non trouvé pour bayern munich-hoffenheim 08/02
+🔑 Recherche clé : ('valencia', 'real madrid') parmi []
+❌ Résultat non trouvé pour valencia-real madrid 08/02
+🔑 Recherche clé : ('sassuolo', 'inter') parmi []
+❌ Résultat non trouvé pour sassuolo-inter 08/02
+🔑 Recherche clé : ('juventus', 'lazio') parmi []
+❌ Résultat non trouvé pour juventus-lazio 08/02
+🔑 Recherche clé : ('atletico madrid', 'betis') parmi []
+❌ Résultat non trouvé pour atlético madrid-betis 08/02
+🔑 Recherche clé : ('bologna', 'parma') parmi []
+❌ Résultat non trouvé pour bologna-parma 08/02
+🔑 Recherche clé : ('athletic club', 'levante') parmi []
+❌ Résultat non trouvé pour athletic club-levante 08/02
+🔑 Recherche clé : ('braga', 'rio ave') parmi []
+❌ Résultat non trouvé pour braga-rio ave 08/02
+
+📅 Traitement des matchs du 07/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-07
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-07) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-07
+🔑 Recherche clé : ('arsenal', 'sunderland') parmi []
+❌ Résultat non trouvé pour arsenal-sunderland 07/02
+🔑 Recherche clé : ('manchester utd', 'tottenham') parmi []
+❌ Résultat non trouvé pour manchester utd-tottenham 07/02
+🔑 Recherche clé : ('real sociedad', 'elche') parmi []
+❌ Résultat non trouvé pour real sociedad-elche 07/02
+🔑 Recherche clé : ('nantes', 'lyon') parmi []
+❌ Résultat non trouvé pour nantes-lyon 07/02
+🔑 Recherche clé : ('wolves', 'chelsea') parmi []
+❌ Résultat non trouvé pour wolves-chelsea 07/02
+🔑 Recherche clé : ('wolfsburg', 'dortmund') parmi []
+❌ Résultat non trouvé pour wolfsburg-dortmund 07/02
+🔑 Recherche clé : ('lens', 'rennes') parmi []
+❌ Résultat non trouvé pour lens-rennes 07/02
+🔑 Recherche clé : ('rayo vallecano', 'roviedo') parmi []
+❌ Résultat non trouvé pour rayo vallecano-roviedo 07/02
+🔑 Recherche clé : ('fiorentina', 'torino') parmi []
+❌ Résultat non trouvé pour fiorentina-torino 07/02
+🔑 Recherche clé : ('freiburg', 'werder bremen') parmi []
+❌ Résultat non trouvé pour freiburg-werder bremen 07/02
+🔑 Recherche clé : ('st. pauli', 'stuttgart') parmi []
+❌ Résultat non trouvé pour st. pauli-stuttgart 07/02
+🔑 Recherche clé : ('estoril', 'tondela') parmi []
+❌ Résultat non trouvé pour estoril-tondela 07/02
+
+📅 Traitement des matchs du 09/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-09
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-09) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-09
+🔑 Recherche clé : ('atalanta', 'us cremonese') parmi []
+❌ Résultat non trouvé pour atalanta-us cremonese 09/02
+🔑 Recherche clé : ('roma', 'cagliari') parmi []
+❌ Résultat non trouvé pour roma-cagliari 09/02
+🔑 Recherche clé : ('villarreal', 'espanyol') parmi []
+❌ Résultat non trouvé pour villarreal-espanyol 09/02
+🔑 Recherche clé : ('famalicao', 'avs futebol') parmi []
+❌ Résultat non trouvé pour famalicão-avs futebol 09/02
+
+📅 Traitement des matchs du 06/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-06
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-06) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-06
+🔑 Recherche clé : ('metz', 'lille') parmi []
+❌ Résultat non trouvé pour metz-lille 06/02
+
+📅 Traitement des matchs du 11/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-11
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-11) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-11
+🔑 Recherche clé : ('manchester city', 'fulham') parmi []
+❌ Résultat non trouvé pour manchester city-fulham 11/02
+🔑 Recherche clé : ('crystal palace', 'burnley') parmi []
+❌ Résultat non trouvé pour crystal palace-burnley 11/02
+🔑 Recherche clé : ("nott'ham forest", 'wolves') parmi []
+❌ Résultat non trouvé pour nott'ham forest-wolves 11/02
+🔑 Recherche clé : ('sunderland', 'liverpool') parmi []
+❌ Résultat non trouvé pour sunderland-liverpool 11/02
+
+📅 Traitement des matchs du 14/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-14
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-14) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-14
+🔑 Recherche clé : ('real madrid', 'real sociedad') parmi []
+❌ Résultat non trouvé pour real madrid-real sociedad 14/02
+🔑 Recherche clé : ('werder bremen', 'bayern munich') parmi []
+❌ Résultat non trouvé pour werder bremen-bayern munich 14/02
+🔑 Recherche clé : ('leverkusen', 'st. pauli') parmi []
+❌ Résultat non trouvé pour leverkusen-st. pauli 14/02
+🔑 Recherche clé : ('stuttgart', 'koln') parmi []
+❌ Résultat non trouvé pour stuttgart-köln 14/02
+🔑 Recherche clé : ('marseille', 'strasbourg') parmi []
+❌ Résultat non trouvé pour marseille-strasbourg 14/02
+🔑 Recherche clé : ('como', 'fiorentina') parmi []
+❌ Résultat non trouvé pour como-fiorentina 14/02
+🔑 Recherche clé : ('hoffenheim', 'freiburg') parmi []
+❌ Résultat non trouvé pour hoffenheim-freiburg 14/02
+🔑 Recherche clé : ('lille', 'brest') parmi []
+❌ Résultat non trouvé pour lille-brest 14/02
+🔑 Recherche clé : ('vitoria', 'estrela') parmi []
+❌ Résultat non trouvé pour vitória-estrela 14/02
+
+📅 Traitement des matchs du 16/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-16
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-16) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-16
+🔑 Recherche clé : ('girona', 'barcelona') parmi []
+❌ Résultat non trouvé pour girona-barcelona 16/02
+
+📅 Traitement des matchs du 15/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-15
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-15) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-15
+🔑 Recherche clé : ('rb leipzig', 'wolfsburg') parmi []
+❌ Résultat non trouvé pour rb leipzig-wolfsburg 15/02
+🔑 Recherche clé : ('lyon', 'nice') parmi []
+❌ Résultat non trouvé pour lyon-nice 15/02
+🔑 Recherche clé : ('rayo vallecano', 'atletico madrid') parmi []
+❌ Résultat non trouvé pour rayo vallecano-atlético madrid 15/02
+🔑 Recherche clé : ('augsburg', 'heidenheim') parmi []
+❌ Résultat non trouvé pour augsburg-heidenheim 15/02
+🔑 Recherche clé : ('nacional', 'porto') parmi []
+❌ Résultat non trouvé pour nacional-porto 15/02
+🔑 Recherche clé : ('sporting cp', 'famalicao') parmi []
+❌ Résultat non trouvé pour sporting cp-famalicão 15/02
+🔑 Recherche clé : ('avs futebol', 'estoril') parmi []
+❌ Résultat non trouvé pour avs futebol-estoril 15/02
+
+📅 Traitement des matchs du 13/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-13
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-13) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-13
+🔑 Recherche clé : ('rennes', 'paris s-g') parmi []
+❌ Résultat non trouvé pour rennes-paris s-g 13/02
+🔑 Recherche clé : ('monaco', 'nantes') parmi []
+❌ Résultat non trouvé pour monaco-nantes 13/02
+🔑 Recherche clé : ('pisa', 'milan') parmi []
+❌ Résultat non trouvé pour pisa-milan 13/02
+🔑 Recherche clé : ('dortmund', 'mainz 05') parmi []
+❌ Résultat non trouvé pour dortmund-mainz 05 13/02
+🔑 Recherche clé : ('santa clara', 'benfica') parmi []
+❌ Résultat non trouvé pour santa clara-benfica 13/02
+
+📅 Traitement des matchs du 10/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-10
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-10) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-10
+🔑 Recherche clé : ('chelsea', 'leeds united') parmi []
+❌ Résultat non trouvé pour chelsea-leeds united 10/02
+🔑 Recherche clé : ('west ham', 'manchester utd') parmi []
+❌ Résultat non trouvé pour west ham-manchester utd 10/02
+
+📅 Traitement des matchs du 12/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-12
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-12) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-12
+🔑 Recherche clé : ('brentford', 'arsenal') parmi []
+❌ Résultat non trouvé pour brentford-arsenal 12/02
+
+📅 Traitement des matchs du 18/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-18
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-18) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-18
+🔑 Recherche clé : ('wolves', 'arsenal') parmi []
+❌ Résultat non trouvé pour wolves-arsenal 18/02
+🔑 Recherche clé : ('levante', 'villarreal') parmi []
+❌ Résultat non trouvé pour levante-villarreal 18/02
+
+📅 Traitement des matchs du 21/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-21
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-21) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-21
+🔑 Recherche clé : ('chelsea', 'burnley') parmi []
+❌ Résultat non trouvé pour chelsea-burnley 21/02
+🔑 Recherche clé : ('lecce', 'inter') parmi []
+❌ Résultat non trouvé pour lecce-inter 21/02
+🔑 Recherche clé : ('manchester city', 'newcastle utd') parmi []
+❌ Résultat non trouvé pour manchester city-newcastle utd 21/02
+🔑 Recherche clé : ('atletico madrid', 'espanyol') parmi []
+❌ Résultat non trouvé pour atlético madrid-espanyol 21/02
+🔑 Recherche clé : ('real sociedad', 'roviedo') parmi []
+❌ Résultat non trouvé pour real sociedad-roviedo 21/02
+🔑 Recherche clé : ('osasuna', 'real madrid') parmi []
+❌ Résultat non trouvé pour osasuna-real madrid 21/02
+🔑 Recherche clé : ('aston villa', 'leeds united') parmi []
+❌ Résultat non trouvé pour aston villa-leeds united 21/02
+🔑 Recherche clé : ('lens', 'monaco') parmi []
+❌ Résultat non trouvé pour lens-monaco 21/02
+🔑 Recherche clé : ('betis', 'rayo vallecano') parmi []
+❌ Résultat non trouvé pour betis-rayo vallecano 21/02
+🔑 Recherche clé : ('moreirense', 'sporting cp') parmi []
+❌ Résultat non trouvé pour moreirense-sporting cp 21/02
+🔑 Recherche clé : ('braga', 'vitoria') parmi []
+❌ Résultat non trouvé pour braga-vitória 21/02
+
+📅 Traitement des matchs du 22/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-22
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-22) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-22
+🔑 Recherche clé : ('milan', 'parma') parmi []
+❌ Résultat non trouvé pour milan-parma 22/02
+🔑 Recherche clé : ('roma', 'us cremonese') parmi []
+❌ Résultat non trouvé pour roma-us cremonese 22/02
+🔑 Recherche clé : ('tottenham', 'arsenal') parmi []
+❌ Résultat non trouvé pour tottenham-arsenal 22/02
+🔑 Recherche clé : ('crystal palace', 'wolves') parmi []
+❌ Résultat non trouvé pour crystal palace-wolves 22/02
+🔑 Recherche clé : ('villarreal', 'valencia') parmi []
+❌ Résultat non trouvé pour villarreal-valencia 22/02
+🔑 Recherche clé : ('heidenheim', 'stuttgart') parmi []
+❌ Résultat non trouvé pour heidenheim-stuttgart 22/02
+🔑 Recherche clé : ('angers', 'lille') parmi []
+❌ Résultat non trouvé pour angers-lille 22/02
+🔑 Recherche clé : ("nott'ham forest", 'liverpool') parmi []
+❌ Résultat non trouvé pour nott'ham forest-liverpool 22/02
+🔑 Recherche clé : ('celta vigo', 'mallorca') parmi []
+❌ Résultat non trouvé pour celta vigo-mallorca 22/02
+
+📅 Traitement des matchs du 20/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-20
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-20) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-20
+🔑 Recherche clé : ('athletic club', 'elche') parmi []
+❌ Résultat non trouvé pour athletic club-elche 20/02
+🔑 Recherche clé : ('sassuolo', 'hellas verona') parmi []
+❌ Résultat non trouvé pour sassuolo-hellas verona 20/02
+
+📅 Traitement des matchs du 23/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-23
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-23) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-23
+🔑 Recherche clé : ('fiorentina', 'pisa') parmi []
+❌ Résultat non trouvé pour fiorentina-pisa 23/02
+🔑 Recherche clé : ('bologna', 'udinese') parmi []
+❌ Résultat non trouvé pour bologna-udinese 23/02
+🔑 Recherche clé : ('famalicao', 'casa pia') parmi []
+❌ Résultat non trouvé pour famalicão-casa pia 23/02
+
+📅 Traitement des matchs du 28/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-28
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-28) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-28
+🔑 Recherche clé : ('le havre', 'paris s-g') parmi []
+❌ Résultat non trouvé pour le havre-paris s-g 28/02
+🔑 Recherche clé : ('liverpool', 'west ham') parmi []
+❌ Résultat non trouvé pour liverpool-west ham 28/02
+🔑 Recherche clé : ('barcelona', 'villarreal') parmi []
+❌ Résultat non trouvé pour barcelona-villarreal 28/02
+🔑 Recherche clé : ('como', 'lecce') parmi []
+❌ Résultat non trouvé pour como-lecce 28/02
+🔑 Recherche clé : ('inter', 'genoa') parmi []
+❌ Résultat non trouvé pour inter-genoa 28/02
+🔑 Recherche clé : ('monaco', 'angers') parmi []
+❌ Résultat non trouvé pour monaco-angers 28/02
+🔑 Recherche clé : ('hellas verona', 'napoli') parmi []
+❌ Résultat non trouvé pour hellas verona-napoli 28/02
+🔑 Recherche clé : ('hoffenheim', 'st. pauli') parmi []
+❌ Résultat non trouvé pour hoffenheim-st. pauli 28/02
+🔑 Recherche clé : ('leeds united', 'manchester city') parmi []
+❌ Résultat non trouvé pour leeds united-manchester city 28/02
+🔑 Recherche clé : ('roviedo', 'atletico madrid') parmi []
+❌ Résultat non trouvé pour roviedo-atlético madrid 28/02
+🔑 Recherche clé : ('leverkusen', 'mainz 05') parmi []
+❌ Résultat non trouvé pour leverkusen-mainz 05 28/02
+🔑 Recherche clé : ('dortmund', 'bayern munich') parmi []
+❌ Résultat non trouvé pour dortmund-bayern munich 28/02
+🔑 Recherche clé : ('newcastle utd', 'everton') parmi []
+❌ Résultat non trouvé pour newcastle utd-everton 28/02
+🔑 Recherche clé : ('bournemouth', 'sunderland') parmi []
+❌ Résultat non trouvé pour bournemouth-sunderland 28/02
+🔑 Recherche clé : ('werder bremen', 'heidenheim') parmi []
+❌ Résultat non trouvé pour werder bremen-heidenheim 28/02
+🔑 Recherche clé : ('burnley', 'brentford') parmi []
+❌ Résultat non trouvé pour burnley-brentford 28/02
+🔑 Recherche clé : ('nacional', 'braga') parmi []
+❌ Résultat non trouvé pour nacional-braga 28/02
+🔑 Recherche clé : ('vitoria', 'alverca') parmi []
+❌ Résultat non trouvé pour vitória-alverca 28/02
+
+📅 Traitement des matchs du 02/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-02
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-02) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-02
+🔑 Recherche clé : ('real madrid', 'getafe') parmi []
+❌ Résultat non trouvé pour real madrid-getafe 02/03
+🔑 Recherche clé : ('gil vicente fc', 'benfica') parmi []
+❌ Résultat non trouvé pour gil vicente fc-benfica 02/03
+
+📅 Traitement des matchs du 01/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-01
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-01) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-01
+🔑 Recherche clé : ('lille', 'nantes') parmi []
+❌ Résultat non trouvé pour lille-nantes 01/03
+🔑 Recherche clé : ('manchester utd', 'crystal palace') parmi []
+❌ Résultat non trouvé pour manchester utd-crystal palace 01/03
+🔑 Recherche clé : ('us cremonese', 'milan') parmi []
+❌ Résultat non trouvé pour us cremonese-milan 01/03
+🔑 Recherche clé : ('stuttgart', 'wolfsburg') parmi []
+❌ Résultat non trouvé pour stuttgart-wolfsburg 01/03
+🔑 Recherche clé : ('arsenal', 'chelsea') parmi []
+❌ Résultat non trouvé pour arsenal-chelsea 01/03
+🔑 Recherche clé : ('betis', 'sevilla') parmi []
+❌ Résultat non trouvé pour betis-sevilla 01/03
+
+📅 Traitement des matchs du 27/02...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-02-27
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-02-27) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-02-27
+🔑 Recherche clé : ('wolves', 'aston villa') parmi []
+❌ Résultat non trouvé pour wolves-aston villa 27/02
+🔑 Recherche clé : ('porto', 'arouca') parmi []
+❌ Résultat non trouvé pour porto-arouca 27/02
+🔑 Recherche clé : ('sporting cp', 'estoril') parmi []
+❌ Résultat non trouvé pour sporting cp-estoril 27/02
+
+📅 Traitement des matchs du 06/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-06
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-06) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-06
+🔑 Recherche clé : ('paris s', 'g-monaco') parmi []
+❌ Résultat non trouvé pour paris s-g-monaco 06/03
+🔑 Recherche clé : ('napoli', 'torino') parmi []
+❌ Résultat non trouvé pour napoli-torino 06/03
+🔑 Recherche clé : ('celta vigo', 'real madrid') parmi []
+❌ Résultat non trouvé pour celta vigo-real madrid 06/03
+🔑 Recherche clé : ('famalicao', 'arouca') parmi []
+❌ Résultat non trouvé pour famalicão-arouca 06/03
+
+📅 Traitement des matchs du 08/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-08
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-08) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-08
+🔑 Recherche clé : ('lens', 'metz') parmi []
+❌ Résultat non trouvé pour lens-metz 08/03
+🔑 Recherche clé : ('villarreal', 'elche') parmi []
+❌ Résultat non trouvé pour villarreal-elche 08/03
+🔑 Recherche clé : ('bologna', 'hellas verona') parmi []
+❌ Résultat non trouvé pour bologna-hellas verona 08/03
+🔑 Recherche clé : ('lille', 'lorient') parmi []
+❌ Résultat non trouvé pour lille-lorient 08/03
+🔑 Recherche clé : ('fiorentina', 'parma') parmi []
+❌ Résultat non trouvé pour fiorentina-parma 08/03
+🔑 Recherche clé : ('lyon', 'paris fc') parmi []
+❌ Résultat non trouvé pour lyon-paris fc 08/03
+🔑 Recherche clé : ('genoa', 'roma') parmi []
+❌ Résultat non trouvé pour genoa-roma 08/03
+🔑 Recherche clé : ('estrela', 'gil vicente fc') parmi []
+❌ Résultat non trouvé pour estrela-gil vicente fc 08/03
+
+📅 Traitement des matchs du 04/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-04
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-04) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-04
+🔑 Recherche clé : ('manchester city', "nott'ham forest") parmi []
+❌ Résultat non trouvé pour manchester city-nott'ham forest 04/03
+🔑 Recherche clé : ('brighton', 'arsenal') parmi []
+❌ Résultat non trouvé pour brighton-arsenal 04/03
+🔑 Recherche clé : ('rayo vallecano', 'roviedo') parmi []
+❌ Résultat non trouvé pour rayo vallecano-roviedo 04/03
+
+📅 Traitement des matchs du 07/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-07
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-07) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-07
+🔑 Recherche clé : ('juventus', 'pisa') parmi []
+❌ Résultat non trouvé pour juventus-pisa 07/03
+🔑 Recherche clé : ('atletico madrid', 'real sociedad') parmi []
+❌ Résultat non trouvé pour atlético madrid-real sociedad 07/03
+🔑 Recherche clé : ('rb leipzig', 'augsburg') parmi []
+❌ Résultat non trouvé pour rb leipzig-augsburg 07/03
+🔑 Recherche clé : ('atalanta', 'udinese') parmi []
+❌ Résultat non trouvé pour atalanta-udinese 07/03
+🔑 Recherche clé : ('athletic club', 'barcelona') parmi []
+❌ Résultat non trouvé pour athletic club-barcelona 07/03
+🔑 Recherche clé : ('cagliari', 'como') parmi []
+❌ Résultat non trouvé pour cagliari-como 07/03
+🔑 Recherche clé : ('heidenheim', 'hoffenheim') parmi []
+❌ Résultat non trouvé pour heidenheim-hoffenheim 07/03
+🔑 Recherche clé : ('koln', 'dortmund') parmi []
+❌ Résultat non trouvé pour köln-dortmund 07/03
+🔑 Recherche clé : ('osasuna', 'mallorca') parmi []
+❌ Résultat non trouvé pour osasuna-mallorca 07/03
+🔑 Recherche clé : ('alverca', 'avs futebol') parmi []
+❌ Résultat non trouvé pour alverca-avs futebol 07/03
+🔑 Recherche clé : ('estoril', 'casa pia') parmi []
+❌ Résultat non trouvé pour estoril-casa pia 07/03
+
+📅 Traitement des matchs du 03/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-03
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-03) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-03
+🔑 Recherche clé : ('wolves', 'liverpool') parmi []
+❌ Résultat non trouvé pour wolves-liverpool 03/03
+🔑 Recherche clé : ('everton', 'burnley') parmi []
+❌ Résultat non trouvé pour everton-burnley 03/03
+
+📅 Traitement des matchs du 09/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-09
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-09) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-09
+🔑 Recherche clé : ('espanyol', 'roviedo') parmi []
+❌ Résultat non trouvé pour espanyol-roviedo 09/03
+
+📅 Traitement des matchs du 14/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-14
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-14) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-14
+🔑 Recherche clé : ('arsenal', 'everton') parmi []
+❌ Résultat non trouvé pour arsenal-everton 14/03
+🔑 Recherche clé : ('real madrid', 'elche') parmi []
+❌ Résultat non trouvé pour real madrid-elche 14/03
+🔑 Recherche clé : ('napoli', 'lecce') parmi []
+❌ Résultat non trouvé pour napoli-lecce 14/03
+🔑 Recherche clé : ('dortmund', 'augsburg') parmi []
+❌ Résultat non trouvé pour dortmund-augsburg 14/03
+🔑 Recherche clé : ('hoffenheim', 'wolfsburg') parmi []
+❌ Résultat non trouvé pour hoffenheim-wolfsburg 14/03
+🔑 Recherche clé : ('inter', 'atalanta') parmi []
+❌ Résultat non trouvé pour inter-atalanta 14/03
+🔑 Recherche clé : ('eint frankfurt', 'heidenheim') parmi []
+❌ Résultat non trouvé pour eint frankfurt-heidenheim 14/03
+🔑 Recherche clé : ('west ham', 'manchester city') parmi []
+❌ Résultat non trouvé pour west ham-manchester city 14/03
+🔑 Recherche clé : ('atletico madrid', 'getafe') parmi []
+❌ Résultat non trouvé pour atlético madrid-getafe 14/03
+🔑 Recherche clé : ('leverkusen', 'bayern munich') parmi []
+❌ Résultat non trouvé pour leverkusen-bayern munich 14/03
+🔑 Recherche clé : ('udinese', 'juventus') parmi []
+❌ Résultat non trouvé pour udinese-juventus 14/03
+🔑 Recherche clé : ('monaco', 'brest') parmi []
+❌ Résultat non trouvé pour monaco-brest 14/03
+🔑 Recherche clé : ('chelsea', 'newcastle utd') parmi []
+❌ Résultat non trouvé pour chelsea-newcastle utd 14/03
+🔑 Recherche clé : ('lorient', 'lens') parmi []
+❌ Résultat non trouvé pour lorient-lens 14/03
+🔑 Recherche clé : ('burnley', 'bournemouth') parmi []
+❌ Résultat non trouvé pour burnley-bournemouth 14/03
+🔑 Recherche clé : ('arouca', 'benfica') parmi []
+❌ Résultat non trouvé pour arouca-benfica 14/03
+🔑 Recherche clé : ('gil vicente fc', 'alverca') parmi []
+❌ Résultat non trouvé pour gil vicente fc-alverca 14/03
+
+📅 Traitement des matchs du 15/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-15
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-15) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-15
+🔑 Recherche clé : ('liverpool', 'tottenham') parmi []
+❌ Résultat non trouvé pour liverpool-tottenham 15/03
+🔑 Recherche clé : ('barcelona', 'sevilla') parmi []
+❌ Résultat non trouvé pour barcelona-sevilla 15/03
+🔑 Recherche clé : ('strasbourg', 'paris fc') parmi []
+❌ Résultat non trouvé pour strasbourg-paris fc 15/03
+🔑 Recherche clé : ('manchester utd', 'aston villa') parmi []
+❌ Résultat non trouvé pour manchester utd-aston villa 15/03
+🔑 Recherche clé : ('porto', 'moreirense') parmi []
+❌ Résultat non trouvé pour porto-moreirense 15/03
+🔑 Recherche clé : ('avs futebol', 'santa clara') parmi []
+❌ Résultat non trouvé pour avs futebol-santa clara 15/03
+
+📅 Traitement des matchs du 13/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-13
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-13) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-13
+🔑 Recherche clé : ('marseille', 'auxerre') parmi []
+❌ Résultat non trouvé pour marseille-auxerre 13/03
+
+📅 Traitement des matchs du 16/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-16
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-16) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-16
+🔑 Recherche clé : ('brentford', 'wolves') parmi []
+❌ Résultat non trouvé pour brentford-wolves 16/03
+🔑 Recherche clé : ('rayo vallecano', 'levante') parmi []
+❌ Résultat non trouvé pour rayo vallecano-levante 16/03
+
+📅 Traitement des matchs du 20/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-20
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-20) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-20
+🔑 Recherche clé : ('lens', 'angers') parmi []
+❌ Résultat non trouvé pour lens-angers 20/03
+🔑 Recherche clé : ('cagliari', 'napoli') parmi []
+❌ Résultat non trouvé pour cagliari-napoli 20/03
+
+📅 Traitement des matchs du 22/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-22
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-22) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-22
+🔑 Recherche clé : ('rennes', 'metz') parmi []
+❌ Résultat non trouvé pour rennes-metz 22/03
+🔑 Recherche clé : ('barcelona', 'rayo vallecano') parmi []
+❌ Résultat non trouvé pour barcelona-rayo vallecano 22/03
+🔑 Recherche clé : ('como', 'pisa') parmi []
+❌ Résultat non trouvé pour como-pisa 22/03
+🔑 Recherche clé : ('atalanta', 'hellas verona') parmi []
+❌ Résultat non trouvé pour atalanta-hellas verona 22/03
+🔑 Recherche clé : ('roma', 'lecce') parmi []
+❌ Résultat non trouvé pour roma-lecce 22/03
+🔑 Recherche clé : ('newcastle utd', 'sunderland') parmi []
+❌ Résultat non trouvé pour newcastle utd-sunderland 22/03
+🔑 Recherche clé : ('fiorentina', 'inter') parmi []
+❌ Résultat non trouvé pour fiorentina-inter 22/03
+🔑 Recherche clé : ('celta vigo', 'alaves') parmi []
+❌ Résultat non trouvé pour celta vigo-alavés 22/03
+🔑 Recherche clé : ('alverca', 'sporting cp') parmi []
+❌ Résultat non trouvé pour alverca-sporting cp 22/03
+🔑 Recherche clé : ('estoril', 'rio ave') parmi []
+❌ Résultat non trouvé pour estoril-rio ave 22/03
+🔑 Recherche clé : ('aston villa', 'west ham') parmi []
+❌ Résultat non trouvé pour aston villa-west ham 22/03
+
+📅 Traitement des matchs du 21/03...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-03-21
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-03-21) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-03-21
+🔑 Recherche clé : ('milan', 'torino') parmi []
+❌ Résultat non trouvé pour milan-torino 21/03
+🔑 Recherche clé : ('juventus', 'sassuolo') parmi []
+❌ Résultat non trouvé pour juventus-sassuolo 21/03
+🔑 Recherche clé : ('dortmund', 'hamburger sv') parmi []
+❌ Résultat non trouvé pour dortmund- hamburger sv 21/03
+🔑 Recherche clé : ('nice', 'paris s-g') parmi []
+❌ Résultat non trouvé pour nice-paris s-g 21/03
+🔑 Recherche clé : ('fulham', 'burnley') parmi []
+❌ Résultat non trouvé pour fulham-burnley 21/03
+🔑 Recherche clé : ('heidenheim', 'leverkusen') parmi []
+❌ Résultat non trouvé pour heidenheim-leverkusen 21/03
+🔑 Recherche clé : ('bayern munich', 'union berlin') parmi []
+❌ Résultat non trouvé pour bayern munich-union berlin 21/03
+🔑 Recherche clé : ('benfica', 'vitoria') parmi []
+❌ Résultat non trouvé pour benfica-vitória 21/03
+🔑 Recherche clé : ('famalicao', 'nacional') parmi []
+❌ Résultat non trouvé pour famalicão-nacional 21/03
+🔑 Recherche clé : ('tondela', 'avs futebol') parmi []
+❌ Résultat non trouvé pour tondela-avs futebol 21/03
+🔑 Recherche clé : ('nice', 'paris s-g') parmi []
+❌ Résultat non trouvé pour nice-paris s-g 21/03
+
+📅 Traitement des matchs du 04/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-04
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-04) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-04
+🔑 Recherche clé : ('leverkusen', 'wolfsburg') parmi []
+❌ Résultat non trouvé pour leverkusen-wolfsburg 04/04
+🔑 Recherche clé : ('freiburg', 'bayern munich') parmi []
+❌ Résultat non trouvé pour freiburg-bayern munich 04/04
+🔑 Recherche clé : ('real sociedad', 'levante') parmi []
+❌ Résultat non trouvé pour real sociedad-levante 04/04
+🔑 Recherche clé : ('mallorca', 'real madrid') parmi []
+❌ Résultat non trouvé pour mallorca-real madrid 04/04
+🔑 Recherche clé : ('gladbach', 'heidenheim') parmi []
+❌ Résultat non trouvé pour gladbach-heidenheim 04/04
+🔑 Recherche clé : ('betis', 'espanyol') parmi []
+❌ Résultat non trouvé pour betis-espanyol 04/04
+🔑 Recherche clé : ('hoffenheim', 'mainz 05') parmi []
+❌ Résultat non trouvé pour hoffenheim-mainz 05 04/04
+🔑 Recherche clé : ('lazio', 'parma') parmi []
+❌ Résultat non trouvé pour lazio-parma 04/04
+🔑 Recherche clé : ('strasbourg', 'nice') parmi []
+❌ Résultat non trouvé pour strasbourg-nice 04/04
+🔑 Recherche clé : ('hellas verona', 'fiorentina') parmi []
+❌ Résultat non trouvé pour hellas verona-fiorentina 04/04
+🔑 Recherche clé : ('porto', 'famalicao') parmi []
+❌ Résultat non trouvé pour porto-famalicão 04/04
+🔑 Recherche clé : ('moreirense', 'braga') parmi []
+❌ Résultat non trouvé pour moreirense-braga 04/04
+
+📅 Traitement des matchs du 03/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-03
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-03) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-03
+🔑 Recherche clé : ('rayo vallecano', 'elche') parmi []
+❌ Résultat non trouvé pour rayo vallecano-elche 03/04
+🔑 Recherche clé : ('paris s', 'g-toulouse') parmi []
+❌ Résultat non trouvé pour paris s-g-toulouse 03/04
+🔑 Recherche clé : ('gil vicente fc', 'avs futebol') parmi []
+❌ Résultat non trouvé pour gil vicente fc-avs futebol 03/04
+🔑 Recherche clé : ('sporting cp', 'santa clara') parmi []
+❌ Résultat non trouvé pour sporting cp-santa clara 03/04
+🔑 Recherche clé : ('vitoria', 'tondela') parmi []
+❌ Résultat non trouvé pour vitória-tondela 03/04
+
+📅 Traitement des matchs du 06/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-06
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-06) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-06
+🔑 Recherche clé : ('juventus', 'genoa') parmi []
+❌ Résultat non trouvé pour juventus-genoa 06/04
+🔑 Recherche clé : ('udinese', 'como') parmi []
+❌ Résultat non trouvé pour udinese-como 06/04
+🔑 Recherche clé : ('lecce', 'atalanta') parmi []
+❌ Résultat non trouvé pour lecce-atalanta 06/04
+🔑 Recherche clé : ('casa pia', 'benfica') parmi []
+❌ Résultat non trouvé pour casa pia-benfica 06/04
+
+📅 Traitement des matchs du 05/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-05
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-05) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-05
+🔑 Recherche clé : ('inter', 'roma') parmi []
+❌ Résultat non trouvé pour inter-roma 05/04
+🔑 Recherche clé : ('angers', 'lyon') parmi []
+❌ Résultat non trouvé pour angers-lyon 05/04
+🔑 Recherche clé : ('us cremonese', 'bologna') parmi []
+❌ Résultat non trouvé pour us cremonese-bologna 05/04
+
+📅 Traitement des matchs du 10/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-10
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-10) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-10
+🔑 Recherche clé : ('marseille', 'metz') parmi []
+❌ Résultat non trouvé pour marseille-metz 10/04
+🔑 Recherche clé : ('real madrid', 'girona') parmi []
+❌ Résultat non trouvé pour real madrid-girona 10/04
+🔑 Recherche clé : ('roma', 'pisa') parmi []
+❌ Résultat non trouvé pour roma-pisa 10/04
+🔑 Recherche clé : ('west ham', 'wolves') parmi []
+❌ Résultat non trouvé pour west ham-wolves 10/04
+🔑 Recherche clé : ('famalicao', 'moreirense') parmi []
+❌ Résultat non trouvé pour famalicão-moreirense 10/04
+
+📅 Traitement des matchs du 11/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-11
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-11) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-11
+🔑 Recherche clé : ('barcelona', 'espanyol') parmi []
+❌ Résultat non trouvé pour barcelona-espanyol 11/04
+🔑 Recherche clé : ('milan', 'udinese') parmi []
+❌ Résultat non trouvé pour milan-udinese 11/04
+🔑 Recherche clé : ('st. pauli', 'bayern munich') parmi []
+❌ Résultat non trouvé pour st. pauli-bayern munich 11/04
+🔑 Recherche clé : ('rennes', 'angers') parmi []
+❌ Résultat non trouvé pour rennes-angers 11/04
+🔑 Recherche clé : ('arsenal', 'bournemouth') parmi []
+❌ Résultat non trouvé pour arsenal-bournemouth 11/04
+🔑 Recherche clé : ('rb leipzig', 'gladbach') parmi []
+❌ Résultat non trouvé pour rb leipzig-gladbach 11/04
+🔑 Recherche clé : ('liverpool', 'fulham') parmi []
+❌ Résultat non trouvé pour liverpool-fulham 11/04
+🔑 Recherche clé : ('burnley', 'brighton') parmi []
+❌ Résultat non trouvé pour burnley-brighton 11/04
+🔑 Recherche clé : ('real sociedad', 'alaves') parmi []
+❌ Résultat non trouvé pour real sociedad-alavés 11/04
+🔑 Recherche clé : ('torino', 'hellas verona') parmi []
+❌ Résultat non trouvé pour torino-hellas verona 11/04
+🔑 Recherche clé : ('estrela', 'sporting cp') parmi []
+❌ Résultat non trouvé pour estrela-sporting cp 11/04
+🔑 Recherche clé : ('avs futebol', 'vitoria') parmi []
+❌ Résultat non trouvé pour avs futebol-vitória 11/04
+🔑 Recherche clé : ('santa clara', 'rio ave') parmi []
+❌ Résultat non trouvé pour santa clara-rio ave 11/04
+
+📅 Traitement des matchs du 12/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-12
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-12) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-12
+🔑 Recherche clé : ('stuttgart', 'hamburger sv') parmi []
+❌ Résultat non trouvé pour stuttgart- hamburger sv 12/04
+🔑 Recherche clé : ('celta vigo', 'roviedo') parmi []
+❌ Résultat non trouvé pour celta vigo-roviedo 12/04
+🔑 Recherche clé : ('parma', 'napoli') parmi []
+❌ Résultat non trouvé pour parma-napoli 12/04
+🔑 Recherche clé : ('lyon', 'lorient') parmi []
+❌ Résultat non trouvé pour lyon-lorient 12/04
+🔑 Recherche clé : ('bologna', 'lecce') parmi []
+❌ Résultat non trouvé pour bologna-lecce 12/04
+🔑 Recherche clé : ('braga', 'arouca') parmi []
+❌ Résultat non trouvé pour braga-arouca 12/04
+🔑 Recherche clé : ('estoril', 'porto') parmi []
+❌ Résultat non trouvé pour estoril-porto 12/04
+
+📅 Traitement des matchs du 13/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-13
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-13) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-13
+🔑 Recherche clé : ('manchester utd', 'leeds united') parmi []
+❌ Résultat non trouvé pour manchester utd-leeds united 13/04
+
+📅 Traitement des matchs du 19/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-19
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-19) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-19
+🔑 Recherche clé : ('paris s', 'g-lyon') parmi []
+❌ Résultat non trouvé pour paris s-g-lyon 19/04
+🔑 Recherche clé : ('bayern munich', 'stuttgart') parmi []
+❌ Résultat non trouvé pour bayern munich-stuttgart 19/04
+🔑 Recherche clé : ('juventus', 'bologna') parmi []
+❌ Résultat non trouvé pour juventus-bologna 19/04
+🔑 Recherche clé : ("nott'ham forest", 'burnley') parmi []
+❌ Résultat non trouvé pour nott'ham forest-burnley 19/04
+🔑 Recherche clé : ('monaco', 'auxerre') parmi []
+❌ Résultat non trouvé pour monaco-auxerre 19/04
+🔑 Recherche clé : ('hellas verona', 'milan') parmi []
+❌ Résultat non trouvé pour hellas verona-milan 19/04
+🔑 Recherche clé : ('freiburg', 'heidenheim') parmi []
+❌ Résultat non trouvé pour freiburg-heidenheim 19/04
+🔑 Recherche clé : ('aston villa', 'sunderland') parmi []
+❌ Résultat non trouvé pour aston villa-sunderland 19/04
+🔑 Recherche clé : ('manchester city', 'arsenal') parmi []
+❌ Résultat non trouvé pour manchester city-arsenal 19/04
+🔑 Recherche clé : ('porto', 'tondela') parmi []
+❌ Résultat non trouvé pour porto-tondela 19/04
+🔑 Recherche clé : ('braga', 'famalicao') parmi []
+❌ Résultat non trouvé pour braga-famalicão 19/04
+
+📅 Traitement des matchs du 17/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-17
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-17) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-17
+🔑 Recherche clé : ('inter', 'cagliari') parmi []
+❌ Résultat non trouvé pour inter-cagliari 17/04
+🔑 Recherche clé : ('lens', 'toulouse') parmi []
+❌ Résultat non trouvé pour lens-toulouse 17/04
+🔑 Recherche clé : ('sassuolo', 'como') parmi []
+❌ Résultat non trouvé pour sassuolo-como 17/04
+🔑 Recherche clé : ('rio ave', 'avs futebol') parmi []
+❌ Résultat non trouvé pour rio ave-avs futebol 17/04
+
+📅 Traitement des matchs du 18/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-18
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-18) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-18
+🔑 Recherche clé : ('leverkusen', 'augsburg') parmi []
+❌ Résultat non trouvé pour leverkusen-augsburg 18/04
+🔑 Recherche clé : ('lille', 'nice') parmi []
+❌ Résultat non trouvé pour lille-nice 18/04
+🔑 Recherche clé : ('leeds united', 'wolves') parmi []
+❌ Résultat non trouvé pour leeds united-wolves 18/04
+🔑 Recherche clé : ('napoli', 'lazio') parmi []
+❌ Résultat non trouvé pour napoli-lazio 18/04
+🔑 Recherche clé : ('lorient', 'marseille') parmi []
+❌ Résultat non trouvé pour lorient-marseille 18/04
+🔑 Recherche clé : ('newcastle utd', 'bournemouth') parmi []
+❌ Résultat non trouvé pour newcastle utd-bournemouth 18/04
+
+📅 Traitement des matchs du 21/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-21
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-21) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-21
+🔑 Recherche clé : ('real madrid', 'alaves') parmi []
+❌ Résultat non trouvé pour real madrid-alavés 21/04
+🔑 Recherche clé : ('real madrid', 'alaves') parmi []
+❌ Résultat non trouvé pour real madrid-alavés 21/04
+🔑 Recherche clé : ('athletic club', 'osasuna') parmi []
+❌ Résultat non trouvé pour athletic club-osasuna 21/04
+
+📅 Traitement des matchs du 22/04...
+🌐 Scraping FBRef : https://fbref.com/en/matches/2026-04-22
+❌ Erreur FBRef (https://fbref.com/en/matches/2026-04-22) : 403 Client Error: Forbidden for url: https://fbref.com/en/matches/2026-04-22
+🔑 Recherche clé : ('barcelona', 'celta vigo') parmi []
+❌ Résultat non trouvé pour barcelona-celta vigo 22/04
+🔑 Recherche clé : ('paris s', 'g-nantes') parmi []
+❌ Résultat non trouvé pour paris s-g-nantes 22/04
+
+Mises à jour terminées : 0 matchs complétés.
+
+=== Étape 3 : Calcul des statistiques et génération des graphiques ===
+✅ Rapport texte généré : results/statistics_report.txt
+✅ Résumé CSV généré : results/statistics_summary.csv
+📊 Graphiques générés dans results/graphs/
